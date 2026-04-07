@@ -99,5 +99,154 @@
         "publishedAt": "2026-04-06T04:25:41Z"
       }
     ]
+  },
+  "2026-04-08": {
+    "display": "2026年04月08日",
+    "articles": [
+      {
+        "title": "大手テック企業は新しいAIモデルがサイバー攻撃に悪用されやすいと認識しているが、それでもリリースを計画している",
+        "body": "AIおよび政府関係者がJim VandeHeiに語ったところによると、テック企業は大規模な複雑なシステムへのハッキングに非常に効果的なモデルを展開する予定だという。",
+        "category": "規制・政策",
+        "url": "https://dailycaller.com/2026/04/06/big-tech-knows-new-ai-models-ripe-for-cyberattacks-but-plans-to-release-them-anyway/",
+        "source": "The Daily Caller",
+        "publishedAt": "2026-04-06T17:36:51Z"
+      },
+      {
+        "title": "大規模言語モデルにおける感情概念とその機能",
+        "body": "大規模言語モデル（LLM）は時として感情的な反応を示すように見えることがある。我々はClaude Sonnet 4.5においてこれがなぜ起こるのかを調査し、アライメントに関連する行動への影響を探る。我々は感情概念の内部表現を発見し、それがエンコードしている内容を明らかにした…",
+        "category": "研究",
+        "url": "https://transformer-circuits.pub/2026/emotions/index.html",
+        "source": "Transformer-circuits.pub",
+        "publishedAt": "2026-04-06T05:47:01Z"
+      },
+      {
+        "title": "イーロン・マスクがバイラルなX投稿でテスラFSDの安全性データを拡散、人間より7倍安全と主張",
+        "body": "イーロン・マスクは月曜日、テスラのフルセルフドライビング（監視付き）技術にスポットライトを当て、このシステムが米国の平均的な人間ドライバーよりも約7倍安全であることを示すデータを再投稿し、自動運転車普及のペースについて新たな議論を引き起こした。",
+        "category": "応用技術",
+        "url": "https://www.ibtimes.com.au/elon-musk-amplifies-tesla-fsd-safety-data-7x-safer-humans-viral-x-post-1865597",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-06T17:50:46Z"
+      },
+      {
+        "title": "バイラルなX投稿がシンギュラリティ接近の中でAnthropicの「ウォーク」なAI安全性を批判、業界に再考を促す",
+        "body": "Anthropicが「ウォークな迷路」と欠陥のある道徳的フレームワークのせいで「人類に敵対する」AIを構築していると警告するバイラルなX投稿が、人工知能の制御を巡るハイステークスな戦いについて新たな議論を引き起こした。",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/viral-x-post-slams-anthropics-woke-ai-safety-singularity-nears-sparking-industry-reckoning-1865504",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-06T02:32:32Z"
+      },
+      {
+        "title": "サム・アルトマンはAI超知能は非常に大きな問題であり「ニューディール」が必要だと発言—批評家はOpenAIの政策アイデアは「規制ニヒリズム」の隠れ蓑だと指摘",
+        "body": "OpenAIのAI経済に関する包括的なビジョンは、公共富裕ファンドからより短い週労働時間まで多岐にわたるが、批評家は馴染みのあるアイデアを挙げているだけで行動への明確な道筋を示していないと指摘している。",
+        "category": "人物発言",
+        "url": "https://fortune.com/2026/04/06/sam-altman-says-ai-superintelligence-is-so-big-that-we-need-a-new-deal-critics-say-openais-policy-ideas-are-a-cover-for-regulatory-nihilism/",
+        "source": "Fortune",
+        "publishedAt": "2026-04-06T21:27:16Z"
+      },
+      {
+        "title": "サム・アルトマンの大きなAI問題を解決する大きな提案はジェイミー・ダイモンに似ている：週4日勤務と彼のような富裕層への大きな新税",
+        "body": "OpenAIは月曜日、AIからの企業所得を規制し課税するための政策提案を概説した文書を発表した。",
+        "category": "人物発言",
+        "url": "https://fortune.com/2026/04/06/sam-altmans-capital-gains-taxes-4-day-workweek/",
+        "source": "Fortune",
+        "publishedAt": "2026-04-06T21:14:16Z"
+      },
+      {
+        "title": "「フレームワークがすべて」：AIに関する連邦基準を形作るためのアドボカシー攻勢が始まる",
+        "body": "ホワイトハウスが人工知能に関する国家フレームワークを法典化するバトンを議会に渡した今、アドボカシー攻勢が進行中である... 続きを読む この投稿「フレームワークがすべて」：AIに関する連邦基準を形作るためのアドボカシー攻勢が始まるは最初に掲載された…",
+        "category": "規制・政策",
+        "url": "https://www.dailysignal.com/2026/04/06/the-framework-is-everything-advocacy-blitz-begins-to-shape-federal-standard-on-ai/",
+        "source": "Daily Signal",
+        "publishedAt": "2026-04-06T17:00:00Z"
+      },
+      {
+        "title": "OpenAI CEOがAI「超知能」のリスクと利益に備えるよう米国に呼びかけ",
+        "body": "暗号資産業界はサイバーセキュリティリスクの増大に直面している。AIツールがソフトウェアの脆弱性を悪用するためのコストとスキルを低下させており、昨年は14億ドル以上の資産が盗まれた。",
+        "category": "人物発言",
+        "url": "https://www.coindesk.com/tech/2026/04/06/openai-ceo-urges-u-s-to-prepare-for-ai-superintelligence-risks-and-gains",
+        "source": "CoinDesk",
+        "publishedAt": "2026-04-06T15:47:44Z"
+      },
+      {
+        "title": "OpenAIがロボット税、公共富裕ファンド、週4日勤務を提唱",
+        "body": "サム・アルトマンの13ページの政策青写真「知能時代の産業政策」は、自動発動するセーフティネット、暴走AIの封じ込めプレイブック、AI主導の成長からの市民への直接配当を提案している。彼はAxiosに対し、これは出発点であり、既定路線ではないと語った。",
+        "category": "企業動向",
+        "url": "https://thenextweb.com/news/openai-robot-taxes-wealth-fund-superintelligence-policy/",
+        "source": "The Next Web",
+        "publishedAt": "2026-04-06T13:05:09Z"
+      },
+      {
+        "title": "バーニー・サンダースの新しく必要で大胆な行動：AIオリガルヒへの挑戦",
+        "body": "昨年の今頃、バーニー・サンダース上院議員は何千人もの人々の前でスピーチを行い、彼が正しく「オリガルヒ」と呼ぶアメリカのビジネスと政治を支配する勢力を非難していた。しかし今年、サンダースの最も注目すべき動きは座って…",
+        "category": "規制・政策",
+        "url": "https://newrepublic.com/article/208635/bernie-sanders-ai-oligarchs",
+        "source": "The New Republic",
+        "publishedAt": "2026-04-06T12:49:27Z"
+      },
+      {
+        "title": "ドイツのAI強豪企業：2026年にイノベーションをリードするトップ10企業",
+        "body": "ベルリン — ドイツの人工知能セクターは2026年にヨーロッパで最もダイナミックなテックエコシステムの一つとして急成長し、約1,000のAIスタートアップが数十億ドルの資金を調達し、言語モデル、防衛システム、生成画像などでブレークスルーを達成している…",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/germanys-ai-powerhouses-top-10-companies-leading-innovation-2026-1865559",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-06T11:16:34Z"
+      },
+      {
+        "title": "ロサンゼルスが主要なAIハブとして台頭、2026年にイノベーションをリードする10の注目企業",
+        "body": "ロサンゼルス — かつてはハリウッドの華やかさとエンターテインメントで主に知られていたロサンゼルスは、2026年に人工知能イノベーションの繁栄する中心地としての地位を固め、最先端を融合させた野心的なスタートアップに人材、投資を引き付けている…",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/los-angeles-emerges-major-ai-hub-10-standout-companies-leading-innovation-2026-1865508",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-06T02:41:54Z"
+      },
+      {
+        "title": "NVIDIA（NVDA）は2026年もまだ買うべき最良のAI株か？",
+        "body": "我々は億万長者ケン・グリフィンによるベスト株10銘柄を取り上げました。NVIDIA（NASDAQ:NVDA）は#1にランクインしています（ケン・グリフィンによるベスト株5銘柄を参照…",
+        "category": "企業動向",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-still-best-ai-124721952.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-04-06T12:47:21Z"
+      },
+      {
+        "title": "RoboSenseが予想を上回り、ロボティクス成長により初の四半期黒字を達成",
+        "body": "RoboSense Technology Co., Ltd.（「RoboSense」または「当社」；銘柄コード：2498.HK）は、AI駆動のロボティクス技術企業のパイオニアであり…",
+        "category": "応用技術",
+        "url": "https://en.antaranews.com/news/411257/robosense-beat-expectations-achieved-first-ever-quarterly-profit-on-strong-robotics-growth",
+        "source": "Antaranews.com",
+        "publishedAt": "2026-04-06T04:22:07Z"
+      },
+      {
+        "title": "データセンターチップ市場は2032年までに6,876.5億ドル規模に - MarketsandMarkets™による独占レポート",
+        "body": "フロリダ州デルレイビーチ、2026年4月6日 /PRNewswire/ -- MarketsandMarkets™によると、データセンターチップ市場は2026年の2,831.6億ドルから2032年までに6,876.5億ドルに達すると予想され、予測期間中のCAGRは15.9%を記録する。170を閲覧…",
+        "category": "その他",
+        "url": "https://www.prnewswire.co.uk/news-releases/data-center-chip-market-worth-687-65-billion-by-2032---exclusive-report-by-marketsandmarkets-302734630.html",
+        "source": "PR Newswire UK",
+        "publishedAt": "2026-04-06T14:15:00Z"
+      },
+      {
+        "title": "生成AIサーバー市場は2030年までに4,486億ドル規模に - MarketsandMarkets™による独占レポート",
+        "body": "フロリダ州デルレイビーチ、2026年4月6日 /PRNewswire/ -- MarketsandMarkets™によると、生成AIサーバー市場は2025年の1,039.2億ドルから2030年までに4,486億ドルに達すると予想され、予測期間中のCAGRは34.0%を記録する。閲覧…",
+        "category": "その他",
+        "url": "https://www.prnewswire.co.uk/news-releases/generative-ai-server-market-worth-448-60-billion-by-2030---exclusive-report-by-marketsandmarkets-302734594.html",
+        "source": "PR Newswire UK",
+        "publishedAt": "2026-04-06T14:01:00Z"
+      },
+      {
+        "title": "「シリコンフォトニクスは次世代AIインフラの中核」：光ベースチップがAIの増大するボトルネックをいかに解決できるか",
+        "body": "シリコンフォトニクスのパイオニアが、光ベースの技術がいかにAI、コンピューティング、データインフラを再形成できるかを説明する。",
+        "category": "その他",
+        "url": "https://www.techradar.com/pro/silicon-photonics-is-central-to-next-generation-ai-infrastructure-how-light-based-chips-could-solve-ais-growing-bottlenecks",
+        "source": "TechRadar",
+        "publishedAt": "2026-04-06T11:35:00Z"
+      },
+      {
+        "title": "オーストラリアへのAI投資：データセンターが成長を牽引、しかしそれで十分か？",
+        "body": "データセンターはこの10年のインフラブームである。しかし、投資のどれだけが実際に国内に留まるのか？",
+        "category": "その他",
+        "url": "https://www.smh.com.au/technology/for-every-100-in-data-centres-80-leaves-australia-almost-immediately-20260331-p5zkb5.html",
+        "source": "The Sydney Morning Herald",
+        "publishedAt": "2026-04-06T04:25:41Z"
+      }
+    ]
   }
 }

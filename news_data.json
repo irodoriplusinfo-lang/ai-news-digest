@@ -248,5 +248,146 @@
         "publishedAt": "2026-04-06T04:25:41Z"
       }
     ]
+  },
+  "2026-04-09": {
+    "display": "2026年04月09日",
+    "articles": [
+      {
+        "title": "AIエージェントセキュリティスタートアップTrent AIが1,300万ドルの資金調達で事業開始",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/04/07/ai-agent-security-startup-trent-ai-launches-13m-funding/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-07T13:00:21Z"
+      },
+      {
+        "title": "この新しいチップは1300°F（700°C）でも動作し、AIを永遠に変える可能性がある",
+        "body": "",
+        "category": "研究",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm",
+        "source": "Science Daily",
+        "publishedAt": "2026-04-07T05:32:38Z"
+      },
+      {
+        "title": "IntelがTeslaおよびSpaceXとTerafabで提携",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.nextbigfuture.com/2026/04/intel-partners-with-tesla-and-spacex-on-terafab.html",
+        "source": "Next Big Future",
+        "publishedAt": "2026-04-07T14:07:58Z"
+      },
+      {
+        "title": "ダイジェスト：OpenAIがTBPNを買収、CNNがエージェンティックインフラを構築、SpaceXがIPOでGrokを義務化？",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.exchangewire.com/blog/2026/04/07/digest-openai-buys-tbpn-spacex-to-mandate-grok-in-ipo/",
+        "source": "ExchangeWire",
+        "publishedAt": "2026-04-07T08:52:36Z"
+      },
+      {
+        "title": "Anthropicと米国政府の紛争がAIガバナンス、リスク、コントロールをめぐるより深い亀裂を露呈",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://siliconangle.com/2026/04/07/anthropics-dispute-us-government-exposes-deeper-rifts-ai-governance-risk-control/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-07T18:40:07Z"
+      },
+      {
+        "title": "OpenAI、AIが「給与減少なしの」週4日勤務を可能にすると発言 — ただし雇用と富は危機にさらされると警告",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://www.techradar.com/ai-platforms-assistants/openai/openai-says-ai-could-mean-a-4-day-week-with-no-loss-in-pay-but-warns-jobs-and-wealth-are-at-risk",
+        "source": "TechRadar",
+        "publishedAt": "2026-04-07T15:00:00Z"
+      },
+      {
+        "title": "AIの「ビッグ・タバコ」の瞬間が近づいている",
+        "body": "",
+        "category": "規制・政策",
+        "url": "http://nymag.com/intelligencer/article/why-did-openai-buy-a-podcast.html",
+        "source": "New York Magazine",
+        "publishedAt": "2026-04-07T14:00:00Z"
+      },
+      {
+        "title": "エージェンティックAIスタートアップNeuBirdが1,930万ドルを調達、人間のサイト信頼性エンジニアをアラート疲れから救う",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/04/07/agentic-ai-startup-neubird-raises-19-3m-help-human-site-reliability-engineers-rise-ashes-alert-fatigue/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-07T05:55:42Z"
+      },
+      {
+        "title": "2026年日本の注目AIスタートアップ10社：Sakana AIが生成モデルとロボティクスブームの急成長をリード",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/10-rising-ai-startups-japan-2026-sakana-ai-leads-surge-generative-models-robotics-boom-1865637",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-07T05:32:20Z"
+      },
+      {
+        "title": "2026年メルボルンの注目AIスタートアップ10社：ヘルススクライブから法務テックまで、オーストラリアのAIブームを牽引",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/10-rising-ai-startups-melbourne-2026-health-scribes-legal-tech-powering-australias-ai-boom-1865630",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-07T05:17:48Z"
+      },
+      {
+        "title": "Intelがイーロン・マスクのTerafabチップ製造イニシアチブに参加",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/04/07/intel-joins-elon-musks-terafab-chip-manufacturing-initiative/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-07T20:25:49Z"
+      },
+      {
+        "title": "IntelがマスクのTerafab AIチッププロジェクトに参加、ヒューマノイドおよびデータセンター目標を推進",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.channelnewsasia.com/business/intel-joins-musks-terafab-ai-chip-project-power-humanoid-data-center-goals-6041431",
+        "source": "CNA",
+        "publishedAt": "2026-04-07T13:29:18Z"
+      },
+      {
+        "title": "Intelがメガファブの妄想に参加し、イーロンの現実歪曲フィールドに囚われる",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.theregister.com/2026/04/07/intel_elon_space_delusion/",
+        "source": "Theregister.com",
+        "publishedAt": "2026-04-07T19:36:48Z"
+      },
+      {
+        "title": "Intelがイーロン・マスクのTerafabチッププロジェクトに参画 | TechCrunch",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+        "source": "TechCrunch",
+        "publishedAt": "2026-04-07T18:11:13Z"
+      },
+      {
+        "title": "Anthropicが売上高ランレート300億ドルに達し、GoogleおよびBroadcomと過去最大のコンピュート契約を締結",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://thenextweb.com/news/anthropic-google-broadcom-compute-deal/",
+        "source": "The Next Web",
+        "publishedAt": "2026-04-07T06:00:36Z"
+      },
+      {
+        "title": "Meta株が2026年に570ドル以下に下落：投資家はAIの下落を買うべきか、それとも決算前に売るべきか？",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/meta-stock-dips-below-570-2026-should-investors-buy-ai-dip-sell-ahead-earnings-1865702",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-07T15:00:45Z"
+      },
+      {
+        "title": "AIが私たちの首元に迫る今、ラッダイト・ルネサンスの時だ",
+        "body": "",
+        "category": "その他",
+        "url": "https://www.thenation.com/article/activism/ai-luddites-bernie-sanders/",
+        "source": "Thenation.com",
+        "publishedAt": "2026-04-07T09:00:00Z"
+      }
+    ]
   }
 }

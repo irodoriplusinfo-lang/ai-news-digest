@@ -389,5 +389,106 @@
         "publishedAt": "2026-04-07T09:00:00Z"
       }
     ]
+  },
+  "2026-04-10": {
+    "display": "2026年04月10日",
+    "articles": [
+      {
+        "title": "MetaのMuse Sparkが登場 – クローズドソースで提供",
+        "body": "要約：MetaはMuse Sparkをリリースした。これはMeta Superintelligence Labsからの最初のモデルであり、同ラボはScale AIの株式を143億ドルで取得した後、Alexandr Wang氏の下で組織されたユニットである。9ヶ月かけてゼロから再構築されたこのモデルは、ネイティブにマルチ…",
+        "category": "モデル発表",
+        "url": "https://thenextweb.com/news/meta-muse-spark-msl-first-model/",
+        "source": "The Next Web",
+        "publishedAt": "2026-04-08T20:09:31Z"
+      },
+      {
+        "title": "Applied Digital、2026年度第3四半期の業績を発表",
+        "body": "テキサス州ダラス、2026年4月8日（GLOBE NEWSWIRE）-- Applied Digital Corporation（Nasdaq: APLD）（以下「Applied Digital」または「当社」）は、人工知能向けの高性能で持続可能に設計されたデータセンターおよびコロケーションサービスの設計者、建設者、運営者として…",
+        "category": "企業動向",
+        "url": "https://www.globenewswire.com/news-release/2026/04/08/3270506/0/en/Applied-Digital-Reports-Fiscal-Third-Quarter-2026-Results.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-08T20:05:00Z"
+      },
+      {
+        "title": "今日のトップAIプラットフォームを支える収益モデル",
+        "body": "かつて1時間かかっていたToDoリストが、今ではプロンプト1つで済む。PYMNTS Intelligenceによると、米国消費者の6割以上が過去1年間に専用の人工知能プラットフォームを利用しており、平均的なユーザーは2〜3つのツールに依存している。OpenAIが…",
+        "category": "企業動向",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/the-revenue-models-behind-todays-top-ai-platforms/",
+        "source": "pymnts.com",
+        "publishedAt": "2026-04-08T17:57:51Z"
+      },
+      {
+        "title": "Apache Software Foundationが1,000万ドルの責任あるAIイニシアチブを発足、初期寄付として175万ドルを受領",
+        "body": "責任あるAIイニシアチブは、現代の人工知能システムを支えるオープンソース技術の強化を目的としている。…",
+        "category": "その他",
+        "url": "https://www.globenewswire.com/news-release/2026/04/08/3270433/17401/en/The-Apache-Software-Foundation-Launches-10M-Responsible-AI-Initiative-with-Initial-1-75M-Donation.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-08T17:02:00Z"
+      },
+      {
+        "title": "Nightfood Holdings Inc.（OTCQB: NGTF）、業界全体の移行を反映した先進的なAI対応ロボティクスプラットフォーム",
+        "body": "ニューヨーク、2026年4月8日（GLOBE NEWSWIRE）-- AINewsWire経由 — Nightfood Holdings inc.（OTCQB: NGTF）は本日、AINewsWire（「AINW」）が発行した論説への掲載を発表した。AINewsWireはDynamic Brand Portfolio@IBN（InvestorBrandNetwork）内の75以上のブランドの1つである…",
+        "category": "応用技術",
+        "url": "https://www.globenewswire.com/news-release/2026/04/08/3270103/0/en/Nightfood-Holdings-Inc-OTCQB-NGTF-Advanced-AI-Enabled-Robotics-Platform-Reflecting-Broad-Industry-Transition.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-08T12:30:00Z"
+      },
+      {
+        "title": "Global Power Solutions、北米で最大100MWの分散型エネルギーインフラを支援可能なデータセンター電力開発の評価に関するLOIを締結",
+        "body": "カナダ、ブリティッシュコロンビア州バンクーバー、2026年4月8日（GLOBE NEWSWIRE）— Global Power Solutions Corp.（TSXV: PWER）（FSE: NJA）（以下「Global」または「当社」）は、North American Data Centersと拘束力のない意向表明書（「LOI」）を締結したことを発表した…",
+        "category": "企業動向",
+        "url": "https://financialpost.com/globe-newswire/global-power-solutions-signs-loi-to-evaluate-data-centre-power-development-that-could-support-up-to-100-mw-of-decentralized-energy-infrastructure-in-north-america",
+        "source": "Financial Post",
+        "publishedAt": "2026-04-08T07:07:23Z"
+      },
+      {
+        "title": "Snowflake、Iceberg V3サポートとガバナンス移植性計画でオープンデータ戦略を拡大",
+        "body": "Snowflake Inc.は、データ移動の削減、ガバナンスの簡素化、人工知能システムによるエンタープライズデータへのアクセス方法の改善を目指した一連の相互運用性強化により、オープンデータアーキテクチャ戦略を拡大している。本日の発表は…",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/04/08/snowflake-expands-open-data-strategy-iceberg-v3-support-governance-portability-plan/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-08T13:00:25Z"
+      },
+      {
+        "title": "C3 AI、自然言語プロンプトをエンタープライズグレードのシステムに変換するエージェントツールを発表",
+        "body": "C3.ai Inc.は、自然言語のリクエストを完全に自律的に本番環境対応のアプリケーションに変換できる、C3 Codeと呼ばれる新しい「エージェント型」ソフトウェア開発プラットフォームを公開した。本日発表されたC3 Codeは、開発のパラダイムを転換するものとされている…",
+        "category": "モデル発表",
+        "url": "https://siliconangle.com/2026/04/08/c3-ai-debuts-c3-code-agentic-tool-transforms-natural-language-prompts-enterprise-grade-systems/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-08T13:00:23Z"
+      },
+      {
+        "title": "人々のためのAI",
+        "body": "ロー・カンナ下院議員\n\n\n\n億万長者だけでなく、多くの人々のために機能するAI革命のためのマニフェスト。\n\n\n\nこの投稿「人々のためのAI」はThe Nationに最初に掲載された。",
+        "category": "規制・政策",
+        "url": "https://www.thenation.com/article/society/ro-khanna-ai-democracy-blueprint/",
+        "source": "Thenation.com",
+        "publishedAt": "2026-04-08T09:00:02Z"
+      },
+      {
+        "title": "ヒューマノイドロボット市場、急速な拡大へ：規模、シェア、トレンド（2025年〜2030年）",
+        "body": "フロリダ州デルレイビーチ、2026年4月8日（GLOBE NEWSWIRE）-- グローバルなヒューマノイドロボット市場は、人工知能、機械学習、ロボット工学の急速な進歩に後押しされ、2025年から2030年の間に顕著な成長が見込まれている。様々な産業での需要増加が…",
+        "category": "応用技術",
+        "url": "https://www.globenewswire.com/news-release/2026/04/08/3270312/0/en/Humanoid-Robot-Market-Set-for-Rapid-Expansion-Size-Share-Trends-2025-2030.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-08T14:30:00Z"
+      },
+      {
+        "title": "IntelがマスクのTerafabにファウンドリパートナーとして参加、250億ドルのチップメガプロジェクト",
+        "body": "要約：Intelは、イーロン・マスクのTerafabの主要ファウンドリパートナーとして契約を締結した。Terafabは、Tesla、SpaceX、xAIの合弁事業で、年間1テラワットのAIコンピュートを目標とする250億ドル規模のプロジェクトであり、苦境にあるこのチップ大手にとって待望の大口顧客を獲得した形となった…",
+        "category": "企業動向",
+        "url": "https://thenextweb.com/news/intel-terafab-elon-musk-foundry-partnership/",
+        "source": "The Next Web",
+        "publishedAt": "2026-04-08T14:59:04Z"
+      },
+      {
+        "title": "AIの次のボトルネック：なぜ米国製の最高のチップでさえ台湾を往復するのか",
+        "body": "NvidiaはTSMCの最先端パッケージング能力の大部分を確保している。このあまり知られていないチップ製造工程が、AIにとって次のボトルネックになる可能性がある。",
+        "category": "企業動向",
+        "url": "https://www.cnbc.com/2026/04/08/tsmc-nvidia-advanced-packaging-intel.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-08T12:06:33Z"
+      }
+    ]
   }
 }

@@ -655,5 +655,170 @@
         "publishedAt": "2026-04-09T06:01:25Z"
       }
     ]
+  },
+  "2026-04-12": {
+    "display": "2026年04月12日",
+    "articles": [
+      {
+        "title": "LandBridge株が6%上昇、パーミアン盆地のデータセンターブームで2GW電力契約がAIインフラへの期待を喚起",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/landbridge-stock-jumps-6-permian-data-center-boom-2gw-power-deal-sparks-ai-infrastructure-hopes-1866096",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-10T15:33:59Z"
+      },
+      {
+        "title": "Alphabet株がわずかに上昇、AIの勢いとクラウドの急成長が2026年の大規模設備投資への懸念を相殺",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/alphabet-stock-edges-higher-ai-momentum-cloud-surge-offset-massive-2026-capex-concerns-1866093",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-10T15:26:53Z"
+      },
+      {
+        "title": "Databricks共同創業者マテイ・ザハリアがACM賞を受賞し、AGIはすでに到来していると宣言",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://thenextweb.com/news/databricks-matei-zaharia-acm-prize-agi/",
+        "source": "The Next Web",
+        "publishedAt": "2026-04-10T06:09:33Z"
+      },
+      {
+        "title": "大腸内視鏡検査にさようなら？新しい便検査が大腸がんの90%を検出",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.sciencedaily.com/releases/2026/04/260409221823.htm",
+        "source": "Science Daily",
+        "publishedAt": "2026-04-10T02:23:41Z"
+      },
+      {
+        "title": "RISC-Vチップ設計スタートアップSiFiveが4億ドルの投資を獲得",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/04/09/risc-v-chip-design-startup-sifive-nabs-400m-investment/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-10T00:44:53Z"
+      },
+      {
+        "title": "OpenAIがセーフティネット保護のためのAI税を要求",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-calls-for-ai-taxes-to-protect-safety-nets/",
+        "source": "pymnts.com",
+        "publishedAt": "2026-04-10T17:52:55Z"
+      },
+      {
+        "title": "AIブームがアメリカで最も汚染された都市の一つでクリーンエア努力をいかに頓挫させたか",
+        "body": "",
+        "category": "その他",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/how-the-ai-boom-derailed-cleanair-efforts-in-one-of-americas-most-polluted-cities/articleshow/130166841.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-04-10T10:51:26Z"
+      },
+      {
+        "title": "OpenAIがエネルギーコストの上昇と規制の行き詰まりによりスターゲートUKプロジェクト（310億ポンド）を中止",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.techradar.com/pro/openai-halts-gbp31-billion-stargate-uk-project-over-rising-energy-costs-and-regulatory-deadlock",
+        "source": "TechRadar",
+        "publishedAt": "2026-04-10T10:25:02Z"
+      },
+      {
+        "title": "OpenAIがスターゲートUKを「一時停止」：突然の後退か、計算された動きか？",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.computerweekly.com/news/366641483/OpenAI-pauses-Stargate-UK-Sudden-setback-or-calculated-move",
+        "source": "ComputerWeekly.com",
+        "publishedAt": "2026-04-10T06:30:00Z"
+      },
+      {
+        "title": "MetaのAI新モデルMuse SparkがWhatsAppに登場。インドのユーザーにとっての意味とは",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.medianama.com/2026/04/223-metas-new-ai-model-muse-spark-whatsapp-indian-users/",
+        "source": "MediaNama.com",
+        "publishedAt": "2026-04-10T05:02:09Z"
+      },
+      {
+        "title": "2026年ベルギーのAI企業トップ10：欧州のディープテック急成長を牽引",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/belgiums-top-10-ai-companies-2026-powering-europes-deep-tech-surge-1866042",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-10T09:10:10Z"
+      },
+      {
+        "title": "2026年フランスのAI企業トップ10：国家的な推進の中、Mistral AIが欧州の生成AI急成長をリード",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/frances-top-10-ai-companies-2026-mistral-ai-leads-europes-generative-surge-amid-national-push-1866010",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-10T06:59:29Z"
+      },
+      {
+        "title": "ブレット・アドコック：電動ヒューマノイドロボットがホームオートメーションに革命を起こし、AIが前例のない生産性を推進し、今後36ヶ月で変革的な技術進歩が見られる | ショーン・ライアン・ショー",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://cryptobriefing.com/brett-adcock-electric-humanoid-robots-are-revolutionizing-home-automation-ai-will-drive-unprecedented-productivity-and-the-next-36-months-will-see-transformative-tech-advancements-shawn-ryan-show/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-04-10T20:51:44Z"
+      },
+      {
+        "title": "セルゲイ・レヴィン：汎用ロボット基盤モデルは狭いソリューションを上回る可能性があり、医療の未来は自律型ロボットを含み、物理的相互作用の理解が重要である | Invest Like the Best",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://cryptobriefing.com/sergey-levine-general-robotic-foundation-models-may-outperform-narrow-solutions-the-future-of-medicine-involves-autonomous-robots-and-the-importance-of-understanding-physical-interactions-invest/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-04-10T20:24:49Z"
+      },
+      {
+        "title": "TechCrunchが東京に向かう—そしてStartup Battlefieldも一緒に | TechCrunch",
+        "body": "",
+        "category": "その他",
+        "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+        "source": "TechCrunch",
+        "publishedAt": "2026-04-10T16:40:36Z"
+      },
+      {
+        "title": "なぜ私たちはAIについて怖い話を自分自身に語るのか？",
+        "body": "",
+        "category": "その他",
+        "url": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/",
+        "source": "Quanta Magazine",
+        "publishedAt": "2026-04-10T14:25:09Z"
+      },
+      {
+        "title": "AlibabaがLLMの限界が浮上する中、新種のAIモデル構築に2億9000万ドルの投資を主導",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://www.cnbc.com/2026/04/10/alibaba-cloud-invests-world-model-ai-shengshu-vidu.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-10T01:42:49Z"
+      },
+      {
+        "title": "Fabrinet株が7%急騰、AI光学需要とシリコンフォトニクスの推進が記録的な成長を加速",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/fabrinet-stock-rockets-7-ai-optics-demand-silicon-photonics-push-fuel-record-growth-run-1866097",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-10T15:37:02Z"
+      },
+      {
+        "title": "SiFiveがIPO前の最終ラウンドで36億5000万ドルの評価額で4億ドルのシリーズGを調達",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://thenextweb.com/news/sifive-400m-series-g-risc-v-ipo/",
+        "source": "The Next Web",
+        "publishedAt": "2026-04-10T13:17:37Z"
+      },
+      {
+        "title": "中国AI企業が北京に禁止されたNvidiaチップサーバー9200万ドル分を申告",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://financialpost.com/pmn/business-pmn/china-ai-firm-discloses-92-million-of-banned-nvidia-chip-servers-to-beijing",
+        "source": "Financial Post",
+        "publishedAt": "2026-04-10T06:15:46Z"
+      }
+    ]
   }
 }

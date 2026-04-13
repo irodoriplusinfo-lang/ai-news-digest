@@ -881,5 +881,58 @@
         "publishedAt": "2026-04-11T01:05:20Z"
       }
     ]
+  },
+  "2026-04-14": {
+    "display": "2026年04月14日",
+    "articles": [
+      {
+        "title": "汎用人工知能と外科手術の未来",
+        "body": "ハイパースケーラー（Google Cloud、Amazon AWSなど）とフロンティアAI研究所（OpenAI、Anthropic、DeepMindなど）がAI構築に並外れた注目、時間、資本を注いでいることは周知の事実です。ビッグ4（Amazon、Google、Microsoft、Meta…",
+        "category": "企業動向",
+        "url": "https://kevinmd.com/2026/04/artificial-general-intelligence-and-the-future-of-surgery.html",
+        "source": "Kevinmd.com",
+        "publishedAt": "2026-04-12T13:00:22Z"
+      },
+      {
+        "title": "ポッドキャスト：エージェントスキルはどれほど価値があるか？Larah VasquezとFabrizio Ferri-Benedettiとの対談",
+        "body": "このポッドキャストでは、Larah VasquezとFabrizio Ferri-Benedettiと、スキルを使ってAI能力を拡張すること、エージェンティックエンジニアリングの未来、QwenやGemmaなどのローカルモデル、そしてテクニカルライターの役割がオートメーションアーキテクチャへとシフトしているかどうかについて話しています…",
+        "category": "研究",
+        "url": "https://idratherbewriting.com/blog/ai-skills-agentic-workflows-larah-fabrizio",
+        "source": "Idratherbewriting.com",
+        "publishedAt": "2026-04-12T07:00:00Z"
+      },
+      {
+        "title": "Alphabet株2026年：Q1決算を前にAIの勢いと1800億ドルの設備投資が交錯する中、GOOGLは買いか売りか",
+        "body": "ニューヨーク — Alphabet Inc.（NASDAQ: GOOGL）の株価は2026年4月10日時点で約317ドルで取引されており、Google CloudとSearchにおけるAI主導の堅調な成長を背景に、ウォール街は強い「買い」または「やや買い」のコンセンサス評価を維持しています。同社は…の準備を進めている中でも…",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/alphabet-stock-2026-buy-sell-googl-ai-momentum-180b-capex-bet-collide-ahead-q1-earnings-1866214",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-12T06:28:05Z"
+      },
+      {
+        "title": "イーロン・マスク、アンドリーセンがスティーブ・ジョブズに例えた後、才能あるチームと働く「光栄」を語る",
+        "body": "Tesla、SpaceX、xAIのCEOである億万長者イーロン・マスクは日曜夜遅くにXで珍しく感謝のコメントを投稿し、「これほど素晴らしく才能のある多くの人々と働けることは本当に光栄だ」と述べました。このコメントは、ベンチャーキャピタリストの…広く共有された動画クリップへの返信として投稿されました…",
+        "category": "人物発言",
+        "url": "https://www.ibtimes.com.au/elon-musk-hails-honor-working-talented-teams-after-andreessen-likens-style-steve-jobs-1866290",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-12T17:55:41Z"
+      },
+      {
+        "title": "データ分析が開発者によるより良いテックサービス提供をどのように支援するか",
+        "body": "開発者がアナリティクスとAIツールを使用してパフォーマンスを改善し、問題を予測し、テック企業向けによりスマートなソリューションを構築する方法を詳しく見ていきます。",
+        "category": "応用技術",
+        "url": "https://www.smartdatacollective.com/how-data-analytics-helps-developers-deliver-better-tech-services/",
+        "source": "Smartdatacollective.com",
+        "publishedAt": "2026-04-12T19:31:04Z"
+      },
+      {
+        "title": "TechCrunch Mobility：自動運転車の人材を引き抜いているのは誰か？| TechCrunch",
+        "body": "TechCrunch Mobilityへようこそ。交通の未来に関するハブであり、今まで以上にAIがどのような役割を果たしているかをお届けします。",
+        "category": "応用技術",
+        "url": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
+        "source": "TechCrunch",
+        "publishedAt": "2026-04-12T16:07:33Z"
+      }
+    ]
   }
 }

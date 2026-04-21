@@ -1,57 +1,4 @@
 {
-  "2026-04-14": {
-    "display": "2026年04月14日",
-    "articles": [
-      {
-        "title": "汎用人工知能と外科手術の未来",
-        "body": "ハイパースケーラー（Google Cloud、Amazon AWSなど）とフロンティアAI研究所（OpenAI、Anthropic、DeepMindなど）がAI構築に並外れた注目、時間、資本を注いでいることは周知の事実です。ビッグ4（Amazon、Google、Microsoft、Meta…",
-        "category": "企業動向",
-        "url": "https://kevinmd.com/2026/04/artificial-general-intelligence-and-the-future-of-surgery.html",
-        "source": "Kevinmd.com",
-        "publishedAt": "2026-04-12T13:00:22Z"
-      },
-      {
-        "title": "ポッドキャスト：エージェントスキルはどれほど価値があるか？Larah VasquezとFabrizio Ferri-Benedettiとの対談",
-        "body": "このポッドキャストでは、Larah VasquezとFabrizio Ferri-Benedettiと、スキルを使ってAI能力を拡張すること、エージェンティックエンジニアリングの未来、QwenやGemmaなどのローカルモデル、そしてテクニカルライターの役割がオートメーションアーキテクチャへとシフトしているかどうかについて話しています…",
-        "category": "研究",
-        "url": "https://idratherbewriting.com/blog/ai-skills-agentic-workflows-larah-fabrizio",
-        "source": "Idratherbewriting.com",
-        "publishedAt": "2026-04-12T07:00:00Z"
-      },
-      {
-        "title": "Alphabet株2026年：Q1決算を前にAIの勢いと1800億ドルの設備投資が交錯する中、GOOGLは買いか売りか",
-        "body": "ニューヨーク — Alphabet Inc.（NASDAQ: GOOGL）の株価は2026年4月10日時点で約317ドルで取引されており、Google CloudとSearchにおけるAI主導の堅調な成長を背景に、ウォール街は強い「買い」または「やや買い」のコンセンサス評価を維持しています。同社は…の準備を進めている中でも…",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/alphabet-stock-2026-buy-sell-googl-ai-momentum-180b-capex-bet-collide-ahead-q1-earnings-1866214",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-04-12T06:28:05Z"
-      },
-      {
-        "title": "イーロン・マスク、アンドリーセンがスティーブ・ジョブズに例えた後、才能あるチームと働く「光栄」を語る",
-        "body": "Tesla、SpaceX、xAIのCEOである億万長者イーロン・マスクは日曜夜遅くにXで珍しく感謝のコメントを投稿し、「これほど素晴らしく才能のある多くの人々と働けることは本当に光栄だ」と述べました。このコメントは、ベンチャーキャピタリストの…広く共有された動画クリップへの返信として投稿されました…",
-        "category": "人物発言",
-        "url": "https://www.ibtimes.com.au/elon-musk-hails-honor-working-talented-teams-after-andreessen-likens-style-steve-jobs-1866290",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-04-12T17:55:41Z"
-      },
-      {
-        "title": "データ分析が開発者によるより良いテックサービス提供をどのように支援するか",
-        "body": "開発者がアナリティクスとAIツールを使用してパフォーマンスを改善し、問題を予測し、テック企業向けによりスマートなソリューションを構築する方法を詳しく見ていきます。",
-        "category": "応用技術",
-        "url": "https://www.smartdatacollective.com/how-data-analytics-helps-developers-deliver-better-tech-services/",
-        "source": "Smartdatacollective.com",
-        "publishedAt": "2026-04-12T19:31:04Z"
-      },
-      {
-        "title": "TechCrunch Mobility：自動運転車の人材を引き抜いているのは誰か？| TechCrunch",
-        "body": "TechCrunch Mobilityへようこそ。交通の未来に関するハブであり、今まで以上にAIがどのような役割を果たしているかをお届けします。",
-        "category": "応用技術",
-        "url": "https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is-poaching-all-the-self-driving-vehicle-talent/",
-        "source": "TechCrunch",
-        "publishedAt": "2026-04-12T16:07:33Z"
-      }
-    ]
-  },
   "2026-04-15": {
     "display": "2026年04月15日",
     "articles": [
@@ -799,6 +746,107 @@
         "url": "https://nypost.com/2026/04/19/tech/humanoid-robots-beat-humans-in-china-half-marathon-and-set-world-record/",
         "source": "New York Post",
         "publishedAt": "2026-04-19T05:56:36Z"
+      }
+    ]
+  },
+  "2026-04-22": {
+    "display": "2026年04月22日",
+    "articles": [
+      {
+        "title": "Adobe、マーケティングワークフロー自動化のためのAIエージェントを発表",
+        "body": "Adobeは、エージェント型人工知能（AI）システム、AI搭載のコワーカー、およびAIプラットフォームとの拡大されたコラボレーションにより、マーケティングソリューションのラインナップを強化している。同社は4月20日（月）、年次カンファレンスの初日にこれらの新しいサービスを発表した。",
+        "category": "企業動向",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/adobe-launches-ai-agents-to-automate-marketing-workflows/",
+        "source": "pymnts.com",
+        "publishedAt": "2026-04-20T15:11:04Z"
+      },
+      {
+        "title": "Meta株が1.71%下落、ウォール街は1350億ドルのAI投資攻勢の中でQ1決算に備える",
+        "body": "Meta Platforms Inc.の株式は2026年4月20日（月）の早朝取引で1.71%下落し、11.76ドル安の676.79ドルとなった。投資家たちは今週後半に控える同社の第1四半期決算発表に備えてポジションを調整し、また大規模な資本投資の消化を続けている。",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/meta-stock-drops-171-wall-street-braces-q1-earnings-amid-135-billion-ai-spending-blitz-1867087",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-20T14:16:24Z"
+      },
+      {
+        "title": "（動画）イーロン・マスク、AIロボティクスが2040年代までに労働を任意にし、新たな豊かさの時代をもたらすと予測",
+        "body": "テキサス州オースティン — イーロン・マスクは、TeslaおよびxAIのCEOとして、人工知能とロボティクスの急速な進歩がまもなく労働を任意のものにし、新たな豊かさの時代への道を開くと宣言するバイラル動画クリップで、労働の未来に関する世界的な議論を再燃させた。",
+        "category": "人物発言",
+        "url": "https://www.ibtimes.com.au/video-elon-musk-predicts-ai-robotics-will-make-work-optional-ushering-new-era-abundance-2040s-1867058",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-20T07:57:31Z"
+      },
+      {
+        "title": "下院議員候補、AIによる失業者へのアメリカ人への支払い計画を発表",
+        "body": "その資金は「控えめな」AI税から捻出される予定。",
+        "category": "規制・政策",
+        "url": "https://gizmodo.com/house-candidate-unveils-plan-to-pay-americans-who-face-ai-job-displacement-2000748609",
+        "source": "Gizmodo.com",
+        "publishedAt": "2026-04-20T21:16:21Z"
+      },
+      {
+        "title": "データセンター紛争は地域的だった。しかし中間選挙がそれを変えるかもしれない",
+        "body": "データセンターブームへの怒りは政治にまで波及し、有権者はデータセンターを支持する地方政治家を落選させている。これは中間選挙で無視できない問題となっている。",
+        "category": "規制・政策",
+        "url": "https://www.npr.org/2026/04/20/g-s1-117729/data-center-disputes-local-midterms",
+        "source": "NPR",
+        "publishedAt": "2026-04-20T09:00:00Z"
+      },
+      {
+        "title": "ヒューマノイドロボットがシーメンスのエアランゲン工場で8時間の工場シフトを完了",
+        "body": "Siemens、Nvidia、および英国のロボティクススタートアップHumanoidは、ドイツのシーメンス電子機器工場でAI搭載の車輪付きヒューマノイドロボットを実際の物流オペレーションに成功裏に導入した。HMND 01 Alphaは8時間以上の自律的なトート取り扱い作業を完了した。",
+        "category": "応用技術",
+        "url": "https://thenextweb.com/news/siemens-nvidia-humanoid-robot-erlangen-factory-trial/",
+        "source": "The Next Web",
+        "publishedAt": "2026-04-20T10:17:07Z"
+      },
+      {
+        "title": "この人間対ロボットのハーフマラソンは上手くいかなかった…人間にとっては",
+        "body": "中国・北京で行われたハーフマラソンレースで、数十体のヒューマノイドロボットが人間のランナーを追い抜いた。",
+        "category": "応用技術",
+        "url": "https://www.huffpost.com/entry/humanoid-half-marathon-china_n_69e5f683e4b0555d213cf6a8",
+        "source": "HuffPost",
+        "publishedAt": "2026-04-20T09:55:06Z"
+      },
+      {
+        "title": "ポーラ・R-AI-ドクリフ！ロボットが北京ハーフマラソンで優勝した瞬間を見よ - 人間の記録を約7分上回る",
+        "body": "北京ハーフマラソンで、新世代のスピーディーなロボットレーサーが人間のアスリートを置き去りにする中、サポーターたちは畏敬の念を持って見守った。",
+        "category": "応用技術",
+        "url": "https://www.dailymail.com/sciencetech/article-15747815/robot-wins-beijing-half-marathon-human-record.html",
+        "source": "Dailymail.com",
+        "publishedAt": "2026-04-20T09:12:57Z"
+      },
+      {
+        "title": "NVIDIAとパートナー企業、ハノーバーメッセ2026でAI駆動製造業の未来を披露",
+        "body": "製造業は転換点にある。すべての主要な工業経済において、より短い設計サイクル、より効率的なオペレーション、熟練労働力プールへの負担により、より少ないリソースでより多くのことを行うという圧力が、AI駆動型生産へのシフトを加速させている。問題は…",
+        "category": "企業動向",
+        "url": "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/",
+        "source": "Nvidia.com",
+        "publishedAt": "2026-04-20T08:30:55Z"
+      },
+      {
+        "title": "ヒューマノイドロボットが中国でハーフマラソンの人間世界記録を破る",
+        "body": "中国製の数十体のヒューマノイドロボットが、日曜日に北京で行われたハーフマラソンレースで人間のランナーを追い抜き、急速に向上する運動能力と自律ナビゲーションスキルを披露した。これはこのセクターの急速な技術進歩を浮き彫りにしている。",
+        "category": "応用技術",
+        "url": "https://www.independent.ie/world-news/asia-pacific/humanoid-robot-beats-human-world-record-for-half-marathon-in-china/a345844254.html",
+        "source": "Independent.ie",
+        "publishedAt": "2026-04-20T04:30:00Z"
+      },
+      {
+        "title": "Marvell、GoogleのカスタムAIチップ支援の報道で株価上昇。Broadcom株は下落",
+        "body": "Marvellは3月にNvidiaから20億ドルの投資を受けており、AI需要は引き続き急増している。",
+        "category": "企業動向",
+        "url": "https://www.cnbc.com/2026/04/20/marvell-stock-google-custom-ai-chips.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-20T20:43:47Z"
+      },
+      {
+        "title": "Stifel、AMDの目標株価を320ドルに引き上げ：AIチップラリーはまだ始まったばかりか？",
+        "body": "Advanced Micro Devices（NASDAQ:AMD）株は、Stifelから強い支持を得た。同社は買い推奨を維持しながら、目標株価を280ドルから320ドルに引き上げた。",
+        "category": "企業動向",
+        "url": "https://247wallst.com/investing/2026/04/20/stifel-raises-amd-target-to-320-is-the-ai-chip-rally-just-getting-started/",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-04-20T15:06:23Z"
       }
     ]
   }

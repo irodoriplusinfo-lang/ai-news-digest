@@ -1,73 +1,4 @@
 {
-  "2026-04-15": {
-    "display": "2026年04月15日",
-    "articles": [
-      {
-        "title": "サム・アルトマン宅近くで銃撃、2人逮捕——火炎瓶攻撃から2日後",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://thenextweb.com/news/sam-altman-home-shooting-arrest-molotov-openai/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-13T18:10:57Z"
-      },
-      {
-        "title": "ディーキン大学とAikam（テランガーナAIイノベーションハブ）が応用AI、人材育成、研究、イノベーション推進のための戦略的MOUを締結",
-        "body": "ディーキン大学とAikam（テランガーナAIイノベーションハブ）が応用AI、人材育成、研究、イノベーション推進のための戦略的MOUを締結",
-        "category": "研究",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/deakin-university-and-aikam-telangana-ai-innovation-hub-sign-strategic-mou-to-advance-applied-ai-skilling-research-and-innovation/article70856461.ece",
-        "source": "BusinessLine",
-        "publishedAt": "2026-04-13T13:26:36Z"
-      },
-      {
-        "title": "人工知能の進化：手書きルールから生成AIとエージェント型マシンへ",
-        "body": "「AI」は今やテック業界で最も使い古された用語の一つであることは間違いない。実に皮肉なことに、この分野の実際の歴史は、SNSで見かけるバズワードバージョンよりもはるかに興味深い。一般的に信じられていることに反して、AIは単一の…",
-        "category": "その他",
-        "url": "https://wccftech.com/evolution-of-artificial-intelligence-handwritten-rules-to-generative-and-agentic-machines/",
-        "source": "Wccftech",
-        "publishedAt": "2026-04-13T18:02:01Z"
-      },
-      {
-        "title": "AI内部告発者の死",
-        "body": "ジェイコブ・シルバーマン\n\nスチール・バラジはOpenAIのデータ不正使用を暴露しようとした。それは彼自身の命を犠牲にすることになったのか？\n\nこの記事「AI内部告発者の死」は The Nation に最初に掲載された。",
-        "category": "人物発言",
-        "url": "https://www.thenation.com/article/society/open-ai-suchir-balaji-whistleblowers/",
-        "source": "Thenation.com",
-        "publishedAt": "2026-04-13T09:00:02Z"
-      },
-      {
-        "title": "調査報告：米国の若年層でAIへの懐疑論と怒りが増大",
-        "body": "最近の調査によると、米国の若年成人の相当数が人工知能技術に対する懐疑論と怒りを強めていることが明らかになった。The Epoch Timesが最初に報じたこの調査結果は、感情の顕著な変化が…の層に集中していることを示唆している。",
-        "category": "その他",
-        "url": "https://www.shtfplan.com/technology/survey-reports-growing-skepticism-anger-toward-ai-among-younger-u-s-adults",
-        "source": "Shtfplan.com",
-        "publishedAt": "2026-04-13T12:30:09Z"
-      },
-      {
-        "title": "カリフォルニア州、米国で州独自のAI規制枠組みを推進",
-        "body": "フーバー研究所フェローのナンド・ムルチャンダニ氏は、AI統治に関する論争は米国のシステムの構造的特徴を反映していると述べた。",
-        "category": "規制・政策",
-        "url": "https://english.news.cn/northamerica/20260412/2d53c1a5a2f34983ba1364811bc02696/c.html",
-        "source": "News.cn",
-        "publishedAt": "2026-04-13T00:00:00Z"
-      },
-      {
-        "title": "日本のテック大手が連合を組み1兆パラメータのAIを構築——これはチャット用ではない",
-        "body": "ソフトバンク、ソニー、ホンダ、NECが新会社を設立し、ロボットや機械向けのフィジカルAIを構築する。政府から67億ドルの資金援助を受けている。",
-        "category": "企業動向",
-        "url": "https://decrypt.co/364241/japan-physical-ai-trillion-parameter-softbank-nec-honda-sony",
-        "source": "Decrypt",
-        "publishedAt": "2026-04-13T21:01:03Z"
-      },
-      {
-        "title": "OpenAI、マイクロソフトから離れAmazonとのパートナーシップをアピール",
-        "body": "OpenAIはAmazonとのパートナーシップの成果を享受していると報じられている。CNBCが月曜日（4月13日）に報じたところによると、同社の最高収益責任者デニス・ドレッサー氏は日曜日（4月12日）のスタッフ向けメモでこの協業を称賛し、同時にOpenAIの限界についても指摘した…",
-        "category": "企業動向",
-        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/openai-touts-amazon-partnership-in-shift-away-from-microsoft/",
-        "source": "pymnts.com",
-        "publishedAt": "2026-04-13T17:05:15Z"
-      }
-    ]
-  },
   "2026-04-16": {
     "display": "2026年04月16日",
     "articles": [
@@ -847,6 +778,155 @@
         "url": "https://247wallst.com/investing/2026/04/20/stifel-raises-amd-target-to-320-is-the-ai-chip-rally-just-getting-started/",
         "source": "24/7 Wall St.",
         "publishedAt": "2026-04-20T15:06:23Z"
+      }
+    ]
+  },
+  "2026-04-23": {
+    "display": "2026年04月23日",
+    "articles": [
+      {
+        "title": "OpenAIの強力な新型ChatGPT 6モデル、コードネーム「Spud」",
+        "body": "OpenAIの次期ChatGPT 6 Spudモデルは、AIの状況を一変させる可能性のあるいくつかの進歩を導入する予定です。AI Masterによると、Spudの最も注目すべき機能には、強化学習ベースの適応性と200万トークンのコンテキストウィンドウが含まれます。",
+        "category": "モデル発表",
+        "url": "https://www.geeky-gadgets.com/openai-chatgpt-6-release/",
+        "source": "Geeky Gadgets",
+        "publishedAt": "2026-04-21T10:15:00Z"
+      },
+      {
+        "title": "AmazonがAIインフラ契約の一環としてAnthropicにさらに最大250億ドルを投資",
+        "body": "AmazonはAnthropicに最大250億ドルを投資することに合意しました。これは、AIインフラの構築に向けた拡大契約の一環として、近年このAIスタートアップに注ぎ込んできた80億ドルに加えての投資となります。月曜日の発表で、Amazonは...",
+        "category": "資金・M&A",
+        "url": "https://freerepublic.com/focus/f-chat/4375888/posts",
+        "source": "Freerepublic.com",
+        "publishedAt": "2026-04-21T22:37:47Z"
+      },
+      {
+        "title": "AI需要急増に伴い、AmazonがAnthropicにさらに最大250億ドルを投資",
+        "body": "Amazonは、これまでで最大規模のAIインフラ提携の一つとして、2036年までAnthropicを主要なクラウド顧客として確保しました。",
+        "category": "資金・M&A",
+        "url": "https://decrypt.co/365034/amazon-invest-25-billion-anthropic-ai-demand-surges",
+        "source": "Decrypt",
+        "publishedAt": "2026-04-21T16:21:45Z"
+      },
+      {
+        "title": "SoundHound AIがLivePersonを買収、独自の音声エージェントAIとデジタルメッセージングを組み合わせ世界をリードするエンドツーエンドのオムニチャネル会話型AIプラットフォームを構築",
+        "body": "SoundHound AIがLivePersonを買収し、世界をリードするエンドツーエンドのオムニチャネル会話型AIプラットフォームを構築します...",
+        "category": "資金・M&A",
+        "url": "https://www.globenewswire.com/news-release/2026/04/21/3278086/0/en/SoundHound-AI-To-Acquire-LivePerson-Combining-Proprietary-Voice-Agentic-AI-and-Digital-Messaging-to-Create-a-World-Leading-End-to-End-Omnichannel-Conversational-AI-Platform.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-21T13:22:00Z"
+      },
+      {
+        "title": "Osirus AI発表、エンタープライズAIエージェントの構築、展開、管理のための統合プラットフォーム",
+        "body": "Osirus AIは、企業が共有コンテキスト、ガバナンス、柔軟性を備えたAIエージェントを構築、展開、管理できるマルチモデルプラットフォームをローンチしました...",
+        "category": "企業動向",
+        "url": "https://www.globenewswire.com/news-release/2026/04/21/3277622/0/en/Introducing-Osirus-AI-the-Unified-Platform-for-Building-Deploying-and-Managing-Enterprise-AI-Agents.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-21T08:00:00Z"
+      },
+      {
+        "title": "Mondoo、インストール前にリスクのあるエージェントスキルを検出する無料AI Skills Checkを発表",
+        "body": "マネージド脆弱性管理サービスのスタートアップMondoo Inc.は本日、Mondoo AI Skills Checkのローンチを発表しました。これは、AIエージェントスキルによってもたらされる増大するサプライチェーンリスクに対処するために設計された無料のセキュリティチェッカーです。この新しい無料サービスは、サブスクリプションなしで利用可能です...",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/04/21/mondoo-debuts-free-ai-skills-check-flag-risky-agent-skills-install/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-21T12:00:56Z"
+      },
+      {
+        "title": "AI界の顔ぶれは？",
+        "body": "拡大し続ける業界で、同じ名前が繰り返し登場しています",
+        "category": "人物発言",
+        "url": "https://theweek.com/tech/whos-who-in-the-world-of-ai",
+        "source": "The Week Magazine",
+        "publishedAt": "2026-04-21T13:06:54Z"
+      },
+      {
+        "title": "米国政府、AIテクノロジーとデータブローカーの助けを借りて大規模監視を強化 - あなたのアプリやデバイスも対象",
+        "body": "米国政府は直接収集するあなたに関する情報を補強するため、カメラ、携帯電話、アプリによって収集され商用データ市場で販売される、規制の緩い情報を購入しています。",
+        "category": "規制・政策",
+        "url": "https://theconversation.com/us-government-ramps-up-mass-surveillance-with-help-of-ai-tech-data-brokers-and-your-apps-and-devices-277440",
+        "source": "The Conversation Africa",
+        "publishedAt": "2026-04-21T12:20:21Z"
+      },
+      {
+        "title": "BEYOND Expo 2026、公式テーマとして「AI：デジタルからフィジカルへ」を発表",
+        "body": "BEYOND Expoは本日、2026年の公式テーマ「AI：デジタルからフィジカルへ」を発表し、このイベントを人工知能の全領域において最も影響力のあるアジアのプラットフォームとして位置づけました。画期的なイノベーションとグローバルな機会を一つに統合した展示会となります...",
+        "category": "企業動向",
+        "url": "https://besuccess.com/?p=182252",
+        "source": "Besuccess.com",
+        "publishedAt": "2026-04-21T19:40:07Z"
+      },
+      {
+        "title": "フィジカルAI市場、2032年までに152.4億ドルに到達見込み：将来の成長と業界トレンド",
+        "body": "フロリダ州デルレイビーチ、2026年4月21日（GLOBE NEWSWIRE）-- 「フィジカルAI市場：製品別（GPU、SoC、メモリ、センサー、アクチュエーター、ソフトウェア、サービス）、ロボットタイプ別（産業用ロボット、業務用サービスロボット、個人・家庭用サービスロボット）、レベル別...」と題するレポートが発表されました。",
+        "category": "研究",
+        "url": "https://www.globenewswire.com/news-release/2026/04/21/3278165/0/en/Physical-AI-Market-Set-to-Hit-15-24-Billion-by-2032-Future-Growth-Industry-Trends.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-21T14:30:00Z"
+      },
+      {
+        "title": "中国のロボットがマラソンを完走。ノイダの労働者にとってこれは何を意味するか？",
+        "body": "技術の進歩により生産性が大幅に向上し、余暇の時間が増えるという考えがあります。このユートピア的なビジョンは、もちろん、働き続けているにもかかわらず、フードデリバリーの配達員やノイダの契約労働者にとってはほとんど慰めにはなりません...",
+        "category": "応用技術",
+        "url": "https://indianexpress.com/article/opinion/columns/a-chinese-robot-just-ran-a-marathon-what-does-this-mean-for-the-worker-in-noida-10648214/",
+        "source": "The Indian Express",
+        "publishedAt": "2026-04-21T10:29:08Z"
+      },
+      {
+        "title": "Tesla (TSLA) 2026年第1四半期決算プレビュー：成長ストーリーは終わった",
+        "body": "Tesla (TSLA)は明日（4月22日）の取引終了後に2026年第1四半期の決算を発表し、その後カンファレンスコールが予定されています。経営陣がTeslaを現在「AIとロボティクス企業」だと押し出し続けているにもかかわらず、自動車...",
+        "category": "企業動向",
+        "url": "http://electrek.co/2026/04/21/tesla-tsla-q1-2026-earnings-preview-wall-street-expects-growth/",
+        "source": "Electrek",
+        "publishedAt": "2026-04-21T09:06:08Z"
+      },
+      {
+        "title": "Boomi、データ接続型エンタープライズにおけるエージェントとガードレールの役割を構築",
+        "body": "人工知能と機械学習は、データアクティベーション企業としてのBoomi LPの26年間の歴史の大部分において中心的な焦点でした。この組織は、マルチテナントプラットフォームを立ち上げた際に、顧客統合から匿名化されたメタデータの保存を開始しました...",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/04/21/boomi-builds-data-activation-agents-guardrails-boomiworld/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-21T15:21:58Z"
+      },
+      {
+        "title": "Oracle Data Deep Diveイベントに関するtheCUBEの報道から見逃したかもしれない3つの洞察",
+        "body": "データベースの大手Oracle Corp.は、データベースアーキテクチャがその上に構築されるAIの信頼できる基盤として機能しなければならないと主張しています。同社が基盤要素としてAIデータベースに本格参入したことに伴い、Oracleは再設計された...",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/04/21/oracle-insights-database-architecture-data-deep-dive-oracledatadeepdivenyc/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-21T20:04:29Z"
+      },
+      {
+        "title": "BioAegis Therapeutics、AI駆動の炎症性疾患精密医療推進のためPrenosisとの提携を発表",
+        "body": "この提携は、BioAegisの組換えヒト血漿ゲルソリン（rhu-pGSN）から最も恩恵を受ける可能性が高い生物学的シグネチャーと患者サブ集団を特定することを目指しています。これは炎症性疾患に対する新しい免疫調節剤です...",
+        "category": "応用技術",
+        "url": "https://www.globenewswire.com/news-release/2026/04/21/3277902/0/en/BioAegis-Therapeutics-Announces-Collaboration-with-Prenosis-to-Advance-AI-Driven-Precision-Medicine-in-Inflammatory-Disease.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-21T12:19:00Z"
+      },
+      {
+        "title": "BluSky AI Inc.、4月23日のAI＆テックバーチャル投資家カンファレンスに出席",
+        "body": "当社は個人投資家、機関投資家、アドバイザー、アナリストの皆様をVirtualInvestorConferences.comでのオンライン参加にご招待いたします。当社は個人投資家、機関投資家、アドバイザー、アナリストの皆様をVirtualInvestorConferences.comでのオンライン参加にご招待いたします...",
+        "category": "企業動向",
+        "url": "https://www.globenewswire.com/news-release/2026/04/21/3278143/29006/en/BluSky-AI-Inc-to-Present-at-the-AI-Tech-Virtual-Investor-Conference-April-23rd.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-21T14:11:00Z"
+      },
+      {
+        "title": "AI対応トレーニングが多くの業界でビジネス上の必須事項になっている理由",
+        "body": "2026年の優先事項を達成するための人材を持つ組織はわずか5%です。AI対応のトレーニングと認証がスキルギャップを埋め、リスクを軽減し、労働力の能力を拡大する方法をご覧ください。この投稿は最初にeLearning Industryに掲載されました。",
+        "category": "応用技術",
+        "url": "https://elearningindustry.com/why-ai-enabled-training-is-becoming-a-business-imperative-across-many-industries",
+        "source": "Elearningindustry.com",
+        "publishedAt": "2026-04-21T15:00:16Z"
+      },
+      {
+        "title": "Appleのシリコン責任者Johny Sroujiの昇進、全デバイス向け自社チップ開発への急加速を示唆",
+        "body": "シリコン責任者のJohny Sroujiをハードウェア責任者に昇進させたことで、Appleは全てのiPhoneとMac向けにカスタムチップを製造する取り組みへの緊急性を示しています。",
+        "category": "企業動向",
+        "url": "https://www.cnbc.com/2026/04/21/apple-promotes-chip-lead-srouji-as-it-corners-silicon-in-iphones-macs.html",
+        "source": "CNBC",
+        "publishedAt": "2026-04-21T22:08:12Z"
       }
     ]
   }

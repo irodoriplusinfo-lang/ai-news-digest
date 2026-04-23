@@ -1,145 +1,4 @@
 {
-  "2026-04-16": {
-    "display": "2026年04月16日",
-    "articles": [
-      {
-        "title": "Anthropicの「Mythos」が明らかにする深刻なセキュリティギャップ：AIが脆弱性を発見する速度に企業のパッチ対応が追いつかない",
-        "body": "Anthropicの強力な新モデルは、より深刻な問題を浮き彫りにしている：組織はAIが脆弱性を発見するスピードに追いつくほど速く修正することができない。",
-        "category": "モデル発表",
-        "url": "https://fortune.com/2026/04/14/anthropic-mythos-reveals-security-gap-ai-finds-flaws-far-faster-than-companies-can-patch-them/",
-        "source": "Fortune",
-        "publishedAt": "2026-04-14T17:54:08Z"
-      },
-      {
-        "title": "学校は批判的思考を教えてこなかった：AIがその嘘を暴いた",
-        "body": "記事URL: https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking\nコメントURL: https://news.ycombinator.com/item?id=47766144\nポイント: 6\nコメント数: 0",
-        "category": "その他",
-        "url": "https://smarterarticles.co.uk/ai-exposed-the-lie-schools-never-taught-critical-thinking",
-        "source": "Smarterarticles.co.uk",
-        "publishedAt": "2026-04-14T14:29:55Z"
-      },
-      {
-        "title": "Astera Labs株がAIブームの中で3.2%下落、好調な成長見通しにもかかわらず",
-        "body": "ニューヨーク — 人工知能インフラ向け高速接続を専門とする半導体企業Astera Labs Inc.の株価が火曜日の早朝取引で3%以上下落した。アナリストが引き続き同社の見通しを好意的に評価しているにもかかわらず、最近の急騰分の一部を吐き出す形となった。",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/astera-labs-stock-slides-32-amid-ai-boom-despite-strong-growth-outlook-1866531",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-04-14T13:46:07Z"
-      },
-      {
-        "title": "Core AIとAllianca Groupが戦略的ジョイントベンチャーを設立",
-        "body": "本パートナーシップは、Core AIのAIネイティブな専門知識とAlliancaの実績あるターンキー納品モデルを組み合わせ、次世代AIインフラ需要を獲得することを目指す...",
-        "category": "企業動向",
-        "url": "https://www.globenewswire.com/news-release/2026/04/14/3273244/0/en/Core-AI-and-Allianca-Group-Form-Strategic-Joint-Venture.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-04-14T11:50:00Z"
-      },
-      {
-        "title": "量子コンピューティングが実用的なワークフローへ移行",
-        "body": "4月14日に第5回世界量子デーが開催される中、研究者たちは取り組みの焦点がハードウェア実験から、量子システムを人工知能や従来のコンピューティングと並行してより広範なコンピューティング環境に統合することへと移行していると述べている。",
-        "category": "研究",
-        "url": "https://siliconangle.com/2026/04/14/hpe-quantum-systems-hpc-ai-hpeworldquantumday/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-04-14T19:45:37Z"
-      },
-      {
-        "title": "970億ドルの量子機会には課題がある。オークリッジ国立研究所がその解決を目指す",
-        "body": "量子コンピューティングと従来の高性能コンピューティングを統合する競争は、学術的議論から運用上の必須事項へと移行した。国立研究所や連邦機関が量子-HPC融合を達成し、ハイブリッドスタックを実現するために動員されている。",
-        "category": "研究",
-        "url": "https://siliconangle.com/2026/04/14/quantum-hpc-convergence-moves-theory-mission-hpeworldquantumday/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-04-14T19:33:00Z"
-      },
-      {
-        "title": "25年間の自動化科学から学んだこと、そして未来の展望：Ross Kingインタビュー",
-        "body": "私たちは新シリーズを開始することを嬉しく思います。このシリーズでは、主要な研究者にお話を伺い、AIを推進するブレークスルーと将来の約束の現実を探り、ヘッドラインの裏側の視点をお届けします。最初のインタビュー対象者はRoss Kingで...",
-        "category": "人物発言",
-        "url": "https://robohub.org/what-ive-learned-from-25-years-of-automated-science-and-what-the-future-holds-an-interview-with-ross-king/",
-        "source": "Robohub.org",
-        "publishedAt": "2026-04-14T14:37:55Z"
-      },
-      {
-        "title": "Helicalが基盤モデルと創薬判断の橋渡しのため1000万ドルを調達",
-        "body": "製薬人工知能スタートアップのHelical Ltd.は本日、バーチャルAIラボプラットフォームを拡大するため1000万ドルの新規資金を調達したと発表した。同プラットフォームは、生物学的基盤モデルを再現可能なインシリコ創薬ワークフローに変換するものである。Helicalは...",
-        "category": "資金・M&A",
-        "url": "https://siliconangle.com/2026/04/14/helical-raises-10m-bridge-gap-foundation-models-drug-discovery-decisions/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-04-14T12:00:04Z"
-      },
-      {
-        "title": "MuskのGrok AIチャットボットは、Xの停止約束にもかかわらず、依然として性的なディープフェイクを生成している",
-        "body": "Elon MuskのAIソフトウェア「Grok」は、同意なく人々の性的な画像を生成し続けている。",
-        "category": "企業動向",
-        "url": "https://www.nbcnews.com/tech/tech-news/musks-ai-chatbot-grok-xai-making-sexual-deepfakes-imagine-rcna265855",
-        "source": "NBC News",
-        "publishedAt": "2026-04-14T17:40:35Z"
-      },
-      {
-        "title": "「当局はデータの引き渡しを要求できる」：報告書によると欧州人の80%以上が米国と中国の企業によるデータ取り扱いを信頼していない — 米国との亀裂が深まる中、欧州は自国産のAI、クラウド、通信を切望",
-        "body": "米国と中国企業への不信感は過去最高に達している可能性があり、欧州人は自国産の代替品を求めている。",
-        "category": "規制・政策",
-        "url": "https://www.techradar.com/pro/security/authorities-can-ask-them-to-hand-over-data-report-claims-over-80-percent-of-europeans-dont-trust-us-and-chinese-businesses-to-handle-their-data-europe-is-desperate-for-homegrown-ai-cloud-and-telecoms-as-the-rift-with-the-us-grows",
-        "source": "TechRadar",
-        "publishedAt": "2026-04-14T12:05:00Z"
-      },
-      {
-        "title": "インドはいかにしてシリコンバレーの台頭に資金を提供しているか",
-        "body": "私たちがAIを使用するたびに、インド経済から価値を流出させる隠れた「トークン税」が加算される。",
-        "category": "その他",
-        "url": "https://www.thehindubusinessline.com/opinion/how-india-is-funding-silicon-valleys-rise/article70862072.ece",
-        "source": "BusinessLine",
-        "publishedAt": "2026-04-14T15:45:40Z"
-      },
-      {
-        "title": "ドイツのスタートアップSyneraがAIエージェントによるエンジニアリングワークフロー自動化のため4000万ドルを調達",
-        "body": "ドイツのエージェント型人工知能スタートアップSynera GmbHは本日、エンジニアリング自動化プラットフォームの規模拡大と米国、アジア太平洋地域、欧州への展開のため、4000万ドルの新規資金を調達したと発表した。2018年設立のSyneraは...",
-        "category": "資金・M&A",
-        "url": "https://siliconangle.com/2026/04/14/german-startup-synera-lands-40-million-automate-engineering-workflows-ai-agents/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-04-14T12:00:00Z"
-      },
-      {
-        "title": "BluefishがブランドのChatGPT、Rufusなどへの露出支援のため4300万ドルを調達",
-        "body": "シリーズBにより総調達額は6800万ドルに達し、ブランド各社はAI上での可視性を再考している。",
-        "category": "資金・M&A",
-        "url": "https://www.adweek.com/media/bluefish-raises-43m-to-help-brands-show-up-in-chatgpt-rufus-and-others/",
-        "source": "Adweek",
-        "publishedAt": "2026-04-14T09:46:53Z"
-      },
-      {
-        "title": "こんな友人がいれば、VCは必要ない？",
-        "body": "RyanがRunPodの共同創業者兼CEOであるZhen Luを迎え、VCマネーを迂回してコミュニティから直接資金調達する方法、コミュニティがプロジェクトを支援している際にZhenが創業者の直感とユーザーフィードバックをどのようにバランスさせているか、そしてRunPodの旅について議論する...",
-        "category": "企業動向",
-        "url": "https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/",
-        "source": "Stackoverflow.blog",
-        "publishedAt": "2026-04-14T04:51:16Z"
-      },
-      {
-        "title": "Axonex IntelligenceのAIロボティクスシリーズがInnoEXで注目を集める、NEXの香港デビューとともにAXONEXが最新ロボティクスポートフォリオを披露",
-        "body": "香港、2026年4月14日（GLOBE NEWSWIRE）— 香港を拠点とし、人工知能（「AI」）とロボティクスに新たな戦略的焦点を置き、確立されたインテリアデザイン事業を持つMint Incorporation Limited（「Mint」または「グループ」、NASDAQ: MIMI）が...",
-        "category": "応用技術",
-        "url": "https://www.globenewswire.com/news-release/2026/04/14/3273555/0/en/Axonex-Intelligence-s-AI-Robotics-Series-Makes-a-Splash-at-InnoEX-Featuring-NEX-s-Debut-in-Hong-Kong-As-AXONEX-Showcases-Its-Latest-Robotics-Portfolio.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-04-14T13:50:00Z"
-      },
-      {
-        "title": "2026年中国のAI急成長：チップブームとモデル戦争の中でグローバルレースをリードする10の有力企業",
-        "body": "北京 — 中国が最新の五カ年計画の下で人工知能に積極的に取り組む中、テック大手と専門スタートアップの組み合わせがグローバルな勢力図を塗り替えている。6000社以上のAI企業を擁し、コア産業規模は1.2兆元を超えている...",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/chinas-ai-surge-2026-10-powerhouse-companies-leading-global-race-amid-chip-boom-model-wars-1866467",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-04-14T07:21:40Z"
-      },
-      {
-        "title": "中国企業UniX AIが家事用ヒューマノイドロボット「Panther」を発売",
-        "body": "UniX AIがサービス用ヒューマノイドのグローバル出荷を開始。中国のロボティクス企業UniX AIは、世界初の実際の家庭展開に入るサービス用ヒューマノイドロボットと説明するPantherロボットのグローバル出荷を開始した。同社は発表で...",
-        "category": "応用技術",
-        "url": "https://www.naturalnews.com/2026-04-14-unix-ai-launches-humanoid-robot-household-tasks.html",
-        "source": "Naturalnews.com",
-        "publishedAt": "2026-04-14T06:00:00Z"
-      }
-    ]
-  },
   "2026-04-17": {
     "display": "2026年04月17日",
     "articles": [
@@ -927,6 +786,155 @@
         "url": "https://www.cnbc.com/2026/04/21/apple-promotes-chip-lead-srouji-as-it-corners-silicon-in-iphones-macs.html",
         "source": "CNBC",
         "publishedAt": "2026-04-21T22:08:12Z"
+      }
+    ]
+  },
+  "2026-04-24": {
+    "display": "2026年04月24日",
+    "articles": [
+      {
+        "title": "BluSky AI Inc.、4月23日のAI＆テックバーチャル投資家カンファレンスで発表予定",
+        "body": "同社は、個人投資家、機関投資家、アドバイザー、アナリストの皆様をVirtualInvestorConferences.comでのオンライン参加にご招待します。ユタ州ソルトレイクシティ、2026年4月22日（GLOBE NEWSWIRE）— BluSky AI Inc.（BSAI）は、次世代AIインフラストラクチャー企業として…",
+        "category": "企業動向",
+        "url": "https://financialpost.com/globe-newswire/blusky-ai-inc-to-present-at-the-ai-tech-virtual-investor-conference-april-23rd",
+        "source": "Financial Post",
+        "publishedAt": "2026-04-22T12:37:32Z"
+      },
+      {
+        "title": "Geminiの最大活用：Google CloudがエンタープライズAIのオペレーティングシステム構築に名乗り",
+        "body": "Google LLCは、主要なフロンティア人工知能大規模言語モデル「Gemini」を持つ唯一のクラウド「ハイパースケーラー」として台頭しており、本日、その現在の優位性を活かすための一連の発表を行った。検索大手のクラウド部門は…",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/04/22/maximizing-gemini-google-cloud-makes-bid-build-operating-system-enterprise-ai/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-22T20:22:24Z"
+      },
+      {
+        "title": "AIのブレークスルーで卓球で人間に勝った、パドルを振るうロボット「Ace」に会おう",
+        "body": "「ロボットに手動で卓球をプログラムする方法はありません。経験から学ぶしかないのです」とSony AI研究員のPeter Dürr氏は述べた。",
+        "category": "応用技術",
+        "url": "https://fortune.com/2026/04/22/meet-ace-the-paddle-wielding-robot-who-just-beat-humans-at-ping-pong-in-ai-breakthrough/",
+        "source": "Fortune",
+        "publishedAt": "2026-04-22T20:16:50Z"
+      },
+      {
+        "title": "Xanadu Quantum株が熱狂的なセッションで22%急騰、フォトニックコンピューティングへの期待が高まる",
+        "body": "トロント — Xanadu Quantum Technologies株は水曜日の日中に22%以上急騰し、28ドルを突破した。人工知能のブレークスルーとスケーラブルなフォトニック技術への投資家の期待により、新興量子コンピューティングセクターの勢いが継続している…",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/xanadu-quantum-stock-explodes-22-frenzied-session-photonic-computing-hype-surges-1867295",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-22T16:49:14Z"
+      },
+      {
+        "title": "科学者たちがエリート人間選手に卓球で勝てるロボットを開発",
+        "body": "卓球は地球上で最も技術集約的なスポーツの一つであり、エンジニアたちは世界トップクラスの選手を打ち負かすことができるロボットを開発した。",
+        "category": "応用技術",
+        "url": "https://www.sciencealert.com/scientists-built-a-robot-that-can-beat-elite-human-players-at-table-tennis",
+        "source": "ScienceAlert",
+        "publishedAt": "2026-04-22T15:00:57Z"
+      },
+      {
+        "title": "SpaceX、AIコーディングツールCursorを今年後半に600億ドルで買収可能と発表",
+        "body": "SpaceXは、AIコーディングツールCursorを今年後半に600億ドルで買収できると発表した。bostonherald.com",
+        "category": "資金・M&A",
+        "url": "https://www.bostonherald.com/2026/04/22/spacex-ai-coding-tool-cursor/",
+        "source": "Boston Herald",
+        "publishedAt": "2026-04-22T16:04:26Z"
+      },
+      {
+        "title": "英国のIT責任者の4分の3が強力なAIガバナンス計画を持っていない",
+        "body": "Red Hatの調査によると、英国のIT責任者の約9人に1人が自社組織でエージェント型AIを使用していると回答しているが、強力なガバナンス計画を策定している組織はほとんどない。",
+        "category": "規制・政策",
+        "url": "https://www.computerweekly.com/news/366641979/Three-quarters-of-UK-IT-leaders-without-strong-AI-governance-plans",
+        "source": "ComputerWeekly.com",
+        "publishedAt": "2026-04-22T03:44:00Z"
+      },
+      {
+        "title": "SpaceX、Cursorを600億米ドルで買収する権利に関する契約を締結",
+        "body": "SpaceXは、人工知能スタートアップCursorを600億米ドルで買収する権利を与える契約を締結したと発表した。詳細はこちら",
+        "category": "資金・M&A",
+        "url": "https://financialpost.com/technology/spacex-right-to-acquire-cursor",
+        "source": "Financial Post",
+        "publishedAt": "2026-04-22T13:19:52Z"
+      },
+      {
+        "title": "ヒューマノイドロボット市場規模、AIの進歩と産業・消費者向けアプリケーションの拡大により2035年までに87.8億ドルに到達",
+        "body": "ヒューマノイドロボティクス市場展望2035：投資ホットスポット、破壊的トレンド、および数十億ドル規模の機会…",
+        "category": "応用技術",
+        "url": "https://www.globenewswire.com/news-release/2026/04/22/3278870/0/en/Humanoid-Robot-Market-Size-Worth-USD-8-78-Billion-by-2035-Driven-by-AI-Advancements-and-Expanding-Industrial-and-Consumer-Applications.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-22T11:42:00Z"
+      },
+      {
+        "title": "フィンテックにおけるAI市場、2034年までに507億ドル超へ：不正検出ソリューションへの需要増加とリスク評価向けML採用の増加",
+        "body": "フィンテックにおける人工知能市場規模は、2024年の149.4億ドルから2034年には507億ドルに達すると予測されており、年平均成長率は16.50%…",
+        "category": "その他",
+        "url": "https://www.globenewswire.com/news-release/2026/04/22/3278863/0/en/50-70-BN-Artificial-Intelligence-In-Fintech-Market-Forecasts-to-2034-Rising-Demand-For-Fraud-Detection-Solutions-and-Increasing-Adoption-of-ML-For-Risk-Assessment.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-22T11:30:00Z"
+      },
+      {
+        "title": "欧州にはAIで勝つための人材と資金がある。まず、マグニフィセント・セブンから脱却する必要がある",
+        "body": "欧州のイノベーションはビッグテックと戦っている——そしてより大きな壁とも。",
+        "category": "企業動向",
+        "url": "https://fortune.com/2026/04/22/europe-talent-funding-to-win-ai-break-shackles-of-magnificent-seven/",
+        "source": "Fortune",
+        "publishedAt": "2026-04-22T08:00:00Z"
+      },
+      {
+        "title": "イーロン・マスク、TeslaのAIとロボットの夢に資金を投じる中で経費が「将来的に大幅に増加する」と発言",
+        "body": "マスクがAI搭載の自動運転タクシーとヒューマノイドロボットの構築に舵を切る中、Teslaは社史上最も高額な賭けの真っ只中にある。",
+        "category": "企業動向",
+        "url": "https://nypost.com/2026/04/22/business/elon-musk-says-tesla-expenses-will-rise-substantially-in-the-future/",
+        "source": "New York Post",
+        "publishedAt": "2026-04-22T23:07:43Z"
+      },
+      {
+        "title": "Tesla、AIとロボティクスへの準備を進める中で再び売上増加",
+        "body": "Teslaは本日、2026年第1四半期の財務決算を発表し、イーロン・マスクの1兆ドルの賭け——同社をAIとロボティクスのリーダーに変革する——の進捗状況をあらためて示した。Teslaは224億ドルの売上高に対し、4億7700万ドルの純利益を計上したと発表した…",
+        "category": "企業動向",
+        "url": "https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue",
+        "source": "The Verge",
+        "publishedAt": "2026-04-22T20:36:17Z"
+      },
+      {
+        "title": "（プレスリリース）TSMC、2026年北米テクノロジーシンポジウムでA13テクノロジーを発表",
+        "body": "TSMC（TWSE: 2330, NYSE: TSM）は本日、同社の2026年北米テクノロジーシンポジウムにおいて、最先端プロセス技術における最新イノベーションを発表した。TSMCの新しいA13プロセスは、2025年に発表された業界をリードするA14ノードを直接シュリンクしたもので…",
+        "category": "企業動向",
+        "url": "https://www.techpowerup.com/348443/tsmc-debuts-a13-technology-at-2026-north-america-technology-symposium",
+        "source": "Techpowerup.com",
+        "publishedAt": "2026-04-22T20:02:03Z"
+      },
+      {
+        "title": "卓球ロボット、世界チャンピオンになる道を歩む",
+        "body": "Sony AIが開発したロボットは、世界最高の卓球選手を打ち負かす方法を急速に学習している。",
+        "category": "応用技術",
+        "url": "https://www.newscientist.com/article/2523918-table-tennis-playing-robot-on-track-to-becoming-world-champion/",
+        "source": "New Scientist",
+        "publishedAt": "2026-04-22T16:00:19Z"
+      },
+      {
+        "title": "RoboSense、EOCENE SPAD-SoCアーキテクチャとチップセットPhoenixおよびPeacockを発表：LiDAR業界を高精細3D認識のイメージグレード時代へ",
+        "body": "RoboSenseは、EOCENE SPAD-SoCアーキテクチャとチップセットPhoenixおよびPeacockを発表：LiDAR業界を高精細3D認識のイメージグレード時代へ導く",
+        "category": "応用技術",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/robosense-unveiled-eocene-spad-soc-architecture-and-chipsets-phoenix-and-peacock-ushering-the-lidar-industry-into-the-image-grade-era-of-high-definition-3d-perception/article70887930.ece",
+        "source": "BusinessLine",
+        "publishedAt": "2026-04-22T12:04:09Z"
+      },
+      {
+        "title": "ヒューマノイドロボットが北京のレースで人間のハーフマラソン記録を破った。しかし、実際に何を証明したのか？",
+        "body": "事前にマッピングされたコース、ハンドラーのクルー、そして世界記録となるタイム：この北京ハーフマラソンは、ヒューマノイドロボットがどこまで進歩したか——そしてまだどこまで到達していないかを明らかにしている。",
+        "category": "応用技術",
+        "url": "https://www.scientificamerican.com/article/a-humanoid-robot-beat-the-human-half-marathon-record-at-a-beijing-race-but-what-did-it-actually-prove/",
+        "source": "Scientific American",
+        "publishedAt": "2026-04-22T11:30:00Z"
+      },
+      {
+        "title": "Tesla、Intelの先進的な14Aチップ技術の最初の顧客に",
+        "body": "4月22日：TeslaはTerafabプロジェクトでチップを製造するためにIntelの先進的な14A製造プロセスを使用する計画であると、イーロン・マスクCEOが水曜日に述べ、同社がIntelにとってこの技術の最初の主要顧客となった。この動きはIntelにとってブレークスルーとなる…",
+        "category": "企業動向",
+        "url": "https://www.channelnewsasia.com/business/tesla-becomes-first-customer-intels-advanced-14a-chip-technology-6074911",
+        "source": "CNA",
+        "publishedAt": "2026-04-22T22:32:56Z"
       }
     ]
   }

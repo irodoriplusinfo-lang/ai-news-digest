@@ -1,113 +1,4 @@
 {
-  "2026-04-17": {
-    "display": "2026年04月17日",
-    "articles": [
-      {
-        "title": "エージェント型ワークフローが分散型・常時稼働データベースを不可欠なものに",
-        "body": "エンタープライズデータベースインフラは、エージェント型AIワークロードがレガシーアーキテクチャでは決して提供できなかったレベルの弾力性を要求する中、数十年で最も重大な再設計を迫られている。AIがミッションクリティカルなワークフローに深く組み込まれるにつれて…",
-        "category": "応用技術",
-        "url": "https://siliconangle.com/2026/04/15/redefining-database-infrastructure-oracle-ai-database-oracledatadeepdivenyc/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-04-15T19:18:53Z"
-      },
-      {
-        "title": "AppleがxAIのGrokを性的なディープフェイクを理由にApp Storeから削除すると警告",
-        "body": "2026年初頭、イーロン・マスクのxAIは、同社のGrokチャットボットが非同意の性的なディープフェイクを生成するために使用されたことで、激しい批判に直面した…\nこの投稿「AppleがxAIのGrokを性的なディープフェイクを理由にApp Storeから削除すると警告」はMacDailyNewsに最初に掲載された。",
-        "category": "企業動向",
-        "url": "https://macdailynews.com/2026/04/15/apple-threatened-to-remove-xais-grok-from-its-app-store-over-sexualized-deepfakes/",
-        "source": "Macdailynews.com",
-        "publishedAt": "2026-04-15T14:12:58Z"
-      },
-      {
-        "title": "あなたは監視への懸念からClaudeに乗り換えた。今やClaudeはあなたのパスポートを要求している",
-        "body": "Anthropicは静かに政府発行IDと自撮り写真による本人確認をClaudeに導入した。これは主要AIチャットボットの中で初めてのことであり、プライバシーに関する姿勢がChatGPTから記録的なユーザー流出を引き起こしたばかりの企業にとって、奇妙な方向転換である。",
-        "category": "企業動向",
-        "url": "https://decrypt.co/364509/claude-anthropic-government-id-kyc-privacy",
-        "source": "Decrypt",
-        "publishedAt": "2026-04-15T20:37:38Z"
-      },
-      {
-        "title": "AnthropicがOpenAI支持のイリノイ州AI責任法案に反対",
-        "body": "Anthropicは、OpenAIが支持するイリノイ州の法案に公式に反対を表明した。この法案は、AIシステムが大量殺傷や10億ドルを超える物的損害などの大規模な被害を引き起こすために使用された場合に、AI企業を法的責任から保護するものである…",
-        "category": "規制・政策",
-        "url": "https://www.breitbart.com/tech/2026/04/15/anthropic-opposes-illinois-ai-liability-bill-backed-by-openai/",
-        "source": "Breitbart News",
-        "publishedAt": "2026-04-15T17:32:36Z"
-      },
-      {
-        "title": "Salesforce社内組織図が明らかに：CEOマーク・ベニオフのAIによるソフトウェアへの脅威への対応を支える10人の幹部",
-        "body": "生成AIがそのビジネスモデルを覆す恐れがある中、Salesforceは圧力にさらされている。これらの幹部たちがマーク・ベニオフの対応を支援している。",
-        "category": "企業動向",
-        "url": "https://www.businessinsider.com/salesforce-org-chart-shows-executives-under-marc-benioff-2026-4",
-        "source": "Business Insider",
-        "publishedAt": "2026-04-15T09:00:02Z"
-      },
-      {
-        "title": "Anthropic、OpenAI、そしてペンタゴン：民主的AI統治への警告的物語",
-        "body": "2026年2月27日の午後、ピート・ヘグセスは電話を手に取り、Xに投稿した。米国国防長官は、サンフランシスコのAI企業Anthropicを「国家安全保障上のサプライチェーンリスク」に指定したところだった。10 USC 3252に基づくこのレッテルは、以前は…",
-        "category": "規制・政策",
-        "url": "https://thenextweb.com/news/anthropic-pentagon-ban-ai-governance-europe/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-15T07:02:09Z"
-      },
-      {
-        "title": "韓国AIチップスタートアップDEEPX、現代自動車と生成AI搭載ロボットで協業",
-        "body": "韓国のAIチップメーカーDEEPXが現代自動車グループと提携する。両社は生成AIロボット向けの新しいコンピューティングプラットフォームを開発する。このプラットフォームはDEEPXの先進的な低消費電力チップを使用する。同社はまた、大規模な資金調達も模索している。この動きは…",
-        "category": "応用技術",
-        "url": "https://economictimes.indiatimes.com/tech/technology/korean-ai-chip-startup-deepx-hyundai-work-on-robots-powered-by-generative-ai/articleshow/130280959.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-04-15T10:31:43Z"
-      },
-      {
-        "title": "GoogleのAI最新アップデートで産業用ロボットが大幅にスマートに—その方法とは",
-        "body": "新しいGoogle Gemini Robotics AIモデルは、産業用途向けにロボットの空間認識能力とタスク計画能力を向上させる。",
-        "category": "モデル発表",
-        "url": "https://decrypt.co/364521/google-ai-update-makes-industrial-robots-way-smarter",
-        "source": "Decrypt",
-        "publishedAt": "2026-04-15T21:31:35Z"
-      },
-      {
-        "title": "AccentureがGeneral Roboticsに出資、ロボットブランド横断で工場AIを統合",
-        "body": "要約：Accenture VenturesはGeneral Roboticsに投資した。同社のGRIDプラットフォームは、FANUC、Flexiv、Ghost Roboticsを含む40以上のメーカーの異なるロボットに統一されたAIインテリジェンス層を提供する。この取引はAccentureのフィジカルAI戦略を拡大する…",
-        "category": "資金・M&A",
-        "url": "https://thenextweb.com/news/accenture-general-robotics-grid-physical-ai-manufacturing/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-15T16:52:27Z"
-      },
-      {
-        "title": "テスラ株がロボタクシー期待で4%上昇、Q1納車は未達もサイバーキャブ生産は2026年に加速",
-        "body": "ニューヨーク — テスラ株は水曜日の午前取引で4%以上急騰し、379ドル付近で取引された。第1四半期の車両納車がやや予想を下回ったにもかかわらず、投資家はロボタクシー展開と人工知能イニシアチブの加速的な進展に賭けている…",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/tesla-stock-jumps-4-robotaxi-buzz-q1-deliveries-miss-cybercab-production-ramps-2026-1866675",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-04-15T14:57:14Z"
-      },
-      {
-        "title": "【動画】Boston DynamicsのSpotロボットがGoogle Gemini AIでToDoリストをマスター、驚きの家庭デモで犬の散歩も",
-        "body": "ボストン — Boston Dynamicsは、GoogleのGemini Robotics AIを搭載した四足歩行ロボットSpotの印象的な新デモを公開した。住宅環境で手書きのToDoリストから日常的な家事を自律的にこなす様子が披露された。",
-        "category": "応用技術",
-        "url": "https://www.ibtimes.com.au/video-boston-dynamics-spot-robot-masters-do-list-google-gemini-ai-stunning-home-demo-walks-dog-1866656",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-04-15T13:21:05Z"
-      },
-      {
-        "title": "イーロン・マスクがテスラAI5チップのテープアウト成功を称賛、AI6とDojo3プロジェクトも始動準備",
-        "body": "テキサス州オースティン — イーロン・マスクは水曜日、テスラのAIチップ設計チームが次世代AI5プロセッサのテープアウトを完了したことを祝福した。これは、カスタムシリコン構築という電気自動車メーカーの野心的な取り組みにおける重要な前進であり、このチップは…",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/elon-musk-hails-tesla-ai5-chip-tape-out-success-ai6-dojo3-projects-gear-launch-1866632",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-04-15T08:32:09Z"
-      },
-      {
-        "title": "ジェンセン・フアン：電子をトークンに変換するNvidiaの役割、AIエージェントの指数関数的成長、半導体サプライチェーンのボトルネック克服について | Dwarkesh",
-        "body": "AIチップサプライチェーンにおけるNvidiaの戦略的動きは、コンピューティング技術の未来を再形成している。\nこの投稿「ジェンセン・フアン：電子をトークンに変換するNvidiaの役割、AIエージェントの指数関数的成長、半導体サプライチェーンのボトルネック克服について | Dwarkesh」は…",
-        "category": "人物発言",
-        "url": "https://cryptobriefing.com/jensen-huang-nvidias-role-in-transforming-electrons-to-tokens-the-exponential-growth-of-ai-agents-and-overcoming-semiconductor-supply-chain-bottlenecks-dwarkesh/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-04-15T21:22:17Z"
-      }
-    ]
-  },
   "2026-04-18": {
     "display": "2026年04月18日",
     "articles": [
@@ -935,6 +826,171 @@
         "url": "https://www.channelnewsasia.com/business/tesla-becomes-first-customer-intels-advanced-14a-chip-technology-6074911",
         "source": "CNA",
         "publishedAt": "2026-04-22T22:32:56Z"
+      }
+    ]
+  },
+  "2026-04-25": {
+    "display": "2026年04月25日",
+    "articles": [
+      {
+        "title": "OpenAI、GPT-5.5をリリース：より高速、より賢く、そしてより高価に",
+        "body": "",
+        "category": "モデル発表",
+        "url": "https://decrypt.co/365333/openai-gpt-5-5-release-agentic-coding-benchmarks",
+        "source": "Decrypt",
+        "publishedAt": "2026-04-23T19:25:16Z"
+      },
+      {
+        "title": "GPT-5.5のご紹介",
+        "body": "",
+        "category": "モデル発表",
+        "url": "https://openai.com/index/introducing-gpt-5-5/",
+        "source": "Openai.com",
+        "publishedAt": "2026-04-23T18:01:39Z"
+      },
+      {
+        "title": "Alphabet株、新AIチップ発表とクラウドの勢いを受けQ1決算を前に小幅上昇",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/alphabet-stock-edges-higher-new-ai-chip-launches-cloud-momentum-ahead-q1-earnings-1867377",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-23T16:10:28Z"
+      },
+      {
+        "title": "財務大臣、Mythosの脅威について銀行と会談、DFS長官Nagarajは脅威であり機会でもあると発言",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.thehindubusinessline.com/news/fm-met-banks-on-mythos-threat-dfs-secretary-nagaraj-called-it-a-threat-as-well-as-opportunity/article70898166.ece",
+        "source": "BusinessLine",
+        "publishedAt": "2026-04-23T14:48:55Z"
+      },
+      {
+        "title": "Wärtsilä、次のデータセンター・アレーであるテキサスで790MWの新規受注でデータセンター事業を拡大継続",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.globenewswire.com/news-release/2026/04/23/3280077/0/en/W%C3%A4rtsil%C3%A4-continues-to-expand-its-data-center-footprint-with-new-790-MW-order-in-Texas-the-next-Data-Center-Alley.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-23T13:37:00Z"
+      },
+      {
+        "title": "ヘルスケアAIの成功と失敗はデータ基盤の強さで決まる",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://siliconangle.com/2026/04/23/achieving-healthcare-data-readiness-ai-era-googlecloudnext/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-23T16:50:18Z"
+      },
+      {
+        "title": "Mythos対応になるための5つのステップ",
+        "body": "",
+        "category": "研究",
+        "url": "https://www.tenable.com/blog/5-steps-to-become-mythos-ready-ai-cybersecurity",
+        "source": "Tenable.com",
+        "publishedAt": "2026-04-23T16:18:00Z"
+      },
+      {
+        "title": "マルチモーダル生物学基盤モデルの治療と患者ケアへの適用",
+        "body": "",
+        "category": "研究",
+        "url": "https://aws.amazon.com/blogs/machine-learning/applying-multimodal-biological-foundation-models-across-therapeutics-and-patient-care/",
+        "source": "Amazon.com",
+        "publishedAt": "2026-04-23T16:17:29Z"
+      },
+      {
+        "title": "Copperhelm、エンタープライズクラウド防御構築のため自動化に深く踏み込む",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/04/23/copperhelm-dives-deep-automation-build-enterprise-cloud-defenses/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-23T13:00:40Z"
+      },
+      {
+        "title": "Oracleとトランプ政権下のAI監視国家の台頭",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.activistpost.com/oracle-and-the-rise-of-the-ai-surveillance-state-under-trump/",
+        "source": "Activistpost.com",
+        "publishedAt": "2026-04-23T20:00:00Z"
+      },
+      {
+        "title": "SpaceX、宇宙を征服し、今やAIでより大きな機会を狙う",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/tech/technology/spacex-conquered-the-stars-now-eyes-bigger-opportunity-in-ai/articleshow/130464753.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-04-23T10:26:50Z"
+      },
+      {
+        "title": "イーロン・マスク、模倣者のせいでTeslaはOptimusをより早く公開できないと発言",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://www.businessinsider.com/elon-musk-tesla-optimus-humanoid-robot-unveiling-date-2026-4",
+        "source": "Business Insider",
+        "publishedAt": "2026-04-23T01:34:54Z"
+      },
+      {
+        "title": "AIデータセンター：新たなポピュリズムの標的",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.wnd.com/2026/04/ai-data-centers-new-populist-target/",
+        "source": "Wnd.com",
+        "publishedAt": "2026-04-23T22:45:13Z"
+      },
+      {
+        "title": "ホワイトハウス、中国を産業規模のAIモデル蒸留で非難、OpenAI、Anthropic、Googleとの情報共有を約束",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://thenextweb.com/news/us-white-house-ai-model-distillation-china-theft/",
+        "source": "The Next Web",
+        "publishedAt": "2026-04-23T19:15:07Z"
+      },
+      {
+        "title": "AIセキュリティのリーダーたち、リスクが高まる中ワシントンに集結—Mythosが stakes を高める",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://fortune.com/2026/04/23/ai-cybersecurity-standards-mythos-nist-owasp-sans-cosai-dc-meeting-eye-on-ai/",
+        "source": "Fortune",
+        "publishedAt": "2026-04-23T17:23:34Z"
+      },
+      {
+        "title": "AI政策の課題への対応：上院運輸通信常任委員会での私の出席",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.michaelgeist.ca/2026/04/addressing-the-ai-policy-challenge-my-appearance-before-the-standing-senate-committee-on-transport-and-communications/",
+        "source": "Michaelgeist.ca",
+        "publishedAt": "2026-04-23T13:36:19Z"
+      },
+      {
+        "title": "ギリシャの急成長するAIシーン：2026年のイノベーションをリードするトップ10企業",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/greeces-booming-ai-scene-top-10-companies-leading-innovation-2026-1867337",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-04-23T09:02:13Z"
+      },
+      {
+        "title": "Teslaの250億ドル支出計画、未証明のAI賭けに対する投資家の信頼を試す",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/teslas-25-billion-spending-plan-tests-investor-faith-in-unproven-ai-bets/articleshow/130469059.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-04-23T12:49:28Z"
+      },
+      {
+        "title": "トヨタのCUE7ロボット、AIを使ってシュートを決める",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.foxnews.com/tech/toyota-cue7-robot-shoots-hoops-using-ai",
+        "source": "Fox News",
+        "publishedAt": "2026-04-23T12:03:25Z"
+      },
+      {
+        "title": "北京ハーフマラソンでヒューマノイドロボットが自律性を披露",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://en.antaranews.com/news/413353/humanoid-robots-showcase-autonomy-at-beijing-half-marathon",
+        "source": "Antaranews.com",
+        "publishedAt": "2026-04-23T06:46:01Z"
       }
     ]
   }

@@ -1,169 +1,4 @@
 {
-  "2026-04-18": {
-    "display": "2026年04月18日",
-    "articles": [
-      {
-        "title": "NomagicがGoogle DeepMindから新チーフサイエンティストを採用し、ロボティクス向け基盤モデル開発を主導",
-        "body": "フィジカルAI企業の大手であるNomagicは、Google DeepMind出身のMarkus Wulfmeier氏を新チーフサイエンティストに任命した。",
-        "category": "企業動向",
-        "url": "https://www.globenewswire.com/news-release/2026/04/16/3275582/0/en/Nomagic-Hires-New-Chief-Scientist-from-Google-DeepMind-to-Lead-Development-of-Foundational-Models-for-Robotics.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-04-16T14:38:00Z"
-      },
-      {
-        "title": "QlikがAIの信頼性と透明性向上を目指し、新たなエージェント機能を発表",
-        "body": "データ統合・分析大手のQlikTech International ABは本日、オーランドで開催された年次顧客カンファレンスの開幕に合わせ、多数の新しいエージェント型人工知能機能を発表した。アップデートには新しいAIエージェントが含まれている。",
-        "category": "企業動向",
-        "url": "https://siliconangle.com/2026/04/15/qlik-debuts-new-agentic-capabilities-aiming-enhance-ai-trust-transparency/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-04-16T00:48:29Z"
-      },
-      {
-        "title": "iDox.aiがリーガルサービス・政府機関向けエディションを発表、法務ワークフローにおけるAI墨消し機能を変革",
-        "body": "新ソリューションは、法律事務所、企業法務チーム、FOIA（情報公開法）専門家向けに、説明可能な墨消し機能、ケースベースのファイル管理、コンプライアンス対応レポート機能を提供する。新ソリューションは、法律事務所、企業法務チーム、FOIA専門家向けに、説明可能な墨消し機能、ケースベースのファイル管理、コンプライアンス対応レポート機能を提供する。",
-        "category": "企業動向",
-        "url": "https://www.globenewswire.com/news-release/2026/04/16/3275832/0/en/iDox-ai-Launches-Legal-Service-and-Government-Edition-to-Transform-AI-Powered-Redaction-for-Legal-Workflows.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-04-16T20:18:00Z"
-      },
-      {
-        "title": "インド政府、AI統治戦略を推進するハイレベル省庁間組織を設立",
-        "body": "インドは国家AI戦略を主導するハイレベル組織「AI統治・経済グループ」を設立した。連邦IT大臣のAshwini Vaishnaw氏が率いるこのグループは、省庁や規制当局間の政策を調整する。また、AIの影響評価も行う予定である。",
-        "category": "規制・政策",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/govt-forms-high-level-inter-ministerial-body-to-steer-ai-governance-strategy/articleshow/130313393.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-04-16T17:01:15Z"
-      },
-      {
-        "title": "ローナン・ファローがサム・アルトマンの真実との「無制限な」関係について語る",
-        "body": "本日のDecoderでは、現在活躍する調査報道の第一人者の一人、ローナン・ファロー氏にお話を伺う。彼は数々のスクープの中でもハーヴェイ・ワインスタイン事件を報じた人物だ。そしてつい先週、彼は共著者のアンドリュー・マランツ氏と共に、信じられないほど深掘りした記事を発表した。",
-        "category": "人物発言",
-        "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
-        "source": "The Verge",
-        "publishedAt": "2026-04-16T13:47:17Z"
-      },
-      {
-        "title": "アメリカの労働者階級はAIに押しつぶされる前に組織化できるか？",
-        "body": "バーニー・サンダース氏が「世界史上、はるかに最も重大な産業革命」に対峙する労働運動の現状について論じる。",
-        "category": "人物発言",
-        "url": "http://www.rollingstone.com/politics/politics-features/bernie-sanders-unions-labor-movement-ai-era-1235547817/",
-        "source": "Rolling Stone",
-        "publishedAt": "2026-04-16T13:00:00Z"
-      },
-      {
-        "title": "OpenAIが提案する「産業政策」",
-        "body": "OpenAIは「産業政策」の提案を発表した。これは政府とAI産業の同盟であり、新しい経済的・政治的秩序を創出することを目的として設計されている。",
-        "category": "企業動向",
-        "url": "https://www.patheos.com/blogs/geneveith/2026/04/openais-proposed-industrial-policy/",
-        "source": "Patheos",
-        "publishedAt": "2026-04-16T10:00:57Z"
-      },
-      {
-        "title": "ドバイが政府職員5万人向けにAI研修を展開",
-        "body": "Digital Dubaiの下、政府人事・AI機関との連携により実施されるこのイニシアチブは、公共サービス、人材開発、経済多角化計画全体に人工知能を組み込むというUAEのより広範な戦略を反映している。",
-        "category": "規制・政策",
-        "url": "https://www.computerweekly.com/news/366641798/Dubai-rolls-out-AI-training-for-50000-government-staff",
-        "source": "ComputerWeekly.com",
-        "publishedAt": "2026-04-16T08:07:00Z"
-      },
-      {
-        "title": "創薬開拓、低コストスパコンなどを手がけるAI企業が英国のSovereign AIを通じて初の支援を獲得",
-        "body": "Sovereign AIは、英国生まれのAI創業者を支援し、英国全土の成長と雇用創出を促進するための5億ポンドの賭けである。",
-        "category": "資金・M&A",
-        "url": "https://www.gov.uk/government/news/ai-firms-pioneering-drug-discovery-cheaper-supercomputing-and-more-get-first-backing-through-uks-sovereign-ai",
-        "source": "Www.gov.uk",
-        "publishedAt": "2026-04-16T17:30:06Z"
-      },
-      {
-        "title": "Antiochが850万ドル調達後、自律ロボット向けシミュレーションテストの加速を準備",
-        "body": "AI搭載ロボット向けクラウドベースシミュレーションソフトウェアの開発企業Antioch Inc.は、物理世界の外でより自律的なシステムの開発を加速するため、850万ドルの資金調達を行った。今回のラウンドは、直前に実施されたラウンドに続くものである。",
-        "category": "資金・M&A",
-        "url": "https://siliconangle.com/2026/04/16/antioch-prepares-accelerate-simulated-testing-autonomous-robots-raising-8-5m/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-04-16T15:00:59Z"
-      },
-      {
-        "title": "Wonder ProjectとAI企業Lumaが「ハイブリッド映画制作」の拠点としてInnovative Dreamsを設立",
-        "body": "独占：『House of David』などのシリーズを手がける独立系プロデューサーWonder Projectは、名門AIスタートアップのLumaと提携し、新会社Innovative Dreamsを設立した。この会社は、制作サービスプロバイダー、研究開発ラボ、ポストプロダクション・ビジュアル機能を融合したものと説明されている。",
-        "category": "企業動向",
-        "url": "http://deadline.com/2026/04/wonder-project-ai-firm-luma-launch-innovative-dreams-hybrid-filmmaking-1236861786/",
-        "source": "Deadline",
-        "publishedAt": "2026-04-16T14:19:56Z"
-      },
-      {
-        "title": "杭州「小龍」初の上場企業Manycoreが、AI開発の次の波として「空間知能」を推進",
-        "body": "Manycore Techは本日、1億3000万ドルのIPOを経て香港証券取引所にデビューした。これは中国都市のAI上場ブームに貢献している。",
-        "category": "企業動向",
-        "url": "https://fortune.com/2026/04/16/manycore-ipo-hong-kong-shares-debut-victor-huang-jixun-foo/",
-        "source": "Fortune",
-        "publishedAt": "2026-04-16T21:00:00Z"
-      },
-      {
-        "title": "テスラ中国責任者、上海工場をヒューマノイドロボット量産の「黄金の鍵」と呼ぶ",
-        "body": "要約：テスラ中国社長の王浩氏は、上海ギガファクトリーをOptimusヒューマノイドロボット量産の「黄金の鍵」と表現した。テスラ幹部が公に工場とロボティクス製造を結びつけたのはこれが初めてである。同工場は851,000台を納車した。",
-        "category": "応用技術",
-        "url": "https://thenextweb.com/news/tesla-shanghai-gigafactory-optimus-humanoid-robot-production/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-16T16:53:27Z"
-      },
-      {
-        "title": "フィジカルAI調査レポート2026：2026年の3830億ドルから2040年までに3.25兆ドル市場へ、ヘルスケア・スマートインフラ・農業に未開拓の可能性",
-        "body": "自律ロボットからAI搭載医療システムまでをカバーするグローバルフィジカルAI市場は、2026年の3830億ドルから2040年までに3.26兆ドルに急成長する見込みである。この歴史的な拡大は、製造、データ、規制が結果を左右するオープンレースを意味している。",
-        "category": "研究",
-        "url": "https://www.globenewswire.com/news-release/2026/04/16/3275135/28124/en/Physical-Artificial-Intellligence-AI-Research-Report-2026-A-3-25-Trillion-Market-by-2040-from-383-Billion-in-2026-with-Untapped-Potential-Across-Healthcare-Smart-Infrastructure-and.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-04-16T10:18:00Z"
-      },
-      {
-        "title": "RoboSenseが2026年第1四半期LiDAR販売を発表、ロボティクスセグメントは前年比1,458.8%増の185,500台超",
-        "body": "AI駆動ロボティクス技術の先駆的企業RoboSense（2498.HK）は、2026年第1四半期の販売数量を発表し、総LiDAR販売は...",
-        "category": "企業動向",
-        "url": "https://en.antaranews.com/news/412583/robosense-announced-q1-2026-lidar-sales-robotics-segment-grows-14588-yoy-to-over-185500-units",
-        "source": "Antaranews.com",
-        "publishedAt": "2026-04-16T09:40:08Z"
-      },
-      {
-        "title": "3分の2の組織が今後3〜5年でフィジカルAIを高い優先事項と評価",
-        "body": "プレスコンタクト：Elsa Estager Bergerou　電話：+33 6 59 62 55 13　E-mail：elsa.estager-bergerou@capgemini.com　3分の2の組織が今後3〜5年でフィジカルAIを高い優先事項と評価...",
-        "category": "研究",
-        "url": "https://www.globenewswire.com/news-release/2026/04/16/3275045/0/en/Two-thirds-of-organizations-rate-physical-AI-as-a-high-priority-for-the-next-three-to-five-years.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-04-16T06:30:00Z"
-      },
-      {
-        "title": "ジェンスン・フアンが語る、Nvidiaが勝者を選ぼうとせず多くの企業に投資する理由",
-        "body": "フアン氏はこの背景に2つの理由があると述べた。1つ目は、勝者を選ぶのはNvidiaの仕事ではないということ。2つ目は、同社の歴史が教訓となっているということだ。",
-        "category": "人物発言",
-        "url": "https://www.businessinsider.com/jensen-huang-explains-nvidia-doesnt-pick-winners-openai-anthropic-intel-2026-4",
-        "source": "Business Insider",
-        "publishedAt": "2026-04-16T05:25:12Z"
-      },
-      {
-        "title": "Intel Core Ultra X7 358H搭載のオープンロボティクス開発システム、ヒューマノイドロボットと自動運転車をターゲットに",
-        "body": "AAEON CEXD-INTRBLは、16コア、180 TOPSのIntel Core Ultra X7 Processor 358H（Panther Lake）SoCを搭載した「オープンロボティクス開発システム」であり、AI強化ヒューマノイドロボットおよび自動運転車プラットフォームの開発向けに設計されている。このEdge AIコンピュータは...",
-        "category": "応用技術",
-        "url": "https://www.cnx-software.com/2026/04/16/intel-core-ultra-x7-358h-powered-open-robotics-development-system-targets-humanoid-robots-and-autonomous-vehicles/",
-        "source": "CNX Software",
-        "publishedAt": "2026-04-16T04:51:24Z"
-      },
-      {
-        "title": "データセンター向けコンピューティングとAIのグローバル市場2026-2040：Google、Amazon、Microsoft、Metaなど企業の大規模投資によりAI ASICが最も急成長するプロセッサカテゴリに",
-        "body": "「データセンター向けコンピューティングとAIのグローバル市場2026-2040」レポートは、生成AI、大規模言語モデル、AI ASICによって牽引される半導体産業の活況を強調している。NvidiaがGPUの進歩をリードする一方、Googleなどのハイパースケーラーによるカスタムシリコンも...",
-        "category": "研究",
-        "url": "https://www.globenewswire.com/news-release/2026/04/16/3275102/28124/en/Global-Market-for-Computing-and-AI-for-Data-Centers-2026-2040-AI-ASICs-is-the-Fastest-growing-Processor-Category-As-Companies-Including-Google-Amazon-Microsoft-Meta-Invest-Heavily.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-04-16T09:31:00Z"
-      },
-      {
-        "title": "CoreWeaveがJane Streetと70億ドルのAIチップ契約を締結",
-        "body": "この契約は金融分野でのAIチップ需要の拡大を示しており、NVIDIAの時価総額と業界への影響力を高める可能性がある。\n投稿「CoreWeaveがJane Streetと70億ドルのAIチップ契約を締結」はCrypto Briefingに最初に掲載された。",
-        "category": "資金・M&A",
-        "url": "https://cryptobriefing.com/coreweave-secures-7b-ai-chip-deal-with-jane-street/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-04-16T02:11:49Z"
-      }
-    ]
-  },
   "2026-04-19": {
     "display": "2026年04月19日",
     "articles": [
@@ -991,6 +826,139 @@
         "url": "https://en.antaranews.com/news/413353/humanoid-robots-showcase-autonomy-at-beijing-half-marathon",
         "source": "Antaranews.com",
         "publishedAt": "2026-04-23T06:46:01Z"
+      }
+    ]
+  },
+  "2026-04-26": {
+    "display": "2026年04月26日",
+    "articles": [
+      {
+        "title": "AnthropicがGoogleから400億ドルの投資を受けると発表",
+        "body": "Googleが最大400億ドルをAnthropicに投資する計画であることを、この人工知能企業が金曜日に確認した。これにより両社間の長年にわたる提携が拡大される。この投資は、AnthropicがGoogleのカスタムチップを使用するというパートナーシップに基づいて構築される…",
+        "category": "資金・M&A",
+        "url": "https://japantoday.com/category/tech/anthropic-says-google-to-pump-40-bn-into-ai-startup",
+        "source": "Japan Today",
+        "publishedAt": "2026-04-24T21:05:59Z"
+      },
+      {
+        "title": "中国のDeepSeekがAIモデルのアップデートを発表",
+        "body": "昨年世界市場を揺るがした中国の人工知能スタートアップDeepSeekが、最新の大型アップデートのプレビュー版を発表した",
+        "category": "モデル発表",
+        "url": "https://www.kiro7.com/news/business/chinas-deepseek/SDBKXJWGOE237FPCM4IXCJL6JY/",
+        "source": "KIRO Seattle",
+        "publishedAt": "2026-04-24T10:31:51Z"
+      },
+      {
+        "title": "AIがAltmanとMuskを結びつけ、そして引き離した",
+        "body": "イーロン・マスクとサム・アルトマンは、OpenAIとなるプロジェクトで人工知能を通じて絆を深めたが、ビジョンの衝突により、来週開廷する裁判でこの二極化した人物たちが法廷で対決することになる。シリコンバレーの伝説では、彼らの最初の出会いは2012年に遡るとされている…",
+        "category": "人物発言",
+        "url": "https://www.digitaljournal.com/world/ai-united-altman-and-musk-then-drove-them-apart/article",
+        "source": "Digital Journal",
+        "publishedAt": "2026-04-24T16:57:32Z"
+      },
+      {
+        "title": "トランプ政権の司法省がコロラド州のAIバイアス法を巡る訴訟でイーロン・マスクのxAIを支持",
+        "body": "司法省は、コロラド州のアルゴリズム差別法に異議を唱えるxAIの訴訟に介入する動きを見せた。",
+        "category": "規制・政策",
+        "url": "https://decrypt.co/365504/trump-doj-backs-elon-musk-xai-colorado-ai-bias-law",
+        "source": "Decrypt",
+        "publishedAt": "2026-04-24T20:30:05Z"
+      },
+      {
+        "title": "NITDAが責任あるAI利用のための新たな規制ガイドラインを策定へ",
+        "body": "ナイジェリアが国家AI戦略の実施に動き出す。NITDAはナイジェリアにおける責任ある倫理的なAI規制を確保するため、新たな規制ガイドラインを策定中\n\n詳細: https://punchng.com/nitda-to-develop-new-regulatory-guidelines-for-responsible-ai-use/",
+        "category": "規制・政策",
+        "url": "https://punchng.com/nitda-to-develop-new-regulatory-guidelines-for-responsible-ai-use/",
+        "source": "The Punch",
+        "publishedAt": "2026-04-24T16:24:29Z"
+      },
+      {
+        "title": "中国のDeepSeek V4がパワーと価格で衝撃を与える — しかし、速すぎて生き残れないのか？",
+        "body": "新たに発表されたDeepSeek V4は2つのバリエーションで提供される：1.6兆パラメータを持つハイエンドの「Pro」モデルと、効率性を重視して構築された軽量な「Flash」バージョンである。両モデルとも100万トークンのコンテキストウィンドウを備えており、処理において重要な技術的飛躍を示している…",
+        "category": "モデル発表",
+        "url": "https://economictimes.indiatimes.com/news/international/us/chinas-deepseek-v4-shocks-with-power-and-price-but-is-it-moving-too-fast-to-survive/articleshow/130493007.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-04-24T11:51:11Z"
+      },
+      {
+        "title": "「完全に度肝を抜かれた」：ソニーのProject Aceロボットがプロ選手より上手く卓球をプレイ、ロボティクスの大きな転換点となる可能性",
+        "body": "ソニーAIの卓球プレイロボット「Project Ace」がエリート選手たちを打ち負かした",
+        "category": "応用技術",
+        "url": "https://www.techradar.com/ai-platforms-assistants/it-totally-blew-my-mind-sonys-project-ace-robot-plays-ping-pong-better-than-the-pros-and-could-mark-a-major-robotics-turning-point",
+        "source": "TechRadar",
+        "publishedAt": "2026-04-24T20:30:00Z"
+      },
+      {
+        "title": "AI + ロボティクス：LLMの次なる進化",
+        "body": "AIとロボティクスの融合を探る！AIがロボットをインテリジェントなシステムに変革し、自律的な行動と現実世界へのインパクトを可能にする方法を発見しよう。",
+        "category": "応用技術",
+        "url": "https://www.c-sharpcorner.com/article/ai-robotics-the-next-evolution-after-llms/",
+        "source": "C-sharpcorner.com",
+        "publishedAt": "2026-04-24T07:03:11Z"
+      },
+      {
+        "title": "大きな飛躍か、それとも過大評価か？マスクのTerafab計画はAI向け宇宙エネルギーに大きく賭けるが、実行リスクがその展望に影を落とす",
+        "body": "イーロン・マスクはAIの膨大なエネルギー需要を満たすためTerafabを計画している。この事業には宇宙でのチップ製造と発電が含まれる。他の企業は従来型のソリューションを模索している。マスクの野心的な計画はエンジニアリングとコストの課題に直面している。成功すれば、状況を一変させる可能性がある…",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/giant-leap-or-a-stretch-musks-terafab-plan-bets-big-on-space-energy-for-ai-but-execution-risks-cloud-its-promise/articleshow/130501545.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-04-24T18:09:25Z"
+      },
+      {
+        "title": "Intelの株価が2000年以来初めて史上最高値を更新",
+        "body": "Intelの復活はAIと戦略的転換の変革力を示しているが、高い期待値は持続的成長にリスクをもたらす。\nこの投稿「Intel stock hits new all-time highs for first time since 2000」は最初にCrypto Briefingに掲載された。",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/intel-stock-all-time-high-since-2000/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-04-24T15:21:39Z"
+      },
+      {
+        "title": "MetaがAgentic AIが「GPUと同じくらい重要なCPUの話」になる中、数千万のAWS Gravitonコアをコンピュートポートフォリオに追加",
+        "body": "MetaはAmazonのAWSと提携し、Agentic AI向けのAIコンピュートポートフォリオに数千万のGraviton CPUコアを導入する。Agentic AIにとってCPUは新たなGPU - MetaはAIインフラに数百万のAmazon AWS Graviton CPUコアを追加している。…",
+        "category": "企業動向",
+        "url": "https://wccftech.com/meta-is-adding-tens-of-millions-of-aws-graviton-cpu-cores-to-its-compute-portfolio/",
+        "source": "Wccftech",
+        "publishedAt": "2026-04-24T14:40:09Z"
+      },
+      {
+        "title": "MetaがAmazonのクラウド部門と契約しCPUチップを使用へ",
+        "body": "Metaは「数千万コア」相当のGravitonチップを使用する。各チップ自体には192コアが含まれているが、それぞれ異なるタスクに割り当てることができる。",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/tech/technology/meta-strikes-deal-with-amazons-cloud-unit-to-use-its-cpu-chips/articleshow/130495814.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-04-24T13:30:30Z"
+      },
+      {
+        "title": "IntelがAI向けCPU需要の急増で6四半期連続で予想を上回る",
+        "body": "第1四半期の収益は136億ドルで、コンセンサスの124億ドルを9.4%上回った。データセンターとAIの収益は22%増の51億ドルとなった。Non-GAAP EPSは0.29ドルで、1セントのコンセンサスを29倍上回った。株価は今年80%以上上昇している。Intelはイーロン・マスクと協力している…",
+        "category": "企業動向",
+        "url": "https://thenextweb.com/news/intel-q1-2026-earnings-ai-cpu/",
+        "source": "The Next Web",
+        "publishedAt": "2026-04-24T11:15:26Z"
+      },
+      {
+        "title": "中国による先進的米国コンピューティングへのアクセス制限に関する国家安全保障上の根拠：PLA調達文書からの証拠",
+        "body": "研究者らは、米国のチップ輸出規制を緩和すれば中国の軍事AI能力が強化されると警告している。証拠によると、PLAはドローン群やサイバー攻撃などの高度な作戦にアメリカ設計のチップを使用している。",
+        "category": "規制・政策",
+        "url": "https://eto.tech/blog/pla-procurement-case-for-limiting-china-advanced-compute/",
+        "source": "Eto.tech",
+        "publishedAt": "2026-04-24T00:00:00Z"
+      },
+      {
+        "title": "今週の技術法案：データプライバシー基準の策定、ドローンからの重要インフラ保護、その他",
+        "body": "連邦議会の議員らは今週、データセンターの電力需要と消費者のエネルギーコストのバランスを取る法案や、中国に販売できる先進半導体の種類に関するガイドラインを確立する法案など、多数の提案を提出した。",
+        "category": "規制・政策",
+        "url": "https://www.nextgov.com/policy/2026/04/tech-bills-week-creating-data-privacy-standards-securing-critical-infrastructure-drones-and-more/413117/",
+        "source": "Nextgov",
+        "publishedAt": "2026-04-24T21:11:00Z"
+      },
+      {
+        "title": "最新情報… Cohere、Veon、Telia",
+        "body": "Cohereが大西洋を跨ぐソブリンAI取引を仲介\nVeonがDSPおよびソブリン認証を確立\nTeliaは安定した成長軌道に",
+        "category": "企業動向",
+        "url": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-cohere-veon-telia-55370/",
+        "source": "TelecomTV",
+        "publishedAt": "2026-04-24T14:13:22Z"
       }
     ]
   }

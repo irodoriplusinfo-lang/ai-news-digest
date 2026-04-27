@@ -897,5 +897,66 @@
         "publishedAt": "2026-04-25T11:46:49Z"
       }
     ]
+  },
+  "2026-04-28": {
+    "display": "2026年04月28日",
+    "articles": [
+      {
+        "title": "AI一般教書演説",
+        "body": "画像生成編 最終更新：2026年4月26日午前11時39分 by Braden Kelley  過去80年間（実際には83年）にわたるAIの進化を見守ることは魅力的でした（正直なところ、私はそのすべてを見届けるほど長く生きていませんが）、しかしその進化は…",
+        "category": "その他",
+        "url": "https://bradenkelley.com/2026/04/ai-state-of-the-union/",
+        "source": "Bradenkelley.com",
+        "publishedAt": "2026-04-26T18:54:16Z"
+      },
+      {
+        "title": "Anthropic、国防総省のAI「キルスイッチ」主張を法廷提出書類で否定",
+        "body": "人工知能企業Anthropicは、機密軍事ネットワークに展開されたClaudeAIモデルに対する制御を同社が保持しているという国防総省の主張を、新たな法廷提出書類で正式に否定した。同社は「根拠がない」と述べた…",
+        "category": "企業動向",
+        "url": "https://www.naturalnews.com/2026-04-26-anthtropic-denies-pentagon-claims-ai-kill-switch.html",
+        "source": "Naturalnews.com",
+        "publishedAt": "2026-04-26T06:00:00Z"
+      },
+      {
+        "title": "コロラド州議員、子供のAIチャットボット利用制限とアダルトコンテンツへのアクセスに取り組む",
+        "body": "「法律が追いつくことができないほど本質的に速く動くものを規制しようとするとき、それは動く標的になるだろう」と、チャットボット安全法案を提出しているショーン・カマチョ下院議員は述べた。",
+        "category": "規制・政策",
+        "url": "https://www.denverpost.com/2026/04/26/chatbot-regulations-ai-suicide-age-verification-colorado/",
+        "source": "The Denver Post",
+        "publishedAt": "2026-04-26T12:00:12Z"
+      },
+      {
+        "title": "中国、疲弊したドライバーへの配車アプリの注文停止を命令。アルゴリズムが団体交渉の対象に",
+        "body": "中国の最高統治機関である中国共産党中央委員会と国務院は日曜日、ギグワーカー向けの包括的な労働規則を発表した。これは党の最高権威が1億人以上のギグワーカーへの保護を初めて正式に定めたものである…",
+        "category": "規制・政策",
+        "url": "https://thenextweb.com/news/china-gig-worker-platform-labour-rules/",
+        "source": "The Next Web",
+        "publishedAt": "2026-04-26T11:52:43Z"
+      },
+      {
+        "title": "破産したフィンテックCEOと大統領の息子を擁するスタートアップがアメリカのロボット軍団を構築したいと考えている",
+        "body": "2024年4月にサンフランシスコで設立されたスタートアップFoundation Future Industriesは、敵陣地を突破するために設計されたヒューマノイドロボットのテストのため、米陸軍、海軍、空軍から2400万ドルの研究契約を獲得した。同社のPhantom MK-1は5フィートの…",
+        "category": "応用技術",
+        "url": "https://thenextweb.com/news/foundation-humanoid-robot-soldiers-pentagon/",
+        "source": "The Next Web",
+        "publishedAt": "2026-04-26T12:27:08Z"
+      },
+      {
+        "title": "このスタートアップはヒューマノイドロボット兵士の軍団を構築したいと考えている",
+        "body": "Foundationはデモンストレーションのためにヒューマノイドロボットをウクライナに送った。CEOのSankaet Pathak氏は、5〜10年後にはターゲットを抽出できるようになると述べた。",
+        "category": "応用技術",
+        "url": "https://www.businessinsider.com/foundation-humanoid-robot-soldier-ukraine-testing-2026-4",
+        "source": "Business Insider",
+        "publishedAt": "2026-04-26T08:11:01Z"
+      },
+      {
+        "title": "「楽観論への回帰」：ウォール街のストラテジストはAI取引に強気",
+        "body": "半導体株の急速な上昇がAI取引を再燃させた。",
+        "category": "企業動向",
+        "url": "https://finance.yahoo.com/markets/article/a-return-to-optimism-wall-street-strategists-are-bullish-on-the-ai-trade-143000172.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-04-26T14:30:00Z"
+      }
+    ]
   }
 }

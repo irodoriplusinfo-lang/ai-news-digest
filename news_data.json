@@ -1,105 +1,4 @@
 {
-  "2026-04-22": {
-    "display": "2026年04月22日",
-    "articles": [
-      {
-        "title": "Adobe、マーケティングワークフロー自動化のためのAIエージェントを発表",
-        "body": "Adobeは、エージェント型人工知能（AI）システム、AI搭載のコワーカー、およびAIプラットフォームとの拡大されたコラボレーションにより、マーケティングソリューションのラインナップを強化している。同社は4月20日（月）、年次カンファレンスの初日にこれらの新しいサービスを発表した。",
-        "category": "企業動向",
-        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/adobe-launches-ai-agents-to-automate-marketing-workflows/",
-        "source": "pymnts.com",
-        "publishedAt": "2026-04-20T15:11:04Z"
-      },
-      {
-        "title": "Meta株が1.71%下落、ウォール街は1350億ドルのAI投資攻勢の中でQ1決算に備える",
-        "body": "Meta Platforms Inc.の株式は2026年4月20日（月）の早朝取引で1.71%下落し、11.76ドル安の676.79ドルとなった。投資家たちは今週後半に控える同社の第1四半期決算発表に備えてポジションを調整し、また大規模な資本投資の消化を続けている。",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/meta-stock-drops-171-wall-street-braces-q1-earnings-amid-135-billion-ai-spending-blitz-1867087",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-04-20T14:16:24Z"
-      },
-      {
-        "title": "（動画）イーロン・マスク、AIロボティクスが2040年代までに労働を任意にし、新たな豊かさの時代をもたらすと予測",
-        "body": "テキサス州オースティン — イーロン・マスクは、TeslaおよびxAIのCEOとして、人工知能とロボティクスの急速な進歩がまもなく労働を任意のものにし、新たな豊かさの時代への道を開くと宣言するバイラル動画クリップで、労働の未来に関する世界的な議論を再燃させた。",
-        "category": "人物発言",
-        "url": "https://www.ibtimes.com.au/video-elon-musk-predicts-ai-robotics-will-make-work-optional-ushering-new-era-abundance-2040s-1867058",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-04-20T07:57:31Z"
-      },
-      {
-        "title": "下院議員候補、AIによる失業者へのアメリカ人への支払い計画を発表",
-        "body": "その資金は「控えめな」AI税から捻出される予定。",
-        "category": "規制・政策",
-        "url": "https://gizmodo.com/house-candidate-unveils-plan-to-pay-americans-who-face-ai-job-displacement-2000748609",
-        "source": "Gizmodo.com",
-        "publishedAt": "2026-04-20T21:16:21Z"
-      },
-      {
-        "title": "データセンター紛争は地域的だった。しかし中間選挙がそれを変えるかもしれない",
-        "body": "データセンターブームへの怒りは政治にまで波及し、有権者はデータセンターを支持する地方政治家を落選させている。これは中間選挙で無視できない問題となっている。",
-        "category": "規制・政策",
-        "url": "https://www.npr.org/2026/04/20/g-s1-117729/data-center-disputes-local-midterms",
-        "source": "NPR",
-        "publishedAt": "2026-04-20T09:00:00Z"
-      },
-      {
-        "title": "ヒューマノイドロボットがシーメンスのエアランゲン工場で8時間の工場シフトを完了",
-        "body": "Siemens、Nvidia、および英国のロボティクススタートアップHumanoidは、ドイツのシーメンス電子機器工場でAI搭載の車輪付きヒューマノイドロボットを実際の物流オペレーションに成功裏に導入した。HMND 01 Alphaは8時間以上の自律的なトート取り扱い作業を完了した。",
-        "category": "応用技術",
-        "url": "https://thenextweb.com/news/siemens-nvidia-humanoid-robot-erlangen-factory-trial/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-20T10:17:07Z"
-      },
-      {
-        "title": "この人間対ロボットのハーフマラソンは上手くいかなかった…人間にとっては",
-        "body": "中国・北京で行われたハーフマラソンレースで、数十体のヒューマノイドロボットが人間のランナーを追い抜いた。",
-        "category": "応用技術",
-        "url": "https://www.huffpost.com/entry/humanoid-half-marathon-china_n_69e5f683e4b0555d213cf6a8",
-        "source": "HuffPost",
-        "publishedAt": "2026-04-20T09:55:06Z"
-      },
-      {
-        "title": "ポーラ・R-AI-ドクリフ！ロボットが北京ハーフマラソンで優勝した瞬間を見よ - 人間の記録を約7分上回る",
-        "body": "北京ハーフマラソンで、新世代のスピーディーなロボットレーサーが人間のアスリートを置き去りにする中、サポーターたちは畏敬の念を持って見守った。",
-        "category": "応用技術",
-        "url": "https://www.dailymail.com/sciencetech/article-15747815/robot-wins-beijing-half-marathon-human-record.html",
-        "source": "Dailymail.com",
-        "publishedAt": "2026-04-20T09:12:57Z"
-      },
-      {
-        "title": "NVIDIAとパートナー企業、ハノーバーメッセ2026でAI駆動製造業の未来を披露",
-        "body": "製造業は転換点にある。すべての主要な工業経済において、より短い設計サイクル、より効率的なオペレーション、熟練労働力プールへの負担により、より少ないリソースでより多くのことを行うという圧力が、AI駆動型生産へのシフトを加速させている。問題は…",
-        "category": "企業動向",
-        "url": "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/",
-        "source": "Nvidia.com",
-        "publishedAt": "2026-04-20T08:30:55Z"
-      },
-      {
-        "title": "ヒューマノイドロボットが中国でハーフマラソンの人間世界記録を破る",
-        "body": "中国製の数十体のヒューマノイドロボットが、日曜日に北京で行われたハーフマラソンレースで人間のランナーを追い抜き、急速に向上する運動能力と自律ナビゲーションスキルを披露した。これはこのセクターの急速な技術進歩を浮き彫りにしている。",
-        "category": "応用技術",
-        "url": "https://www.independent.ie/world-news/asia-pacific/humanoid-robot-beats-human-world-record-for-half-marathon-in-china/a345844254.html",
-        "source": "Independent.ie",
-        "publishedAt": "2026-04-20T04:30:00Z"
-      },
-      {
-        "title": "Marvell、GoogleのカスタムAIチップ支援の報道で株価上昇。Broadcom株は下落",
-        "body": "Marvellは3月にNvidiaから20億ドルの投資を受けており、AI需要は引き続き急増している。",
-        "category": "企業動向",
-        "url": "https://www.cnbc.com/2026/04/20/marvell-stock-google-custom-ai-chips.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-20T20:43:47Z"
-      },
-      {
-        "title": "Stifel、AMDの目標株価を320ドルに引き上げ：AIチップラリーはまだ始まったばかりか？",
-        "body": "Advanced Micro Devices（NASDAQ:AMD）株は、Stifelから強い支持を得た。同社は買い推奨を維持しながら、目標株価を280ドルから320ドルに引き上げた。",
-        "category": "企業動向",
-        "url": "https://247wallst.com/investing/2026/04/20/stifel-raises-amd-target-to-320-is-the-ai-chip-rally-just-getting-started/",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-04-20T15:06:23Z"
-      }
-    ]
-  },
   "2026-04-23": {
     "display": "2026年04月23日",
     "articles": [
@@ -1012,6 +911,171 @@
         "url": "https://thenextweb.com/news/sereact-raises-110-million-series-b/",
         "source": "The Next Web",
         "publishedAt": "2026-04-27T09:54:49Z"
+      }
+    ]
+  },
+  "2026-04-30": {
+    "display": "2026年04月30日",
+    "articles": [
+      {
+        "title": "OpenAIのモデルがあらゆる場所で利用可能に。問題は、あらゆる場所で十分かどうかだ。",
+        "body": "Amazon Web ServicesがOpenAIのモデルをクラウド顧客に販売開始すると、同社は火曜日に発表した。これは、MicrosoftがAzureにOpenAIの技術への独占的な再販アクセスを与えていた独占再販契約を終了することに合意した翌日のことだった。",
+        "category": "企業動向",
+        "url": "https://thenextweb.com/news/amazon-aws-openai-models-microsoft-exclusivity-ends/",
+        "source": "The Next Web",
+        "publishedAt": "2026-04-28T18:42:54Z"
+      },
+      {
+        "title": "Ineffable Intelligenceが51億ドルの評価額で11億ドルを調達、AI「スーパーラーナー」を構築へ",
+        "body": "数ヶ月前に設立された英国の人工知能スタートアップ、Ineffable Intelligence Ltd.がシード資金として11億ドルを調達した。この投資により同社の評価額は51億ドルとなった。CNBCは本日、Lightspeed VenturesとSequoia Capitalがこの投資ラウンドを主導したと報じた。",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/04/27/ineffable-intelligence-raises-1-1b-5-1b-valuation-build-ai-superlearner/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-04-28T01:10:40Z"
+      },
+      {
+        "title": "史上最も裕福な遺恨試合",
+        "body": "イーロン・マスクとサム・アルトマンの裁判は、AIブームを卑しく小さなものに見せている。",
+        "category": "企業動向",
+        "url": "https://www.theatlantic.com/technology/2026/04/openai-trial-elon-musk-sam-altman/686984/",
+        "source": "The Atlantic",
+        "publishedAt": "2026-04-28T23:13:00Z"
+      },
+      {
+        "title": "窃盗の告発、気まずいテキストメッセージ、億万長者の証人たち——マスク対OpenAI裁判について知っておくべきすべてのこと",
+        "body": "これは人工知能が直面した最も混乱した訴訟だ——数十億ドル、そして潜在的には人類そのものの運命が陪審員の手に委ねられている。世界一の富豪イーロン・マスクが、かつての同盟者（そして同じく億万長者の）サム・アルトマンと法廷で対決している。",
+        "category": "企業動向",
+        "url": "https://nypost.com/2026/04/28/world-news/everything-you-need-to-know-about-the-explosive-musk-vs-openai-trial/",
+        "source": "New York Post",
+        "publishedAt": "2026-04-28T19:12:43Z"
+      },
+      {
+        "title": "イーロン・マスク、破られた約束をめぐりOpenAIと法廷で対決",
+        "body": "イーロン・マスクがOpenAIと法廷で争っている。彼はAI企業が当初の非営利ミッションを裏切ったと主張している。かつての支援者であるマスクは、現在OpenAIと競合している。この裁判はAI業界の将来を形作る可能性がある。OpenAIのCEOサム・アルトマンも出席している。この訴訟はAI開発における利益と安全性のバランスについての議論を浮き彫りにしている。",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-faces-off-with-openai-in-court-over-broken-promises/articleshow/130584667.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-04-28T15:45:07Z"
+      },
+      {
+        "title": "マスク、破られた約束をめぐりOpenAIと法廷で対決",
+        "body": "イーロン・マスクは火曜日、人工知能企業が非営利ミッションを裏切ったかどうかをめぐるOpenAIとの法廷対決で、冒頭陳述に出席した。サンフランシスコ湾を挟んだ法廷での衝突は、世界一の富豪と、かつてマスクが共同創設を支援したスタートアップを対立させている。",
+        "category": "企業動向",
+        "url": "https://www.digitaljournal.com/world/musk-faces-off-with-openai-in-court-over-broken-promises/article",
+        "source": "Digital Journal",
+        "publishedAt": "2026-04-28T15:42:20Z"
+      },
+      {
+        "title": "イーロン・マスク対OpenAI裁判、火曜日に冒頭陳述",
+        "body": "億万長者イーロン・マスクとOpenAIの法廷対決が火曜日に始まる。マスクは人工知能企業が非営利ミッションを裏切ったと主張している。OpenAIはマスクが絶対的な支配権を求めていたと反論している。この法廷闘争は、AIの利益と安全性をめぐる議論にスポットライトを当てている。",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/opening-remarks-tuesday-in-elon-musk-versus-openai-trial/articleshow/130567408.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-04-28T02:06:31Z"
+      },
+      {
+        "title": "イーロン・マスク対OpenAI、火曜日に冒頭陳述",
+        "body": "億万長者イーロン・マスクとOpenAIの間で、人工知能企業が非営利ミッションを裏切ったかどうかをめぐる法廷対決の冒頭陳述が火曜日に予定されている。サンフランシスコ湾を挟んだ法廷での衝突は、世界一の富豪と、かつてマスクが共同創設を支援したスタートアップを対立させている。",
+        "category": "企業動向",
+        "url": "https://www.digitaljournal.com/business/opening-remarks-tuesday-in-elon-musk-versus-openai/article",
+        "source": "Digital Journal",
+        "publishedAt": "2026-04-28T01:27:34Z"
+      },
+      {
+        "title": "南アフリカがAI政策の作成にAIを使用。引用は偽物だった。",
+        "body": "南アフリカの通信デジタル技術省は、国家人工知能政策の起草に数ヶ月を費やした。国家AI委員会、AI倫理委員会、AI規制当局、AIオンブズパーソン、国家AI安全機関を提案した。しかし、その文書の引用はAIによって生成されたものであることが判明した。",
+        "category": "規制・政策",
+        "url": "https://thenextweb.com/news/south-africa-ai-policy-hallucinated-citations/",
+        "source": "The Next Web",
+        "publishedAt": "2026-04-28T21:24:36Z"
+      },
+      {
+        "title": "金融データ企業の元祖Bloombergが強力な新AIエージェントを発表。その構築方法は他企業への教訓を含む",
+        "body": "Bloombergの「AskB」ツールは、金融分野におけるAIエージェントの可能性を示している。また、そのようなエージェントの構築がいかに困難であるかも示している。",
+        "category": "応用技術",
+        "url": "https://fortune.com/2026/04/28/bloomberg-askb-ai-agents-lessons-from-bloomberg-cto-shawn-edwards-eye-on-ai/",
+        "source": "Fortune",
+        "publishedAt": "2026-04-28T21:15:57Z"
+      },
+      {
+        "title": "なぜ南アフリカはAI政策草案を撤回したのか？ #tech",
+        "body": "南アフリカが初のAI政策草案を撤回 南アフリカは、内部審査により文書に架空の情報源が含まれていることが判明したため、初の国家AI政策草案を撤回した。それらの情報源はAIによって生成されたものと思われ、最初の政策文書への信頼が損なわれた。",
+        "category": "規制・政策",
+        "url": "https://alltoc.com/tech/why-did-south-africa-withdraw-ai-policy-draft",
+        "source": "Alltoc.com",
+        "publishedAt": "2026-04-28T18:01:59Z"
+      },
+      {
+        "title": "政府に人工知能のリスク最小化を求める声",
+        "body": "人工知能（AI）が公共サービス、職場、日常生活にますます浸透する中、政府は適切な基盤を整えるよう求められている。",
+        "category": "規制・政策",
+        "url": "https://www.rte.ie/news/2026/0428/1570698-risk-of-ai/",
+        "source": "RTE",
+        "publishedAt": "2026-04-28T16:59:34Z"
+      },
+      {
+        "title": "米国AIサーバー市場調査レポート2026-2034：データセンター、クラウドプラットフォーム、企業IT環境における人工知能ワークロードの拡大が成長を牽引",
+        "body": "米国AIサーバー市場は、クラウドプラットフォームと企業環境における人工知能ワークロードの急増により、2025年の503.2億ドルから2034年には7062億ドルへと指数関数的な成長が見込まれている。",
+        "category": "その他",
+        "url": "https://www.globenewswire.com/news-release/2026/04/28/3282970/28124/en/United-States-AI-Server-Market-Research-Report-2026-2034-Expansion-Driven-by-Artificial-Intelligence-Workloads-Across-Data-Centers-Cloud-Platforms-and-Enterprise-IT-Environments.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-28T15:30:00Z"
+      },
+      {
+        "title": "労働党、OpenAIが数十億ポンド規模の主要データセンター契約をキャンセル後、「AIハードウェア計画」を策定へ",
+        "body": "リズ・ケンドール技術長官は、OpenAIが英国での数十億ポンド規模のデータセンタープロジェクトをキャンセルしてから20日も経たないうちに、政府がAI投資を促進するための「ハードウェア計画」を策定する意向であると発表した。労働党の政策を批判しながら、ケンドールは議会で述べた。",
+        "category": "規制・政策",
+        "url": "https://order-order.com/2026/04/28/labour-to-develop-ai-hardware-plan-after-openai-cancels-multi-billion-pound-flagship-data-centre-deal/",
+        "source": "Order-order.com",
+        "publishedAt": "2026-04-28T11:28:48Z"
+      },
+      {
+        "title": "中国によるAI取引阻止が「シンガポール・ウォッシング」を止める可能性",
+        "body": "中国のAIスタートアップが中国のAIスタートアップでなくなるのはいつか？法的・政治的に北京から距離を置くため、シンガポールやその他の地域に拠点を置いている場合だ。「シンガポール・ウォッシング」として知られるこの慣行は、中国が主要な米国による買収を阻止した後、精査されている。",
+        "category": "企業動向",
+        "url": "https://www.digitaljournal.com/business/how-china-block-of-ai-deal-could-stop-singapore-washing/article",
+        "source": "Digital Journal",
+        "publishedAt": "2026-04-28T06:42:32Z"
+      },
+      {
+        "title": "スペインのスタートアップがビデオAIに転換し、VCなしで2億3000万ドルのARRビジネスを構築した方法",
+        "body": "Freepikは、共同創業者兼CEOのホアキン・クエンカ・アベラがAIの未来に向けて会社を再構築する中、Magnificとしてリブランディングしている。",
+        "category": "企業動向",
+        "url": "https://fortune.com/2026/04/28/freepik-magnific-joaquin-cuenca-abela-230-million-arr-video-generation-ai-pivot/",
+        "source": "Fortune",
+        "publishedAt": "2026-04-28T11:37:20Z"
+      },
+      {
+        "title": "ソニーの卓球ロボットが型破りな動きでエリート人間選手を打ち負かした",
+        "body": "AIはチェスや囲碁などのゲームでとっくに人間を超えている。今やトップアスリートに挑戦できるロボットを動かしている。",
+        "category": "応用技術",
+        "url": "https://singularityhub.com/2026/04/28/sonys-table-tennis-robot-beat-elite-human-players-with-unorthodox-moves/#article",
+        "source": "Singularity Hub",
+        "publishedAt": "2026-04-28T14:00:00Z"
+      },
+      {
+        "title": "AIの経済学は理にかなっていない",
+        "body": "この記事が気に入ったら、私のプレミアムニュースレターを購読してください。年間70ドル、または月額7ドルで、毎週5,000語から18,000語のニュースレターが届きます。NVIDIA、Anthropic、OpenAIの詳細な分析が含まれています。",
+        "category": "その他",
+        "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
+        "source": "Wheresyoured.at",
+        "publishedAt": "2026-04-28T16:39:53Z"
+      },
+      {
+        "title": "RoboSenseがEOCENE SPAD-SoCアーキテクチャとチップセットPhoenixおよびPeacockを発表",
+        "body": "AI駆動ロボティクス技術企業のRoboSense（HKEX: 2498）は本日、深センで2026年テックデーを開催し、世界初公開となる画期的な発表を行った。",
+        "category": "応用技術",
+        "url": "https://en.antaranews.com/news/413899/robosense-unveiled-eocene-spad-soc-architecture-and-chipsets-phoenix-and-peacock",
+        "source": "Antaranews.com",
+        "publishedAt": "2026-04-28T05:00:42Z"
+      },
+      {
+        "title": "Fabric.AI（Nasdaq: SBLX）がMicroLED相互接続技術のブレークスルーを発表、次世代「AIファクトリー」インフラ構築の第一歩として。大手MicroLED開発企業Kopin Corporation（Nasdaq: KOPN）と提携",
+        "body": "大規模にインテリジェンスを生産するために最適化されたスマートデータセンターであるAIファクトリーを動かすために設計された新しいファブレス半導体技術スイートを紹介。MicroLED光学相互接続に初期フォーカスを置き、1000億ドル以上の業界でリーダーシップを取るためにパートナーシップを締結。",
+        "category": "企業動向",
+        "url": "https://www.globenewswire.com/news-release/2026/04/28/3282654/0/en/Fabric-AI-Nasdaq-SBLX-Launches-Breakthrough-MicroLED-Interconnect-Technology-as-First-Step-in-Building-Next-Generation-AI-Factory-Infrastructure-Partners-with-Leading-MicroLED-Deve.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-04-28T12:30:00Z"
       }
     ]
   }

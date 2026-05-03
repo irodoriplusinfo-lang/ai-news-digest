@@ -1,137 +1,4 @@
 {
-  "2026-04-26": {
-    "display": "2026年04月26日",
-    "articles": [
-      {
-        "title": "AnthropicがGoogleから400億ドルの投資を受けると発表",
-        "body": "Googleが最大400億ドルをAnthropicに投資する計画であることを、この人工知能企業が金曜日に確認した。これにより両社間の長年にわたる提携が拡大される。この投資は、AnthropicがGoogleのカスタムチップを使用するというパートナーシップに基づいて構築される…",
-        "category": "資金・M&A",
-        "url": "https://japantoday.com/category/tech/anthropic-says-google-to-pump-40-bn-into-ai-startup",
-        "source": "Japan Today",
-        "publishedAt": "2026-04-24T21:05:59Z"
-      },
-      {
-        "title": "中国のDeepSeekがAIモデルのアップデートを発表",
-        "body": "昨年世界市場を揺るがした中国の人工知能スタートアップDeepSeekが、最新の大型アップデートのプレビュー版を発表した",
-        "category": "モデル発表",
-        "url": "https://www.kiro7.com/news/business/chinas-deepseek/SDBKXJWGOE237FPCM4IXCJL6JY/",
-        "source": "KIRO Seattle",
-        "publishedAt": "2026-04-24T10:31:51Z"
-      },
-      {
-        "title": "AIがAltmanとMuskを結びつけ、そして引き離した",
-        "body": "イーロン・マスクとサム・アルトマンは、OpenAIとなるプロジェクトで人工知能を通じて絆を深めたが、ビジョンの衝突により、来週開廷する裁判でこの二極化した人物たちが法廷で対決することになる。シリコンバレーの伝説では、彼らの最初の出会いは2012年に遡るとされている…",
-        "category": "人物発言",
-        "url": "https://www.digitaljournal.com/world/ai-united-altman-and-musk-then-drove-them-apart/article",
-        "source": "Digital Journal",
-        "publishedAt": "2026-04-24T16:57:32Z"
-      },
-      {
-        "title": "トランプ政権の司法省がコロラド州のAIバイアス法を巡る訴訟でイーロン・マスクのxAIを支持",
-        "body": "司法省は、コロラド州のアルゴリズム差別法に異議を唱えるxAIの訴訟に介入する動きを見せた。",
-        "category": "規制・政策",
-        "url": "https://decrypt.co/365504/trump-doj-backs-elon-musk-xai-colorado-ai-bias-law",
-        "source": "Decrypt",
-        "publishedAt": "2026-04-24T20:30:05Z"
-      },
-      {
-        "title": "NITDAが責任あるAI利用のための新たな規制ガイドラインを策定へ",
-        "body": "ナイジェリアが国家AI戦略の実施に動き出す。NITDAはナイジェリアにおける責任ある倫理的なAI規制を確保するため、新たな規制ガイドラインを策定中\n\n詳細: https://punchng.com/nitda-to-develop-new-regulatory-guidelines-for-responsible-ai-use/",
-        "category": "規制・政策",
-        "url": "https://punchng.com/nitda-to-develop-new-regulatory-guidelines-for-responsible-ai-use/",
-        "source": "The Punch",
-        "publishedAt": "2026-04-24T16:24:29Z"
-      },
-      {
-        "title": "中国のDeepSeek V4がパワーと価格で衝撃を与える — しかし、速すぎて生き残れないのか？",
-        "body": "新たに発表されたDeepSeek V4は2つのバリエーションで提供される：1.6兆パラメータを持つハイエンドの「Pro」モデルと、効率性を重視して構築された軽量な「Flash」バージョンである。両モデルとも100万トークンのコンテキストウィンドウを備えており、処理において重要な技術的飛躍を示している…",
-        "category": "モデル発表",
-        "url": "https://economictimes.indiatimes.com/news/international/us/chinas-deepseek-v4-shocks-with-power-and-price-but-is-it-moving-too-fast-to-survive/articleshow/130493007.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-04-24T11:51:11Z"
-      },
-      {
-        "title": "「完全に度肝を抜かれた」：ソニーのProject Aceロボットがプロ選手より上手く卓球をプレイ、ロボティクスの大きな転換点となる可能性",
-        "body": "ソニーAIの卓球プレイロボット「Project Ace」がエリート選手たちを打ち負かした",
-        "category": "応用技術",
-        "url": "https://www.techradar.com/ai-platforms-assistants/it-totally-blew-my-mind-sonys-project-ace-robot-plays-ping-pong-better-than-the-pros-and-could-mark-a-major-robotics-turning-point",
-        "source": "TechRadar",
-        "publishedAt": "2026-04-24T20:30:00Z"
-      },
-      {
-        "title": "AI + ロボティクス：LLMの次なる進化",
-        "body": "AIとロボティクスの融合を探る！AIがロボットをインテリジェントなシステムに変革し、自律的な行動と現実世界へのインパクトを可能にする方法を発見しよう。",
-        "category": "応用技術",
-        "url": "https://www.c-sharpcorner.com/article/ai-robotics-the-next-evolution-after-llms/",
-        "source": "C-sharpcorner.com",
-        "publishedAt": "2026-04-24T07:03:11Z"
-      },
-      {
-        "title": "大きな飛躍か、それとも過大評価か？マスクのTerafab計画はAI向け宇宙エネルギーに大きく賭けるが、実行リスクがその展望に影を落とす",
-        "body": "イーロン・マスクはAIの膨大なエネルギー需要を満たすためTerafabを計画している。この事業には宇宙でのチップ製造と発電が含まれる。他の企業は従来型のソリューションを模索している。マスクの野心的な計画はエンジニアリングとコストの課題に直面している。成功すれば、状況を一変させる可能性がある…",
-        "category": "企業動向",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/giant-leap-or-a-stretch-musks-terafab-plan-bets-big-on-space-energy-for-ai-but-execution-risks-cloud-its-promise/articleshow/130501545.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-04-24T18:09:25Z"
-      },
-      {
-        "title": "Intelの株価が2000年以来初めて史上最高値を更新",
-        "body": "Intelの復活はAIと戦略的転換の変革力を示しているが、高い期待値は持続的成長にリスクをもたらす。\nこの投稿「Intel stock hits new all-time highs for first time since 2000」は最初にCrypto Briefingに掲載された。",
-        "category": "企業動向",
-        "url": "https://cryptobriefing.com/intel-stock-all-time-high-since-2000/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-04-24T15:21:39Z"
-      },
-      {
-        "title": "MetaがAgentic AIが「GPUと同じくらい重要なCPUの話」になる中、数千万のAWS Gravitonコアをコンピュートポートフォリオに追加",
-        "body": "MetaはAmazonのAWSと提携し、Agentic AI向けのAIコンピュートポートフォリオに数千万のGraviton CPUコアを導入する。Agentic AIにとってCPUは新たなGPU - MetaはAIインフラに数百万のAmazon AWS Graviton CPUコアを追加している。…",
-        "category": "企業動向",
-        "url": "https://wccftech.com/meta-is-adding-tens-of-millions-of-aws-graviton-cpu-cores-to-its-compute-portfolio/",
-        "source": "Wccftech",
-        "publishedAt": "2026-04-24T14:40:09Z"
-      },
-      {
-        "title": "MetaがAmazonのクラウド部門と契約しCPUチップを使用へ",
-        "body": "Metaは「数千万コア」相当のGravitonチップを使用する。各チップ自体には192コアが含まれているが、それぞれ異なるタスクに割り当てることができる。",
-        "category": "企業動向",
-        "url": "https://economictimes.indiatimes.com/tech/technology/meta-strikes-deal-with-amazons-cloud-unit-to-use-its-cpu-chips/articleshow/130495814.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-04-24T13:30:30Z"
-      },
-      {
-        "title": "IntelがAI向けCPU需要の急増で6四半期連続で予想を上回る",
-        "body": "第1四半期の収益は136億ドルで、コンセンサスの124億ドルを9.4%上回った。データセンターとAIの収益は22%増の51億ドルとなった。Non-GAAP EPSは0.29ドルで、1セントのコンセンサスを29倍上回った。株価は今年80%以上上昇している。Intelはイーロン・マスクと協力している…",
-        "category": "企業動向",
-        "url": "https://thenextweb.com/news/intel-q1-2026-earnings-ai-cpu/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-24T11:15:26Z"
-      },
-      {
-        "title": "中国による先進的米国コンピューティングへのアクセス制限に関する国家安全保障上の根拠：PLA調達文書からの証拠",
-        "body": "研究者らは、米国のチップ輸出規制を緩和すれば中国の軍事AI能力が強化されると警告している。証拠によると、PLAはドローン群やサイバー攻撃などの高度な作戦にアメリカ設計のチップを使用している。",
-        "category": "規制・政策",
-        "url": "https://eto.tech/blog/pla-procurement-case-for-limiting-china-advanced-compute/",
-        "source": "Eto.tech",
-        "publishedAt": "2026-04-24T00:00:00Z"
-      },
-      {
-        "title": "今週の技術法案：データプライバシー基準の策定、ドローンからの重要インフラ保護、その他",
-        "body": "連邦議会の議員らは今週、データセンターの電力需要と消費者のエネルギーコストのバランスを取る法案や、中国に販売できる先進半導体の種類に関するガイドラインを確立する法案など、多数の提案を提出した。",
-        "category": "規制・政策",
-        "url": "https://www.nextgov.com/policy/2026/04/tech-bills-week-creating-data-privacy-standards-securing-critical-infrastructure-drones-and-more/413117/",
-        "source": "Nextgov",
-        "publishedAt": "2026-04-24T21:11:00Z"
-      },
-      {
-        "title": "最新情報… Cohere、Veon、Telia",
-        "body": "Cohereが大西洋を跨ぐソブリンAI取引を仲介\nVeonがDSPおよびソブリン認証を確立\nTeliaは安定した成長軌道に",
-        "category": "企業動向",
-        "url": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-cohere-veon-telia-55370/",
-        "source": "TelecomTV",
-        "publishedAt": "2026-04-24T14:13:22Z"
-      }
-    ]
-  },
   "2026-04-27": {
     "display": "2026年04月27日",
     "articles": [
@@ -1036,6 +903,59 @@
         "url": "https://tim.blog/2026/04/30/elad-gil-transcript/",
         "source": "Tim.blog",
         "publishedAt": "2026-05-01T00:53:11Z"
+      }
+    ]
+  },
+  "2026-05-04": {
+    "display": "2026年05月04日",
+    "articles": [
+      {
+        "title": "Anthropicの最も強力なAIモデルが企業ガバナンスの危機を露呈。すべてのCEOが必要とするフレームワークがこれだ。",
+        "body": "イェール大学のJeffrey Sonnenfeldと同僚らは、Claude Mythosが重要な修正なしには取り消すことのできない形で企業導入を破綻させると主張している。",
+        "category": "モデル発表",
+        "url": "https://fortune.com/2026/05/02/agentic-ai-governance-framework-banking-healthcare-retail-supply-chain-yale-celi-sonnenfeld/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-02T12:00:00Z"
+      },
+      {
+        "title": "Meta、8,000人の人員削減が迫る中、ヒューマノイドロボットスタートアップAssured Robot Intelligenceを買収",
+        "body": "Meta Platformsは、ヒューマノイドロボットAIスタートアップのAssured Robot Intelligenceを買収した。CEOのマーク・ザッカーバーグが資本支出を1,450億ドルに引き上げ、同社の人工知能推進のために8,000人の従業員を解雇する準備を進める中での動きである。",
+        "category": "資金・M&A",
+        "url": "https://www.livemint.com/companies/news/meta-acquires-humanoid-robot-startup-assured-robot-intelligence-weeks-after-announcing-8-000-layoffs-11777692898608.html",
+        "source": "Livemint",
+        "publishedAt": "2026-05-02T03:56:47Z"
+      },
+      {
+        "title": "Meta、ロボットソフトウェアスタートアップAssured Robot Intelligenceを買収",
+        "body": "Meta Platforms Inc.は、ロボット向け人工知能ソフトウェアを提供するAssured Robot Intelligence Inc.を買収した。このソーシャルメディア大手は本日、財務条件を開示せずにこの取引を発表した。ただし、この買収が…と明記した。",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/05/01/meta-acquires-robot-software-startup-assured-robot-intelligence/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-02T01:01:40Z"
+      },
+      {
+        "title": "Palantirがキャンパスにやって来る",
+        "body": "イェール大学での静かなカンファレンスで、同社とその同盟者たちがAI、国家権力、そしてその両者を組み合わせる方法についてのビジョンを描いている。",
+        "category": "企業動向",
+        "url": "http://nymag.com/intelligencer/article/palantir-yale-conference-ai.html",
+        "source": "New York Magazine",
+        "publishedAt": "2026-05-02T11:00:36Z"
+      },
+      {
+        "title": "LovableとMistralを超えて：注目すべき21のヨーロッパのスタートアップ | TechCrunch",
+        "body": "ヨーロッパのスタートアップが注目を集めないわけではない——LovableとMistral AIがその証拠だ。しかし、業界関係者が追跡している企業は他にも多数存在する。",
+        "category": "企業動向",
+        "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+        "source": "TechCrunch",
+        "publishedAt": "2026-05-02T14:04:16Z"
+      },
+      {
+        "title": "NvidiaはAIエンジンを構築した。Alphabetは車、道路、そして料金所を構築している。市場はそれに応じて価格を付けている。",
+        "body": "木曜日、Alphabetの株価は同社が第1四半期の売上高1,099億ドルを報告した後、約10パーセント上昇した。これは前年同期比22パーセント増であり、アナリスト予想を約30億ドル上回った。Google Cloudは四半期で200億ドルを突破した…",
+        "category": "企業動向",
+        "url": "https://thenextweb.com/news/alphabet-overtake-nvidia-market-cap-mag-seven/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-02T16:47:10Z"
       }
     ]
   }

@@ -1,65 +1,4 @@
 {
-  "2026-04-28": {
-    "display": "2026年04月28日",
-    "articles": [
-      {
-        "title": "AI一般教書演説",
-        "body": "画像生成編 最終更新：2026年4月26日午前11時39分 by Braden Kelley  過去80年間（実際には83年）にわたるAIの進化を見守ることは魅力的でした（正直なところ、私はそのすべてを見届けるほど長く生きていませんが）、しかしその進化は…",
-        "category": "その他",
-        "url": "https://bradenkelley.com/2026/04/ai-state-of-the-union/",
-        "source": "Bradenkelley.com",
-        "publishedAt": "2026-04-26T18:54:16Z"
-      },
-      {
-        "title": "Anthropic、国防総省のAI「キルスイッチ」主張を法廷提出書類で否定",
-        "body": "人工知能企業Anthropicは、機密軍事ネットワークに展開されたClaudeAIモデルに対する制御を同社が保持しているという国防総省の主張を、新たな法廷提出書類で正式に否定した。同社は「根拠がない」と述べた…",
-        "category": "企業動向",
-        "url": "https://www.naturalnews.com/2026-04-26-anthtropic-denies-pentagon-claims-ai-kill-switch.html",
-        "source": "Naturalnews.com",
-        "publishedAt": "2026-04-26T06:00:00Z"
-      },
-      {
-        "title": "コロラド州議員、子供のAIチャットボット利用制限とアダルトコンテンツへのアクセスに取り組む",
-        "body": "「法律が追いつくことができないほど本質的に速く動くものを規制しようとするとき、それは動く標的になるだろう」と、チャットボット安全法案を提出しているショーン・カマチョ下院議員は述べた。",
-        "category": "規制・政策",
-        "url": "https://www.denverpost.com/2026/04/26/chatbot-regulations-ai-suicide-age-verification-colorado/",
-        "source": "The Denver Post",
-        "publishedAt": "2026-04-26T12:00:12Z"
-      },
-      {
-        "title": "中国、疲弊したドライバーへの配車アプリの注文停止を命令。アルゴリズムが団体交渉の対象に",
-        "body": "中国の最高統治機関である中国共産党中央委員会と国務院は日曜日、ギグワーカー向けの包括的な労働規則を発表した。これは党の最高権威が1億人以上のギグワーカーへの保護を初めて正式に定めたものである…",
-        "category": "規制・政策",
-        "url": "https://thenextweb.com/news/china-gig-worker-platform-labour-rules/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-26T11:52:43Z"
-      },
-      {
-        "title": "破産したフィンテックCEOと大統領の息子を擁するスタートアップがアメリカのロボット軍団を構築したいと考えている",
-        "body": "2024年4月にサンフランシスコで設立されたスタートアップFoundation Future Industriesは、敵陣地を突破するために設計されたヒューマノイドロボットのテストのため、米陸軍、海軍、空軍から2400万ドルの研究契約を獲得した。同社のPhantom MK-1は5フィートの…",
-        "category": "応用技術",
-        "url": "https://thenextweb.com/news/foundation-humanoid-robot-soldiers-pentagon/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-26T12:27:08Z"
-      },
-      {
-        "title": "このスタートアップはヒューマノイドロボット兵士の軍団を構築したいと考えている",
-        "body": "Foundationはデモンストレーションのためにヒューマノイドロボットをウクライナに送った。CEOのSankaet Pathak氏は、5〜10年後にはターゲットを抽出できるようになると述べた。",
-        "category": "応用技術",
-        "url": "https://www.businessinsider.com/foundation-humanoid-robot-soldier-ukraine-testing-2026-4",
-        "source": "Business Insider",
-        "publishedAt": "2026-04-26T08:11:01Z"
-      },
-      {
-        "title": "「楽観論への回帰」：ウォール街のストラテジストはAI取引に強気",
-        "body": "半導体株の急速な上昇がAI取引を再燃させた。",
-        "category": "企業動向",
-        "url": "https://finance.yahoo.com/markets/article/a-return-to-optimism-wall-street-strategists-are-bullish-on-the-ai-trade-143000172.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-04-26T14:30:00Z"
-      }
-    ]
-  },
   "2026-04-29": {
     "display": "2026年04月29日",
     "articles": [
@@ -908,6 +847,139 @@
         "url": "https://247wallst.com/investing/2026/05/03/the-700-billion-spending-cycle-that-will-define-aiqs-next-12-months/",
         "source": "24/7 Wall St.",
         "publishedAt": "2026-05-03T12:00:15Z"
+      }
+    ]
+  },
+  "2026-05-06": {
+    "display": "2026年05月06日",
+    "articles": [
+      {
+        "title": "MIT-IBMコンピューティング研究所が量子、AI、アルゴリズムに範囲を拡大",
+        "body": "",
+        "category": "研究",
+        "url": "https://www.storagereview.com/news/the-mit-ibm-computing-research-lab-expands-scope-to-quantum-ai-and-algorithms",
+        "source": "Storagereview.com",
+        "publishedAt": "2026-05-04T18:47:34Z"
+      },
+      {
+        "title": "AIによる本当の雇用破壊はキャリアが始まる前に起きている",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://insights.som.yale.edu/insights/the-real-job-destruction-from-ai-is-hitting-before-careers-can-start",
+        "source": "Yale.edu",
+        "publishedAt": "2026-05-04T13:15:49Z"
+      },
+      {
+        "title": "サービスロボティクスの成長が加速、グローバル需要が戦略的拡大を促進",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.globenewswire.com/news-release/2026/05/04/3286705/0/en/Service-Robotics-Growth-Accelerates-as-Global-Demand-Fuels-Strategic-Expansion.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-04T12:30:00Z"
+      },
+      {
+        "title": "theCUBEのGoogle Cloud Next報道から見逃したかもしれない3つの洞察",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/05/04/agentic-ai-infrastructure-googlecloudnext/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-04T21:27:18Z"
+      },
+      {
+        "title": "イーロン・マスク対OpenAI裁判が第2週に突入",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-vs-openai-trial-enters-second-week/articleshow/130776718.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-05-04T09:02:06Z"
+      },
+      {
+        "title": "マスク対OpenAI裁判が第2週に突入",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.vanguardngr.com/2026/05/musk-vs-openai-trial-enters-second-week/",
+        "source": "Vanguard",
+        "publishedAt": "2026-05-04T08:41:36Z"
+      },
+      {
+        "title": "すべての政府がAI戦略を持っている。ドバイは民間セクターに期限を設定した",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://thenextweb.com/news/dubai-agentic-ai-private-sector-mandate/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-04T21:06:22Z"
+      },
+      {
+        "title": "Z世代はAIを嫌っている？マスク対アルトマン裁判が白熱、OpenAI電話の噂が飛び交う、そして今週の最も驚くべき展開",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.techradar.com/ai-platforms-assistants/gen-z-hate-ai-the-musk-vs-altman-trial-heats-up-openai-phone-rumors-buzz-and-more-of-the-weeks-most-surprising-developments",
+        "source": "TechRadar",
+        "publishedAt": "2026-05-04T19:00:00Z"
+      },
+      {
+        "title": "AIガバナンスを実際に担っているのは誰か？",
+        "body": "",
+        "category": "規制・政策",
+        "url": "http://www.adexchanger.com/data-privacy-roundup/who-actually-owns-ai-governance/",
+        "source": "AdExchanger",
+        "publishedAt": "2026-05-04T05:00:29Z"
+      },
+      {
+        "title": "デンマークがデータセンターの岐路に直面、急増する需要で電力網が圧倒される",
+        "body": "",
+        "category": "その他",
+        "url": "https://www.cnbc.com/2026/05/04/denmark-data-centers-moratorium-grid-pause-power-demand.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-04T05:00:01Z"
+      },
+      {
+        "title": "AIコンピュートスタートアップTsavoriteがPavestoneから500万ドルを調達しプラットフォームを拡大",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://economictimes.indiatimes.com/tech/funding/ai-compute-startup-tsavorite-raises-5-million-from-pavestone-to-scale-platform/articleshow/130785660.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-05-04T10:44:40Z"
+      },
+      {
+        "title": "Nicolas SauvageはAIの地味な部分に賭けている | TechCrunch",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
+        "source": "TechCrunch",
+        "publishedAt": "2026-05-04T07:10:18Z"
+      },
+      {
+        "title": "中国のロボットハンドユニコーンLinkerbotが60億ドルの評価額を狙う",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://thenextweb.com/news/linkerbot-china-robot-hand-6-billion-valuation/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-04T06:50:13Z"
+      },
+      {
+        "title": "ルンバの生みの親がふわふわのロボットコンパニオンで復帰",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+        "source": "The Verge",
+        "publishedAt": "2026-05-04T16:53:14Z"
+      },
+      {
+        "title": "「これは私がずっと作りたかったロボット」：元iRobot社長が語る驚異的な『Familiar』AIコンパニオン",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.techradar.com/ai-platforms-assistants/this-is-the-robot-i-wanted-to-build-forever-former-irobot-chief-on-his-extraordinary-familiar-ai-companion",
+        "source": "TechRadar",
+        "publishedAt": "2026-05-04T16:35:11Z"
+      },
+      {
+        "title": "台湾紛争を念頭に置いて構築された中国のAI「ウルフパック」ドローンの内部",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.foxnews.com/politics/inside-chinas-ai-wolf-pack-drones-built-taiwan-conflict-mind",
+        "source": "Fox News",
+        "publishedAt": "2026-05-04T09:00:13Z"
       }
     ]
   }

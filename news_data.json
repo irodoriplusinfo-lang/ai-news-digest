@@ -1,97 +1,4 @@
 {
-  "2026-04-27": {
-    "display": "2026年04月27日",
-    "articles": [
-      {
-        "title": "MetaがAIコンピューティング需要が1350億ドルの設備投資予算を超える中、Amazon Graviton5チップに数十億ドル規模の契約を締結",
-        "body": "要約：Metaは、エージェント型AIワークロード向けにAWSデータセンターで数千万のAmazon Graviton5 ARMコアを展開するため、数十億ドル規模の複数年契約を締結した。これらのチップはAIアクセラレータではなく汎用プロセッサであり、CPU集約型の処理を担当する…",
-        "category": "企業動向",
-        "url": "https://thenextweb.com/news/meta-amazon-graviton-chips-agentic-ai/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-25T11:22:37Z"
-      },
-      {
-        "title": "Metaは8,000人を解雇。Microsoftは8,750人に退職金を支払う。両社とも節約分をAIに投資。",
-        "body": "要約：MetaとMicrosoftは4月23日の同日に人員削減を発表し、合計で最大23,000のポジションに影響を与える。Metaは5月20日付で8,000人の雇用（従業員の10%）を削減し、6,000の募集中のポジションをキャンセルする。一方、Microsoftは初めて…",
-        "category": "企業動向",
-        "url": "https://thenextweb.com/news/meta-microsoft-layoffs-23000-ai-spending/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-25T11:11:54Z"
-      },
-      {
-        "title": "米国務省、DeepSeekやその他の中国企業によるAI窃盗疑惑について世界的な警告を命令",
-        "body": "「中国企業がアメリカのAI知的財産を窃盗しているという疑惑は根拠がなく、AI産業における中国の進歩を攻撃するものだ」と在ワシントン中国大使館はロイターに述べた",
-        "category": "規制・政策",
-        "url": "https://www.thehindubusinessline.com/info-tech/us-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms/article70904396.ece",
-        "source": "BusinessLine",
-        "publishedAt": "2026-04-25T05:31:50Z"
-      },
-      {
-        "title": "ExperianがAI搭載バーチャルアシスタントで消費者向け金融ガイダンスを次のレベルへ",
-        "body": "Experian Virtual Assistantの最新バージョンのリリースにより、Experian plcは人工知能を活用して、信用報告を超えてテクノロジー主導のサービスプロバイダーになるという広範な目標を推進している。厳しい状況でそれを行う…",
-        "category": "応用技術",
-        "url": "https://siliconangle.com/2026/04/25/experian-takes-consumer-financial-guidance-next-level-ai-powered-virtual-assistant/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-04-25T17:24:59Z"
-      },
-      {
-        "title": "（動画）イーロン・マスクが高度なリップシンク機能を備えた新しいGrok Imagineモデルをバイラル動画で披露",
-        "body": "テキサス州オースティン — イーロン・マスクは土曜日、xAIのGrok Imagineモデルの大幅なアップグレードを発表し、劇的に改善されたリップシンクとオーディオ機能を実演する非常にリアルなAI生成動画を共有し、ユーザー作成コンテンツの洪水を即座に引き起こした…",
-        "category": "モデル発表",
-        "url": "https://www.ibtimes.com.au/video-elon-musk-showcases-new-grok-imagine-model-advanced-lip-sync-viral-video-1867480",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-04-25T12:26:40Z"
-      },
-      {
-        "title": "ニューヨーク市でテスラを運転しながらxAIのGrokチャットボットを試してみた。その結果は。",
-        "body": "CNBCはニューヨーク市でテスラModel Yオーナーと同乗し、彼がGrokをどのように使用しているか、そしてGrokがテスラのFull Self-Driving（監視付き）にどのように統合されているかを見た。",
-        "category": "応用技術",
-        "url": "https://www.cnbc.com/2026/04/25/tesla-and-xais-grok-shows-promises-and-risks-of-ai-chatbots-in-cars.html",
-        "source": "CNBC",
-        "publishedAt": "2026-04-25T12:00:01Z"
-      },
-      {
-        "title": "億万長者イーロン・マスクがOpenAIとの法廷対決に臨む",
-        "body": "億万長者イーロン・マスクと人工知能スタートアップOpenAIとの間の注目の法廷闘争で、陪審員選定が月曜日に始まる予定である。\nこの記事はDigital Journalに最初に掲載された。",
-        "category": "企業動向",
-        "url": "https://www.digitaljournal.com/business/billionaire-elon-musk-enters-courtroom-showdown-with-openai/article",
-        "source": "Digital Journal",
-        "publishedAt": "2026-04-25T06:01:11Z"
-      },
-      {
-        "title": "AIがサム・アルトマンとイーロン・マスクを結びつけ、そして引き離した",
-        "body": "OpenAIの共同創設者であるイーロン・マスクとサム・アルトマンは、人工知能に関するビジョンの衝突をめぐり法廷で対決する予定である。AIの将来に対する共通の懸念から始まった彼らの最初のコラボレーションは、AIへのアプローチの違いにより崩壊した…",
-        "category": "人物発言",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-united-sam-altman-and-elon-musk-then-drove-them-apart/articleshow/130508103.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-04-25T04:27:19Z"
-      },
-      {
-        "title": "OpenAIは知っていた。警察に通報しないことを選んだ。今、サム・アルトマンは謝罪している。",
-        "body": "サム・アルトマンは木曜日、ブリティッシュコロンビア州タンブラーリッジのコミュニティに宛てた公開書簡を発表し、自社のシステムがカナダ史上最悪の学校銃乱射事件を実行することになるユーザーにフラグを立てた後、OpenAIが法執行機関に警告しなかったことを謝罪した…",
-        "category": "企業動向",
-        "url": "https://thenextweb.com/news/sam-altman-openai-apology-tumbler-ridge-shooting/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-25T18:51:33Z"
-      },
-      {
-        "title": "タンブラーリッジ事件後のAIメンタルヘルス規制の緊急性",
-        "body": "ブリティッシュコロンビア州タンブラーリッジのコミュニティは、想像を絶する悲しみの中にある。彼らと共に悼みながら、この悲劇から何を学べるか問うことは正しい。公の議論の多くはOpenAIに焦点を当てている：なぜ同社は、そのシステムが…と警告した時に警察に通報しなかったのか…",
-        "category": "規制・政策",
-        "url": "https://kevinmd.com/2026/04/the-urgent-need-for-ai-mental-health-regulation-after-tumbler-ridge.html",
-        "source": "Kevinmd.com",
-        "publishedAt": "2026-04-25T13:00:54Z"
-      },
-      {
-        "title": "シンギュラリティと終末時計",
-        "body": "「シンギュラリティ」という用語は、AIが人間の知能を超え、人間が理解したり制御したりできる速度よりも速く自己改善を始める時点を指す。その閾値を超えると、技術的変化は予測不可能になり得る。2023年6月、…",
-        "category": "その他",
-        "url": "https://www.fairobserver.com/more/science/singularity-and-the-doomsday-clock/",
-        "source": "Fair Observer",
-        "publishedAt": "2026-04-25T11:46:49Z"
-      }
-    ]
-  },
   "2026-04-28": {
     "display": "2026年04月28日",
     "articles": [
@@ -956,6 +863,51 @@
         "url": "https://thenextweb.com/news/alphabet-overtake-nvidia-market-cap-mag-seven/",
         "source": "The Next Web",
         "publishedAt": "2026-05-02T16:47:10Z"
+      }
+    ]
+  },
+  "2026-05-05": {
+    "display": "2026年05月05日",
+    "articles": [
+      {
+        "title": "すべてのAI企業が助手席に乗りたがっている。車のダッシュボードは最も重要な最後のスクリーンになりつつある",
+        "body": "Grok iOSアプリには現在「Grok Voice modeがまもなくCarPlayに対応」と表示されるプレースホルダーが含まれている。これは1行のインターフェーステキストに過ぎないが、イーロン・マスクのAIチャットボットがChatGPTやPerplexityに続いて、すべてのiPhoneユーザーの車のダッシュボードに登場しようとしていることを意味している。",
+        "category": "企業動向",
+        "url": "https://thenextweb.com/news/grok-carplay-voice-ai-dashboard/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-03T19:10:26Z"
+      },
+      {
+        "title": "香港は中国のAI IPOの拠点となっている。しかしそれ以上の存在になり得る",
+        "body": "香港には金融やベンチャーキャピタル以上のものがある。",
+        "category": "企業動向",
+        "url": "https://fortune.com/2026/05/03/hong-kong-chinese-ai-boom-ipos-governance/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-03T21:00:00Z"
+      },
+      {
+        "title": "90日間で人工知能を活用して勝つ",
+        "body": "シャーリーン・リー氏への独占インタビュー。人工知能（AI）の急速な進化により、この技術は未来的な好奇心の対象から現代の組織成長の主要エンジンへと変貌を遂げた。データ駆動型の意思決定によって定義される時代において、能力は...",
+        "category": "人物発言",
+        "url": "https://bradenkelley.com/2026/05/winning-with-artificial-intelligence-in-90-days/",
+        "source": "Bradenkelley.com",
+        "publishedAt": "2026-05-03T12:00:00Z"
+      },
+      {
+        "title": "あなたのiPhoneを製造した工場は、今や次のiPhoneを組み立てるロボットを製造している",
+        "body": "4月、Honor D1と呼ばれるヒューマノイドロボットが北京ハーフマラソンを遠隔操作で48分19秒、完全自律モードで50分26秒で完走し、112チームが参加したフィールドで他のすべてのロボットを打ち負かした。優勝したこのマシンは...",
+        "category": "応用技術",
+        "url": "https://thenextweb.com/news/china-smartphone-factories-humanoid-robots/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-03T16:33:30Z"
+      },
+      {
+        "title": "AIQの今後12ヶ月を左右する7000億ドルの支出サイクル",
+        "body": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) は、ほとんどの個人投資家がAIへの投資意向を表明しようとする際に直面する問題を解決しようとしている...",
+        "category": "企業動向",
+        "url": "https://247wallst.com/investing/2026/05/03/the-700-billion-spending-cycle-that-will-define-aiqs-next-12-months/",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-05-03T12:00:15Z"
       }
     ]
   }

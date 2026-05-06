@@ -1,169 +1,4 @@
 {
-  "2026-04-29": {
-    "display": "2026年04月29日",
-    "articles": [
-      {
-        "title": "多目的AIモデルによるLNPエンジニアリングが組織選択的mRNAデリバリーを強化",
-        "body": "AIが脂質ナノ粒子を特定の組織に標的化し、肝臓へのオフターゲットデリバリーを回避する。",
-        "category": "研究",
-        "url": "https://www.nature.com/articles/s41587-026-03109-0",
-        "source": "Nature.com",
-        "publishedAt": "2026-04-28T00:00:00Z"
-      },
-      {
-        "title": "キラースクリプトキディの攻撃",
-        "body": "昨年8月、業界トップクラスのサイバーセキュリティチームがラスベガスに集結し、DARPAの人工知能サイバーチャレンジ（AIxCC）で自社のAIバグ発見システムの性能を実証した。これらのツールは5400万行の実際のソースコードをスキャンした。",
-        "category": "研究",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
-        "source": "The Verge",
-        "publishedAt": "2026-04-27T14:57:31Z"
-      },
-      {
-        "title": "「抽出と蒸留」：米国国務省がAI窃盗の告発をアップグレードし、中国のDeepseek、Moonshot AI、MiniMaxを標的に",
-        "body": "国務省は、中国のAI企業が米国のAIモデルを「蒸留」していると述べている。",
-        "category": "規制・政策",
-        "url": "https://www.techradar.com/pro/extraction-and-distillation-us-state-department-upgrades-ai-theft-accusations-to-target-chinas-deepseek-moonshot-ai-and-minimax",
-        "source": "TechRadar",
-        "publishedAt": "2026-04-27T13:13:38Z"
-      },
-      {
-        "title": "DeepSeekがV4-Proの価格を75%引き下げ、API全体のキャッシュコストを10分の1に削減",
-        "body": "プロモーション割引は2026年5月5日まで実施される。通常価格でも、V4-ProはすでにGPT-5.5、Claude Opus 4.7、Gemini 3.1 Proをトークン単価で下回っている。この動きは、トランプ政権がAI関連の輸出規制を強化している時期に、米国AIプロバイダーの価格戦略に直接挑戦するものである。",
-        "category": "企業動向",
-        "url": "https://thenextweb.com/news/deepseek-v4-pro-price-cut-75-percent/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-27T07:25:07Z"
-      },
-      {
-        "title": "AIによる肺がん治療の破壊的革新が治療パラダイムを変革へ、数十億ドルの投資がイノベーションを推進",
-        "body": "AIツールがバイオマーカー同定において85〜95%の精度を示し、最近30億ドル以上の資金を集めている。",
-        "category": "応用技術",
-        "url": "https://www.globenewswire.com/news-release/2026/04/27/3281948/0/en/AI-Disruption-in-Lung-Cancer-Therapeutics-Set-to-Transform-Treatment-Paradigms-as-Billion-Dollar-Investments-Drive-Innovation.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-04-27T17:36:00Z"
-      },
-      {
-        "title": "SequoiaとNvidiaがAlphaGo開発者David SilverのIneffable Intelligenceに51億ドルで出資",
-        "body": "Silverは10年以上にわたりAlphaGo、AlphaZero、AlphaStarを構築し、Geminiに貢献した後、2025年末にGoogle DeepMindを去った。Ineffable Intelligenceは2025年11月に設立され、製品もなく、収益もなく、公開ロードマップもない。あるのは創業者の実績だけである。",
-        "category": "資金・M&A",
-        "url": "https://thenextweb.com/news/ineffable-intelligence-david-silver-sequoia-nvidia-5-billion/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-27T14:53:42Z"
-      },
-      {
-        "title": "Muskの高額訴訟OpenAI裁判で陪審員選定が開始",
-        "body": "Muskの高額訴訟OpenAI裁判で陪審員選定が開始された。億万長者が共同創業者らを非営利ミッションを裏切り利益を追求したと非難している。詳細：https://punchng.com/jury-selection-begins-in-musk-high-stakes-openai-lawsuit/",
-        "category": "企業動向",
-        "url": "https://punchng.com/jury-selection-begins-in-musk-high-stakes-openai-lawsuit/",
-        "source": "The Punch",
-        "publishedAt": "2026-04-27T17:37:14Z"
-      },
-      {
-        "title": "Elon MuskとOpenAIの法廷闘争で陪審員選定が開始",
-        "body": "Elon MuskとSam Altmanの法廷対決が月曜日にここで始まり、億万長者がOpenAIの共同創業者らが人類の利益のために人工知能を構築するという非営利ミッションを裏切ったという訴えについての裁判で陪審員選定が開始された。",
-        "category": "企業動向",
-        "url": "https://www.digitaljournal.com/world/jury-selection-starts-in-elon-musks-legal-battle-with-openai/article",
-        "source": "Digital Journal",
-        "publishedAt": "2026-04-27T17:12:32Z"
-      },
-      {
-        "title": "MuskとAltmanが連邦裁判所で対決。知っておくべきこと",
-        "body": "この裁判は、AIにとって極めて重要な時期に行われている。AIは進歩をもたらす可能性がある一方で、人類を大きく変える可能性もある技術である。",
-        "category": "企業動向",
-        "url": "https://www.cbsnews.com/news/elon-musk-openai-lawsuit-trial-sam-altman/",
-        "source": "CBS News",
-        "publishedAt": "2026-04-27T16:49:49Z"
-      },
-      {
-        "title": "Elon MuskとSam AltmanのOpenAIの未来をめぐる法廷闘争",
-        "body": "Sam AltmanとElon Muskは、テック業界をリードするAIスタートアップOpenAIの未来を変える可能性のある高額裁判で対決する。裁判は4月27日に陪審員選定から始まり、MuskはOpenAIが当初の非営利ミッションを放棄したと非難する2024年の訴訟を推し進めている。",
-        "category": "企業動向",
-        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "source": "The Verge",
-        "publishedAt": "2026-04-27T15:51:41Z"
-      },
-      {
-        "title": "Musk対OpenAI裁判が開始",
-        "body": "AI業界の2大巨頭が法廷闘争に臨む：Elon Musk（xAI）がSam Altmann（OpenAI）を訴えている。MuskはAltmannがOpenAIの当初の非営利ミッションを裏切ったと非難している。",
-        "category": "企業動向",
-        "url": "https://www.dw.com/en/musk-vs-openai-trial-gets-underway/a-76948411",
-        "source": "DW (English)",
-        "publishedAt": "2026-04-27T09:52:00Z"
-      },
-      {
-        "title": "Musk対OpenAI裁判が開始へ",
-        "body": "AI業界の2大巨頭が法廷闘争に臨む：Elon Musk（xAI）がSam Altmann（OpenAI）を訴えている。MuskはAltmannがOpenAIの当初の非営利ミッションを裏切ったと非難している。",
-        "category": "企業動向",
-        "url": "https://www.dw.com/en/musk-vs-openai-trial-to-get-underway/a-76948411",
-        "source": "DW (English)",
-        "publishedAt": "2026-04-27T09:52:00Z"
-      },
-      {
-        "title": "コーディングに注力せよ：Elon MuskのSpaceX 600億ドルプレIPO取引が先見性を示す理由",
-        "body": "xAIを通じたSpaceXのAI推進には、チャットボットGrokを商業的に成功させるためのスマートなコーディングツールが必要である。これまでGrokはカジュアルな利用で赤字を出してきたが、Anthropicなどが示したように、ビジネス利用市場、特にコーディング市場を開拓する必要がある。",
-        "category": "企業動向",
-        "url": "https://www.livemint.com/opinion/online-views/coding-elon-musk-60-billion-pre-ipo-deal-spacex-xai-grok-anthropic-openai-investment-busi-11777205090416.html",
-        "source": "Livemint",
-        "publishedAt": "2026-04-27T09:30:46Z"
-      },
-      {
-        "title": "Elon MuskとOpenAIの法廷闘争の舞台が整う",
-        "body": "オークランド：著名な人工知能企業OpenAIが非営利ミッションを裏切ったと非難するElon Muskの訴訟が、月曜日（4月27日）に陪審員選定とともに裁判に入る。サンフランシスコ湾を挟んだ法廷での法的闘争が始まる。",
-        "category": "企業動向",
-        "url": "https://www.channelnewsasia.com/world/stage-set-elon-musks-court-battle-openai-6082891",
-        "source": "CNA",
-        "publishedAt": "2026-04-27T03:22:00Z"
-      },
-      {
-        "title": "共和党は優れたAI戦略を早急に策定する必要がある",
-        "body": "3月にAIは主流の政治課題となり、優れた戦略がなければ共和党は権力を失うだろう。",
-        "category": "規制・政策",
-        "url": "https://dailycaller.com/2026/04/27/opinion-republicans-need-to-get-a-superior-ai-strategy-fast-patrick-dugan/",
-        "source": "The Daily Caller",
-        "publishedAt": "2026-04-27T20:00:21Z"
-      },
-      {
-        "title": "アメリカがAIを国有化したらどうなるか？",
-        "body": "トランプ政権はAI産業に対してはるかに大きな支配力を行使する可能性がある。",
-        "category": "規制・政策",
-        "url": "https://www.theatlantic.com/technology/2026/04/ai-nationalization-trump-hegseth-anthropic-openai/686943/",
-        "source": "The Atlantic",
-        "publishedAt": "2026-04-27T11:00:00Z"
-      },
-      {
-        "title": "AIバブルは崩壊寸前か、それとも再調整中か？",
-        "body": "AIに大規模な投資が流入しているが、コスト上昇と不安定なリターンが、このブームが持続可能で長期的なビジネス価値を提供できるかどうかを試している。",
-        "category": "企業動向",
-        "url": "https://www.techtarget.com/searchenterpriseai/feature/Is-the-AI-bubble-about-to-burst-or-is-it-recalibrating",
-        "source": "Techtarget.com",
-        "publishedAt": "2026-04-27T16:04:00Z"
-      },
-      {
-        "title": "AI、ロボット、激しい競争が車を再定義するモーターショーの内側",
-        "body": "北京の広大なオートショーを直接見学した後、Steve Fowlerは業界リーダーたちに、なぜ中国が新技術、より速い開発、より低コストの車の実験場となったのかについて話を聞く。これらのトレンドは、英国のドライバーが次に何を買うかを形作ることになる。",
-        "category": "応用技術",
-        "url": "https://www.the-independent.com/cars/electric-vehicles/china-motor-show-ai-robots-car-industry-b2965790.html",
-        "source": "The-independent.com",
-        "publishedAt": "2026-04-27T15:42:54Z"
-      },
-      {
-        "title": "Tesla（TSLA）のフィジカルAIリーダーシップへの動き",
-        "body": "投資運用会社Baron Capitalが「Baron Focused Growth Fund」の2026年第1四半期投資家向けレターを発表した。レターのコピーは入手可能である。",
-        "category": "企業動向",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-move-toward-physical-130606579.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-04-27T13:06:06Z"
-      },
-      {
-        "title": "Sereactが行動前にその結果をシミュレートするロボット構築のため1億1000万ドルのシリーズBを調達",
-        "body": "このラウンドはHeadlineが主導し、新規投資家としてBullhound Capital、Felix Capital、Daphniが参加。評価額は非公開。Sereactのビジョン言語アクションモデルはすでにBMW、Daimler Truck、物流顧客で稼働している。1億1000万ドルは前回ラウンドの4倍以上である。",
-        "category": "資金・M&A",
-        "url": "https://thenextweb.com/news/sereact-raises-110-million-series-b/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-27T09:54:49Z"
-      }
-    ]
-  },
   "2026-04-30": {
     "display": "2026年04月30日",
     "articles": [
@@ -980,6 +815,147 @@
         "url": "https://www.foxnews.com/politics/inside-chinas-ai-wolf-pack-drones-built-taiwan-conflict-mind",
         "source": "Fox News",
         "publishedAt": "2026-05-04T09:00:13Z"
+      }
+    ]
+  },
+  "2026-05-07": {
+    "display": "2026年05月07日",
+    "articles": [
+      {
+        "title": "アメリカをAI対応に：強み、弱み、そして提言",
+        "body": "分析者：Jane Castleman、Sam Hafferty、Steven Kelts、Arvind Narayanan、Francesco Salvi、Hilke Schellmann 編集者：Sam Hafferty、Steven Kelts、Arvind Narayanan、Hilke Schellmann トランプ政権は人工知能を政策の中心に据えている…",
+        "category": "規制・政策",
+        "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
+        "source": "Princeton University",
+        "publishedAt": "2026-05-05T20:12:15Z"
+      },
+      {
+        "title": "ホワイトハウスは強力なAIモデルのリスク審査を望んでいる — コンピューターサイエンティストがAI安全性がなぜ難しいかを解説",
+        "body": "強力なAIモデルが一度リリースされると、悪用を防ぐことはほぼ不可能である。リスクを最小化するには、システム開発において安全性を最優先にすることが必要である。",
+        "category": "規制・政策",
+        "url": "https://theconversation.com/white-house-wants-to-vet-powerful-ai-models-for-risks-a-computer-scientist-explains-why-ai-safety-is-so-difficult-281117",
+        "source": "The Conversation Africa",
+        "publishedAt": "2026-05-05T17:48:21Z"
+      },
+      {
+        "title": "注目すべきレーダートレンド：2026年5月",
+        "body": "今号で最も重要な緊張関係は、フロンティアセキュリティ機能を持つAIの取り扱いについて異なる決定を下した2社の間にある。AnthropicはProject Glasswingを通じてClaude Mythosを小規模な企業グループに制限した。OpenAIはリリース…",
+        "category": "企業動向",
+        "url": "https://www.oreilly.com/radar/radar-trends-to-watch-may-2026/#BlogPosting",
+        "source": "Oreilly.com",
+        "publishedAt": "2026-05-05T11:18:59Z"
+      },
+      {
+        "title": "マスクのOpenAIに対する法廷闘争は、先進AIの支配権について明確な答えよりも論争を生み出している",
+        "body": "この裁判にはいくつかの爆弾発言の瞬間があったが、AIの進む方向や誰がそれを支配するかに影響を与える可能性は低い。",
+        "category": "企業動向",
+        "url": "https://fortune.com/2026/05/05/musk-court-fight-openai/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-05T19:43:22Z"
+      },
+      {
+        "title": "サンフォード・バーナム・プレビス医学発見研究所がQualcomm共同創業者アンドリュー・ビタビからAI駆動研究推進のため500万ドルを受領",
+        "body": "カリフォルニア州ラホヤ、2026年5月5日 /PRNewswire/ -- サンフォード・バーナム・プレビス医学発見研究所は本日、先見の明を持つ通信のパイオニアでありQualcomm Inc.の共同創業者であるアンドリュー・ビタビ氏が、アンドリュー・アンド・エルナ・V…を冠する500万ドルの寄付を行ったことを発表した。",
+        "category": "研究",
+        "url": "https://www.prnewswire.com/news-releases/sanford-burnham-prebys-medical-discovery-institute-receives-5-million-from-qualcomm-co-founder-andrew-viterbi-to-advance-ai-powered-research-302762933.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-05T17:00:00Z"
+      },
+      {
+        "title": "Microsoft、Google、xAIが政府にAIモデルのリリース前テストを許可 | CNN Business",
+        "body": "Google、Microsoft、xAIは、サイバーセキュリティの脅威を抑制するため、未公開バージョンのAIモデルを政府と共有すると、米国立標準技術研究所が火曜日に発表した。",
+        "category": "規制・政策",
+        "url": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models",
+        "source": "CNN",
+        "publishedAt": "2026-05-05T21:33:59Z"
+      },
+      {
+        "title": "autograph-llmneo4jがPyPIに追加",
+        "body": "オプションのLLMおよびNeo4j統合を備えたデータセットに依存しない知識グラフビルダー。",
+        "category": "その他",
+        "url": "https://pypi.org/project/autograph-llmneo4j/",
+        "source": "Pypi.org",
+        "publishedAt": "2026-05-05T17:55:43Z"
+      },
+      {
+        "title": "Google、Microsoft、xAIが米国政府に一般公開前のAIモデルテストを許可することに同意 — OpenAIとAnthropicもワシントンとの契約再交渉後に参加",
+        "body": "2024年からセンターと既存の評価パートナーシップを結んでいたOpenAIとAnthropicは、トランプのAIアクションプランの優先事項に合わせて契約を再交渉した。",
+        "category": "規制・政策",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-microsoft-and-xai-agree-to-let-us-govenment-test-ai-models-before-public-release",
+        "source": "Tom's Hardware UK",
+        "publishedAt": "2026-05-05T14:11:12Z"
+      },
+      {
+        "title": "5つのAI研究所が米国政府にリリース前のモデルテストを許可。この取り決めは任意で、法的根拠はなく、アメリカがAI監視に最も近いものである。",
+        "body": "Mythos危機は、米国政府が避けてきた問題に直面することを余儀なくされた：AIモデルが国家安全保障を脅かすほど強力で、政府が一般に公開される前にそれを評価する正式なメカニズムを持たない場合、何が起こるのか…",
+        "category": "規制・政策",
+        "url": "https://thenextweb.com/news/us-ai-model-evaluation-google-microsoft-xai/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-05T13:10:02Z"
+      },
+      {
+        "title": "イーロン・マスクは火星植民地化のために800億ドルを求めていたとOpenAI社長が裁判で証言",
+        "body": "イーロン・マスクは火星植民地化の夢を実現するためにOpenAIの完全な支配権を求めていた。彼は火星都市のために800億ドルを調達することを目指していた。この暴露はマスクのOpenAIに対する訴訟の最中に行われた。この裁判は人工知能の将来を形作る可能性がある。OpenA…",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-wanted-80-billion-to-colonise-mars-openai-president-testifies-at-trial/articleshow/130838460.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-05-05T19:29:33Z"
+      },
+      {
+        "title": "マスクは火星植民地化のために800億ドルを求めていたとOpenAI社長が裁判で証言",
+        "body": "カリフォルニア州オークランド、5月5日：OpenAIの社長は火曜日、イーロン・マスクがこの人工知能スタートアップの営利企業への転換を支持していたが、火星植民地化のために800億ドルを調達することの一環として完全な支配権を望んでいたと証言した。以下…",
+        "category": "企業動向",
+        "url": "https://www.channelnewsasia.com/business/musk-wanted-80-billion-colonize-mars-openai-president-testifies-trial-6101981",
+        "source": "CNA",
+        "publishedAt": "2026-05-05T19:12:50Z"
+      },
+      {
+        "title": "Deepinfraがオープンソースモデル向け専用推論クラウド構築のため1億700万ドルの資金調達を獲得",
+        "body": "専用推論クラウドスタートアップのDeepinfra Inc.は、500 GlobalとGoogle LLCの最初期のクラウドエンジニアの一人であったGeorges Harikが主導するシリーズBラウンドで1億700万ドルを調達し、グローバル容量の拡大と拡張を目指している。このラウンド…",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-05T02:04:16Z"
+      },
+      {
+        "title": "Rockwell、Teradyne、Teslaは不確実性にもかかわらず自動化需要を確認",
+        "body": "各社はデータセンターとロボティクス需要に一部牽引された力強い収益成長を報告している。イーロン・マスクもTeslaのOptimusをその「最大の…",
+        "category": "応用技術",
+        "url": "https://www.manufacturingdive.com/news/tesla-rockwell-teradyne-q1-earnings-2026-automation-demand-uncertainty/819320/",
+        "source": "Manufacturingdive.com",
+        "publishedAt": "2026-05-05T12:11:00Z"
+      },
+      {
+        "title": "IntelがQualcommのベテラン、アレックス・カトウジアンを新設のクライアントコンピューティング＆フィジカルAIグループのリーダーに採用",
+        "body": "リップブー・タンのIntelリーダーシップは、就任初期から一貫したパターンで進んできた：ライバルから採用し、新規採用者を中心に再編成し、ベンチを再構築する。月曜日にIntelは最新のそのような動きを発表した。Qualcommで25年…",
+        "category": "企業動向",
+        "url": "https://thenextweb.com/news/intel-katouzian-qualcomm-physical-ai-hire/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-05T11:30:31Z"
+      },
+      {
+        "title": "IntelはComputexであらゆるコンピューティングカテゴリーにチップを投入する。それが最後にできたのは、誰もがキャッチアップしようとしていた時代だった。",
+        "body": "Intelは6月2日の台北Computex 2026に、10年間持っていなかったものを持って到着する：単一の製造ストーリーに基づいて構築されたすべてのコンピューティングカテゴリーの製品である。1月のCESで発売されたラップトップチップPanther Lakeは、ハンドヘルドに拡大…",
+        "category": "企業動向",
+        "url": "https://thenextweb.com/news/intel-computex-2026-18a-panther-nova-lake-ai-pc/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-05T22:32:31Z"
+      },
+      {
+        "title": "AMDがデータセンター収益57%増で第1四半期の予想を上回る",
+        "body": "AMDの決算報告は、AIブームがまだ始まったばかりだという楽観論から投資家が株式に殺到する中で発表された。",
+        "category": "企業動向",
+        "url": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-05T20:19:59Z"
+      },
+      {
+        "title": "2025年4月、Intelは18ドルで取引されていた。14ヶ月後、過去最高値を記録した。このターンアラウンドはIntel単独で構築されたものではない。",
+        "body": "2025年4月、Intelの株価は18ドルで取引されていた。同社は3ヶ月前にCEOを解雇し、NvidiaにAIチップ競争で完敗し、アナリストが競合比較に含めることをやめるほどであり、金融…で議論されていた。",
+        "category": "企業動向",
+        "url": "https://thenextweb.com/news/intel-stock-record-apple-foundry-ai-turnaround/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-05T18:27:53Z"
       }
     ]
   }

@@ -1,169 +1,4 @@
 {
-  "2026-04-30": {
-    "display": "2026年04月30日",
-    "articles": [
-      {
-        "title": "OpenAIのモデルがあらゆる場所で利用可能に。問題は、あらゆる場所で十分かどうかだ。",
-        "body": "Amazon Web ServicesがOpenAIのモデルをクラウド顧客に販売開始すると、同社は火曜日に発表した。これは、MicrosoftがAzureにOpenAIの技術への独占的な再販アクセスを与えていた独占再販契約を終了することに合意した翌日のことだった。",
-        "category": "企業動向",
-        "url": "https://thenextweb.com/news/amazon-aws-openai-models-microsoft-exclusivity-ends/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-28T18:42:54Z"
-      },
-      {
-        "title": "Ineffable Intelligenceが51億ドルの評価額で11億ドルを調達、AI「スーパーラーナー」を構築へ",
-        "body": "数ヶ月前に設立された英国の人工知能スタートアップ、Ineffable Intelligence Ltd.がシード資金として11億ドルを調達した。この投資により同社の評価額は51億ドルとなった。CNBCは本日、Lightspeed VenturesとSequoia Capitalがこの投資ラウンドを主導したと報じた。",
-        "category": "資金・M&A",
-        "url": "https://siliconangle.com/2026/04/27/ineffable-intelligence-raises-1-1b-5-1b-valuation-build-ai-superlearner/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-04-28T01:10:40Z"
-      },
-      {
-        "title": "史上最も裕福な遺恨試合",
-        "body": "イーロン・マスクとサム・アルトマンの裁判は、AIブームを卑しく小さなものに見せている。",
-        "category": "企業動向",
-        "url": "https://www.theatlantic.com/technology/2026/04/openai-trial-elon-musk-sam-altman/686984/",
-        "source": "The Atlantic",
-        "publishedAt": "2026-04-28T23:13:00Z"
-      },
-      {
-        "title": "窃盗の告発、気まずいテキストメッセージ、億万長者の証人たち——マスク対OpenAI裁判について知っておくべきすべてのこと",
-        "body": "これは人工知能が直面した最も混乱した訴訟だ——数十億ドル、そして潜在的には人類そのものの運命が陪審員の手に委ねられている。世界一の富豪イーロン・マスクが、かつての同盟者（そして同じく億万長者の）サム・アルトマンと法廷で対決している。",
-        "category": "企業動向",
-        "url": "https://nypost.com/2026/04/28/world-news/everything-you-need-to-know-about-the-explosive-musk-vs-openai-trial/",
-        "source": "New York Post",
-        "publishedAt": "2026-04-28T19:12:43Z"
-      },
-      {
-        "title": "イーロン・マスク、破られた約束をめぐりOpenAIと法廷で対決",
-        "body": "イーロン・マスクがOpenAIと法廷で争っている。彼はAI企業が当初の非営利ミッションを裏切ったと主張している。かつての支援者であるマスクは、現在OpenAIと競合している。この裁判はAI業界の将来を形作る可能性がある。OpenAIのCEOサム・アルトマンも出席している。この訴訟はAI開発における利益と安全性のバランスについての議論を浮き彫りにしている。",
-        "category": "企業動向",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-faces-off-with-openai-in-court-over-broken-promises/articleshow/130584667.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-04-28T15:45:07Z"
-      },
-      {
-        "title": "マスク、破られた約束をめぐりOpenAIと法廷で対決",
-        "body": "イーロン・マスクは火曜日、人工知能企業が非営利ミッションを裏切ったかどうかをめぐるOpenAIとの法廷対決で、冒頭陳述に出席した。サンフランシスコ湾を挟んだ法廷での衝突は、世界一の富豪と、かつてマスクが共同創設を支援したスタートアップを対立させている。",
-        "category": "企業動向",
-        "url": "https://www.digitaljournal.com/world/musk-faces-off-with-openai-in-court-over-broken-promises/article",
-        "source": "Digital Journal",
-        "publishedAt": "2026-04-28T15:42:20Z"
-      },
-      {
-        "title": "イーロン・マスク対OpenAI裁判、火曜日に冒頭陳述",
-        "body": "億万長者イーロン・マスクとOpenAIの法廷対決が火曜日に始まる。マスクは人工知能企業が非営利ミッションを裏切ったと主張している。OpenAIはマスクが絶対的な支配権を求めていたと反論している。この法廷闘争は、AIの利益と安全性をめぐる議論にスポットライトを当てている。",
-        "category": "企業動向",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/opening-remarks-tuesday-in-elon-musk-versus-openai-trial/articleshow/130567408.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-04-28T02:06:31Z"
-      },
-      {
-        "title": "イーロン・マスク対OpenAI、火曜日に冒頭陳述",
-        "body": "億万長者イーロン・マスクとOpenAIの間で、人工知能企業が非営利ミッションを裏切ったかどうかをめぐる法廷対決の冒頭陳述が火曜日に予定されている。サンフランシスコ湾を挟んだ法廷での衝突は、世界一の富豪と、かつてマスクが共同創設を支援したスタートアップを対立させている。",
-        "category": "企業動向",
-        "url": "https://www.digitaljournal.com/business/opening-remarks-tuesday-in-elon-musk-versus-openai/article",
-        "source": "Digital Journal",
-        "publishedAt": "2026-04-28T01:27:34Z"
-      },
-      {
-        "title": "南アフリカがAI政策の作成にAIを使用。引用は偽物だった。",
-        "body": "南アフリカの通信デジタル技術省は、国家人工知能政策の起草に数ヶ月を費やした。国家AI委員会、AI倫理委員会、AI規制当局、AIオンブズパーソン、国家AI安全機関を提案した。しかし、その文書の引用はAIによって生成されたものであることが判明した。",
-        "category": "規制・政策",
-        "url": "https://thenextweb.com/news/south-africa-ai-policy-hallucinated-citations/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-28T21:24:36Z"
-      },
-      {
-        "title": "金融データ企業の元祖Bloombergが強力な新AIエージェントを発表。その構築方法は他企業への教訓を含む",
-        "body": "Bloombergの「AskB」ツールは、金融分野におけるAIエージェントの可能性を示している。また、そのようなエージェントの構築がいかに困難であるかも示している。",
-        "category": "応用技術",
-        "url": "https://fortune.com/2026/04/28/bloomberg-askb-ai-agents-lessons-from-bloomberg-cto-shawn-edwards-eye-on-ai/",
-        "source": "Fortune",
-        "publishedAt": "2026-04-28T21:15:57Z"
-      },
-      {
-        "title": "なぜ南アフリカはAI政策草案を撤回したのか？ #tech",
-        "body": "南アフリカが初のAI政策草案を撤回 南アフリカは、内部審査により文書に架空の情報源が含まれていることが判明したため、初の国家AI政策草案を撤回した。それらの情報源はAIによって生成されたものと思われ、最初の政策文書への信頼が損なわれた。",
-        "category": "規制・政策",
-        "url": "https://alltoc.com/tech/why-did-south-africa-withdraw-ai-policy-draft",
-        "source": "Alltoc.com",
-        "publishedAt": "2026-04-28T18:01:59Z"
-      },
-      {
-        "title": "政府に人工知能のリスク最小化を求める声",
-        "body": "人工知能（AI）が公共サービス、職場、日常生活にますます浸透する中、政府は適切な基盤を整えるよう求められている。",
-        "category": "規制・政策",
-        "url": "https://www.rte.ie/news/2026/0428/1570698-risk-of-ai/",
-        "source": "RTE",
-        "publishedAt": "2026-04-28T16:59:34Z"
-      },
-      {
-        "title": "米国AIサーバー市場調査レポート2026-2034：データセンター、クラウドプラットフォーム、企業IT環境における人工知能ワークロードの拡大が成長を牽引",
-        "body": "米国AIサーバー市場は、クラウドプラットフォームと企業環境における人工知能ワークロードの急増により、2025年の503.2億ドルから2034年には7062億ドルへと指数関数的な成長が見込まれている。",
-        "category": "その他",
-        "url": "https://www.globenewswire.com/news-release/2026/04/28/3282970/28124/en/United-States-AI-Server-Market-Research-Report-2026-2034-Expansion-Driven-by-Artificial-Intelligence-Workloads-Across-Data-Centers-Cloud-Platforms-and-Enterprise-IT-Environments.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-04-28T15:30:00Z"
-      },
-      {
-        "title": "労働党、OpenAIが数十億ポンド規模の主要データセンター契約をキャンセル後、「AIハードウェア計画」を策定へ",
-        "body": "リズ・ケンドール技術長官は、OpenAIが英国での数十億ポンド規模のデータセンタープロジェクトをキャンセルしてから20日も経たないうちに、政府がAI投資を促進するための「ハードウェア計画」を策定する意向であると発表した。労働党の政策を批判しながら、ケンドールは議会で述べた。",
-        "category": "規制・政策",
-        "url": "https://order-order.com/2026/04/28/labour-to-develop-ai-hardware-plan-after-openai-cancels-multi-billion-pound-flagship-data-centre-deal/",
-        "source": "Order-order.com",
-        "publishedAt": "2026-04-28T11:28:48Z"
-      },
-      {
-        "title": "中国によるAI取引阻止が「シンガポール・ウォッシング」を止める可能性",
-        "body": "中国のAIスタートアップが中国のAIスタートアップでなくなるのはいつか？法的・政治的に北京から距離を置くため、シンガポールやその他の地域に拠点を置いている場合だ。「シンガポール・ウォッシング」として知られるこの慣行は、中国が主要な米国による買収を阻止した後、精査されている。",
-        "category": "企業動向",
-        "url": "https://www.digitaljournal.com/business/how-china-block-of-ai-deal-could-stop-singapore-washing/article",
-        "source": "Digital Journal",
-        "publishedAt": "2026-04-28T06:42:32Z"
-      },
-      {
-        "title": "スペインのスタートアップがビデオAIに転換し、VCなしで2億3000万ドルのARRビジネスを構築した方法",
-        "body": "Freepikは、共同創業者兼CEOのホアキン・クエンカ・アベラがAIの未来に向けて会社を再構築する中、Magnificとしてリブランディングしている。",
-        "category": "企業動向",
-        "url": "https://fortune.com/2026/04/28/freepik-magnific-joaquin-cuenca-abela-230-million-arr-video-generation-ai-pivot/",
-        "source": "Fortune",
-        "publishedAt": "2026-04-28T11:37:20Z"
-      },
-      {
-        "title": "ソニーの卓球ロボットが型破りな動きでエリート人間選手を打ち負かした",
-        "body": "AIはチェスや囲碁などのゲームでとっくに人間を超えている。今やトップアスリートに挑戦できるロボットを動かしている。",
-        "category": "応用技術",
-        "url": "https://singularityhub.com/2026/04/28/sonys-table-tennis-robot-beat-elite-human-players-with-unorthodox-moves/#article",
-        "source": "Singularity Hub",
-        "publishedAt": "2026-04-28T14:00:00Z"
-      },
-      {
-        "title": "AIの経済学は理にかなっていない",
-        "body": "この記事が気に入ったら、私のプレミアムニュースレターを購読してください。年間70ドル、または月額7ドルで、毎週5,000語から18,000語のニュースレターが届きます。NVIDIA、Anthropic、OpenAIの詳細な分析が含まれています。",
-        "category": "その他",
-        "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
-        "source": "Wheresyoured.at",
-        "publishedAt": "2026-04-28T16:39:53Z"
-      },
-      {
-        "title": "RoboSenseがEOCENE SPAD-SoCアーキテクチャとチップセットPhoenixおよびPeacockを発表",
-        "body": "AI駆動ロボティクス技術企業のRoboSense（HKEX: 2498）は本日、深センで2026年テックデーを開催し、世界初公開となる画期的な発表を行った。",
-        "category": "応用技術",
-        "url": "https://en.antaranews.com/news/413899/robosense-unveiled-eocene-spad-soc-architecture-and-chipsets-phoenix-and-peacock",
-        "source": "Antaranews.com",
-        "publishedAt": "2026-04-28T05:00:42Z"
-      },
-      {
-        "title": "Fabric.AI（Nasdaq: SBLX）がMicroLED相互接続技術のブレークスルーを発表、次世代「AIファクトリー」インフラ構築の第一歩として。大手MicroLED開発企業Kopin Corporation（Nasdaq: KOPN）と提携",
-        "body": "大規模にインテリジェンスを生産するために最適化されたスマートデータセンターであるAIファクトリーを動かすために設計された新しいファブレス半導体技術スイートを紹介。MicroLED光学相互接続に初期フォーカスを置き、1000億ドル以上の業界でリーダーシップを取るためにパートナーシップを締結。",
-        "category": "企業動向",
-        "url": "https://www.globenewswire.com/news-release/2026/04/28/3282654/0/en/Fabric-AI-Nasdaq-SBLX-Launches-Breakthrough-MicroLED-Interconnect-Technology-as-First-Step-in-Building-Next-Generation-AI-Factory-Infrastructure-Partners-with-Leading-MicroLED-Deve.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-04-28T12:30:00Z"
-      }
-    ]
-  },
   "2026-05-01": {
     "display": "2026年05月01日",
     "articles": [
@@ -956,6 +791,131 @@
         "url": "https://thenextweb.com/news/intel-stock-record-apple-foundry-ai-turnaround/",
         "source": "The Next Web",
         "publishedAt": "2026-05-05T18:27:53Z"
+      }
+    ]
+  },
+  "2026-05-08": {
+    "display": "2026年05月08日",
+    "articles": [
+      {
+        "title": "「FOMOは株価低迷よりも強いインセンティブであることが証明された」：ゴールドマン・サックスがAIブームについて厳しい評決を下した",
+        "body": "ゴールドマン・サックスは巨大データセンターの問題を両面から検討し、肩をすくめた。",
+        "category": "企業動向",
+        "url": "https://fortune.com/2026/05/06/is-ai-a-bubble-goldman-sachs-skeptics-overhyped/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-06T17:33:15Z"
+      },
+      {
+        "title": "AMD株が15%以上急騰：AIチップ需要が好調な第1四半期決算と強気な見通しを牽引",
+        "body": "ニューヨーク — アドバンスト・マイクロ・デバイセズ社の株価は2026年5月6日水曜日の早朝取引で15%以上急騰した。これは半導体大手が予想を上回る第1四半期決算を発表し、AIチップ需要による爆発的な成長継続への期待を高めたことによる。",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/amd-stock-explodes-15-ai-chip-demand-fuels-blockbuster-q1-earnings-bullish-outlook-1868313",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-05-06T14:08:32Z"
+      },
+      {
+        "title": "サービスロボティクスの台頭がビジネスの運営方法を変革",
+        "body": "テキサス州オースティン、2026年5月6日（GLOBE NEWSWIRE）— AINewsWire編集報道：労働力不足、運営コストの上昇、効率性の課題に対処するため、組織が自動化を導入するケースが増加しており、サービスロボティクスへの需要が世界中で加速している。",
+        "category": "応用技術",
+        "url": "https://www.globenewswire.com/news-release/2026/05/06/3288808/0/en/Service-Robotics-Rise-Transforms-How-Businesses-Operate.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-06T12:30:00Z"
+      },
+      {
+        "title": "Eightco Holdings（NASDAQ: ORBS）が約3億3,300万ドルの総保有資産を報告、OpenAI、Beast Industries、11,000 ETH以上、2億8,300万WLDトークン以上を含む",
+        "body": "2026年5月6日時点のEightco財務構成：OpenAI株式（間接保有）9,000万ドル、Beast Industries株式2,500万ドル、11,068 ETH、2億8,300万WLD保有、現金および同等物1億2,100万ドル、合計約3億3,300万ドル。Worldは「二重人間」問題への解決策を提供する。",
+        "category": "企業動向",
+        "url": "https://www.prnewswire.com/news-releases/eightco-holdings-nasdaq-orbs-reports-total-holdings-of-approximately-333-million-includes-openai-beast-industries-more-than-11-000-eth-and-over-283-million-wld-tokens-302763797.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-06T12:30:00Z"
+      },
+      {
+        "title": "イーロン・マスクのSpaceXがサプライズAI契約でAnthropicのClaudeを支援へ",
+        "body": "イーロン・マスクのSpaceXとxAIの合併会社が、ClaudeAIモデルにコンピューティングリソースを提供する契約でAnthropicを後押しする。",
+        "category": "企業動向",
+        "url": "https://decrypt.co/367035/elon-musk-spacex-power-anthropic-claude-surprise-ai-deal",
+        "source": "Decrypt",
+        "publishedAt": "2026-05-06T20:23:19Z"
+      },
+      {
+        "title": "マスクのAI帝国が崩壊しつつある — 裁判はほんの始まりに過ぎない",
+        "body": "2026年3月4日、イーロン・マスクはXに「TeslaはAGIを作る企業の一つとなり、おそらくヒューマノイド/原子形成形態では最初になるだろう」と投稿した。それから8週間も経たないうちに、オークランドの連邦法廷で宣誓のもと、TeslaがAGIを達成する能力があるかどうかを尋ねられた。",
+        "category": "人物発言",
+        "url": "http://electrek.co/2026/05/06/musk-obsession-controlling-ai-tesla-agi-openai-trial/",
+        "source": "Electrek",
+        "publishedAt": "2026-05-06T17:36:58Z"
+      },
+      {
+        "title": "トランプのAI政策チームはバイデンの全てに反対して就任した。今や同じ政策の多くを実施する瀬戸際にある",
+        "body": "バイデン時代のAI安全性への取り組みを批判した後、トランプ政権はサイバーリスクと国家安全保障に対する懸念が高まる中、独自のフロンティアモデル監視を検討している。",
+        "category": "規制・政策",
+        "url": "https://fortune.com/2026/05/06/trump-administration-embraces-ai-oversight-policies-it-once-rejected-anthropic-mythos-caisi/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-06T18:10:30Z"
+      },
+      {
+        "title": "政府には選択肢がある：子供向けAIチャットボット禁止がソーシャルメディア禁止よりもさらに悪いアイデアである理由",
+        "body": "子供をソーシャルメディアから禁止しようとする熱狂は、文化大臣マーク・ミラーが下院委員会で政府は行動するしかないと発言したことで、さらに高まっている。ミラーの発言は、連邦自由党の政策大会での投票と一致している。",
+        "category": "規制・政策",
+        "url": "https://www.michaelgeist.ca/2026/05/government-has-a-choice-why-an-ai-chatbot-ban-for-kids-is-an-even-worse-idea-than-a-social-media-ban/",
+        "source": "Michaelgeist.ca",
+        "publishedAt": "2026-05-06T14:24:59Z"
+      },
+      {
+        "title": "Wyndhamが8,400のホテルでホスピタリティを向上させるためにAIをどう拡大しているか",
+        "body": "このホテルフランチャイズ企業は、2018年以降の4億5,000万ドルの技術支出のほとんどで標準化を重視している。しかし、Wyndham ConnectのようなAIツールへのオプトインについては、フランチャイジーにより柔軟性を与えている。",
+        "category": "応用技術",
+        "url": "https://fortune.com/2026/05/06/how-jpmorgans-cio-is-reshaping-work-at-the-bank-with-a-19-8-billion-annual-tech-and-ai-budget/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-06T17:23:50Z"
+      },
+      {
+        "title": "Ethosが2,275万ドルのシリーズAを獲得、AIが壊した採用を修復へ",
+        "body": "元DeepMindおよび元マッキンゼーの卒業生が設立したロンドン拠点のAI専門家マッチングプラットフォームは、採用が労働市場でAIが最も目に見えて悪化させた部分となっている今、評価されている。Andreessen Horowitzがラウンドをリード、General Catalystも参加。",
+        "category": "資金・M&A",
+        "url": "https://thenextweb.com/news/ethos-22-75m-series-a-a16z-ai-expert-matching/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-06T15:00:00Z"
+      },
+      {
+        "title": "UP.PartnersがTWG Globalと戦略的関係を発表、フィジカルワールド技術投資を加速",
+        "body": "ニューヨーク — 「フィジカルワールド」技術に投資するテクノロジー投資会社UP.Partnersは、TWG Globalと戦略的関係を締結した。UP.Partnersは、フィジカルAI、モビリティ、輸送を含むセクターに株式資本を投入する予定。",
+        "category": "資金・M&A",
+        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/up-partners-announces-strategic-relationship-with-twg-global-to-accelerate-physical-world-technology-investment",
+        "source": "Financial Post",
+        "publishedAt": "2026-05-06T17:01:29Z"
+      },
+      {
+        "title": "SpaceXがテキサス州に550億ドルのTerafabチップ工場の計画を申請",
+        "body": "Teslaとの共同プロジェクトであるTerafab施設は、全フェーズが完了した場合、最大1,190億ドルの総投資が必要になる可能性がある。",
+        "category": "企業動向",
+        "url": "https://qz.com/spacex-terafab-chip-plant-texas-050626",
+        "source": "Quartz India",
+        "publishedAt": "2026-05-06T12:23:51Z"
+      },
+      {
+        "title": "Sandiskがミームコインのように急騰している。その理由はこれだ",
+        "body": "Sandisk株は1年で3,000%以上上昇している。これはミームではない。NANDフラッシュだ — そしてAIはそれをいくらでも欲しがっている。",
+        "category": "企業動向",
+        "url": "https://decrypt.co/367025/sandisk-mooning-meme-coin-ai-trade",
+        "source": "Decrypt",
+        "publishedAt": "2026-05-06T18:57:40Z"
+      },
+      {
+        "title": "Nvidia、Corningと大規模光ファイバー契約で提携、AIにとってゲームチェンジャーになる可能性",
+        "body": "CorningはNvidia向けの光学技術に完全に特化した3つの新しい先進製造工場を米国に開設している。",
+        "category": "企業動向",
+        "url": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-06T11:37:28Z"
+      },
+      {
+        "title": "AMDの株価がAIワークロード向けCPUとGPUへの急増する需要で上昇",
+        "body": "半導体大手アドバンスト・マイクロ・デバイセズ社は、本日発表した第1四半期決算で再び堅調な売上高と利益の予想超えを達成した。データセンターチップへの急増する需要のおかげで、今四半期のガイダンスも好調だった。",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/05/05/amds-stock-rises-surging-demand-cpus-gpus-ai-workloads/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-06T01:25:12Z"
       }
     ]
   }

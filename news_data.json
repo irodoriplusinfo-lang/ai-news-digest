@@ -1,145 +1,4 @@
 {
-  "2026-05-01": {
-    "display": "2026年05月01日",
-    "articles": [
-      {
-        "title": "Meta株、設備投資見通しが好決算を覆い隠し時間外取引で下落",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://siliconangle.com/2026/04/29/meta-shares-drop-hours-capex-guidance-overshadows-first-quarter-beats/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-04-29T22:48:00Z"
-      },
-      {
-        "title": "Meta株価、業績と設備投資予測：Meta売上高、レイオフ、労働力変化、中国取引の挫折、将来見通しと投資家の懸念",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://economictimes.indiatimes.com/news/international/us/meta-stock-price-earnings-and-capital-spending-forecast-meta-revenue-layoffs-workforce-changes-china-deal-setback-future-outlook-and-investor-concerns/articleshow/130617817.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-04-29T21:23:53Z"
-      },
-      {
-        "title": "iOS 27でSiriカメラモードと拡張ビジュアルAIが追加される可能性",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.cultofmac.com/news/apple-adding-siri-camera-mode",
-        "source": "Cult of Mac",
-        "publishedAt": "2026-04-29T17:44:37Z"
-      },
-      {
-        "title": "新たなDPRK攻撃がAI挿入型npmマルウェア、偽企業、RATを使用",
-        "body": "",
-        "category": "その他",
-        "url": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
-        "source": "Internet",
-        "publishedAt": "2026-04-29T14:43:00Z"
-      },
-      {
-        "title": "FDAのAI推進が新たなバイオテック軍拡競争に火をつけ、Totaligentが密かにその中心に位置取りか",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.globenewswire.com/news-release/2026/04/29/3283865/0/en/FDA-s-AI-Push-Ignites-a-new-Biotech-Arms-Race-and-Totaligent-may-be-quietly-Positioning-Itself-at-the-Center.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-04-29T13:20:00Z"
-      },
-      {
-        "title": "朗報！AIファーストのWarpターミナルがついにオープンソース化",
-        "body": "",
-        "category": "その他",
-        "url": "https://itsfoss.com/news/warp-goes-open-source/",
-        "source": "Itsfoss.com",
-        "publishedAt": "2026-04-29T11:37:38Z"
-      },
-      {
-        "title": "コーヒーブレイク：OpenAI裁判でイーロン・マスク対サム・アルトマンが対決",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.nakedcapitalism.com/2026/04/musk-vs-altman-openai-trial-spacex-tesla-microsoft.html",
-        "source": "Nakedcapitalism.com",
-        "publishedAt": "2026-04-29T18:00:22Z"
-      },
-      {
-        "title": "イーロン・マスクはビジネス帝国の命運をAIに賭けている",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.nrc.nl/nieuws/2026/04/29/elon-musk-is-betting-his-business-empire-on-ai-a4926291",
-        "source": "Www.nrc.nl",
-        "publishedAt": "2026-04-29T13:05:00Z"
-      },
-      {
-        "title": "イーロン・マスク、OpenAI CEOサム・アルトマンが慈善団体を「盗もうとした」と非難",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://siliconangle.com/2026/04/28/elon-musk-accuses-openai-ceo-sam-altman-trying-steal-charity/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-04-29T01:56:16Z"
-      },
-      {
-        "title": "アイリッシュ・タイムズ紙のAIに関する見解：暫定的な国の対応は強化が必要",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.irishtimes.com/opinion/editorials/2026/04/29/the-irish-times-view-on-ai-tentative-state-response-needs-to-ramp-up/",
-        "source": "The Irish Times",
-        "publishedAt": "2026-04-29T19:33:00Z"
-      },
-      {
-        "title": "カナダの大量殺人犯のChatGPT使用をめぐり遺族がOpenAIを提訴",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.npr.org/2026/04/29/nx-s1-5798896/tumbler-ridge-mass-shooting-chat-gpt-lawsuit",
-        "source": "NPR",
-        "publishedAt": "2026-04-29T13:09:34Z"
-      },
-      {
-        "title": "ラッセルのティーポット：AIバブル最終段階からの報告",
-        "body": "",
-        "category": "その他",
-        "url": "https://www.nakedcapitalism.com/2026/04/russells-teapot-dispatches-from-the-final-stage-of-the-ai-bubble.html",
-        "source": "Nakedcapitalism.com",
-        "publishedAt": "2026-04-29T10:54:56Z"
-      },
-      {
-        "title": "ラテンアメリカ データセンター コロケーション データブックレポート2026年：Ascenty、Equinix、Odataが牽引する37億ドル市場、地域事業者がブラジルとメキシコでハイパースケール容量を拡大",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.globenewswire.com/news-release/2026/04/29/3283487/28124/en/Latin-America-Data-Center-Colocation-Databook-Report-2026-3-7-Billion-Market-Led-by-Ascenty-Equinix-and-Odata-as-Regional-Operators-Expand-Hyperscale-Capacity-Across-Brazil-and-Mex.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-04-29T08:02:00Z"
-      },
-      {
-        "title": "左派はAIを見逃している - Dan Kagan-Kans著",
-        "body": "",
-        "category": "その他",
-        "url": "https://www.transformernews.ai/p/the-left-is-missing-out-on-ai-sanders-doctorow-bender-bores",
-        "source": "Transformernews.ai",
-        "publishedAt": "2026-04-29T05:47:02Z"
-      },
-      {
-        "title": "LG電子とNvidiaがロボティクス、AIデータセンター、モビリティについて協議中",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://thenextweb.com/news/lg-electronics-nvidia-talks-robotics-ai-data-centres/",
-        "source": "The Next Web",
-        "publishedAt": "2026-04-29T15:53:36Z"
-      },
-      {
-        "title": "Coby AdcockのScout AIが戦争用モデル訓練のため1億ドルを調達。我々はその訓練場を訪問した。| TechCrunch",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-        "source": "TechCrunch",
-        "publishedAt": "2026-04-29T09:45:00Z"
-      },
-      {
-        "title": "第139回広州交易会の電子機器・家電カテゴリーでAIネイティブデバイスがスポットライトを浴びる",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://en.antaranews.com/news/414011/electronics-appliances-category-at-139th-canton-fair-spotlights-ainative-devices",
-        "source": "Antaranews.com",
-        "publishedAt": "2026-04-29T04:06:42Z"
-      }
-    ]
-  },
   "2026-05-02": {
     "display": "2026年05月02日",
     "articles": [
@@ -916,6 +775,123 @@
         "url": "https://siliconangle.com/2026/05/05/amds-stock-rises-surging-demand-cpus-gpus-ai-workloads/",
         "source": "SiliconANGLE News",
         "publishedAt": "2026-05-06T01:25:12Z"
+      }
+    ]
+  },
+  "2026-05-09": {
+    "display": "2026年05月09日",
+    "articles": [
+      {
+        "title": "AIによる雇用崩壊は「無益なマーケティング、悪い経済学、さらに悪い歴史認識」とa16zが発言",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://fortune.com/2026/05/07/ai-job-apocalypse-unhelpful-marketing-bad-economics-worse-history/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-07T17:48:17Z"
+      },
+      {
+        "title": "政権、AI規制の大統領令を検討中だが、内容は流動的",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.dailysignal.com/2026/05/07/trump-mulls-ai-regulation-orders/",
+        "source": "Daily Signal",
+        "publishedAt": "2026-05-07T14:54:14Z"
+      },
+      {
+        "title": "EU、性的なディープフェイクを生成するAIシステムを禁止へ",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.rte.ie/news/2026/0507/1572142-eu-deepfakes/",
+        "source": "RTE",
+        "publishedAt": "2026-05-07T10:39:57Z"
+      },
+      {
+        "title": "AI幹部たちは1948年のサーカスの手口を使っている…正確性と妥当性の評価を含む要約",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://freerepublic.com/focus/f-chat/4378103/posts",
+        "source": "Freerepublic.com",
+        "publishedAt": "2026-05-07T13:43:13Z"
+      },
+      {
+        "title": "イーロン・マスクの訴訟がOpenAIの安全性実績を詳細に検証することに | TechCrunch",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+        "source": "TechCrunch",
+        "publishedAt": "2026-05-07T19:21:21Z"
+      },
+      {
+        "title": "AI競争がトランプ大統領と習近平主席の会談の議題に上る可能性",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.dailysignal.com/2026/05/07/ai-trumps-meeting/",
+        "source": "Daily Signal",
+        "publishedAt": "2026-05-07T18:58:48Z"
+      },
+      {
+        "title": "ホワイトハウス、AIモデルのリリース前に政府による必須審査を検討か — 大統領令を議論中",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/white-house-considers-mandatory-government-vetting-of-ai-models-before-release",
+        "source": "Tom's Hardware UK",
+        "publishedAt": "2026-05-07T17:53:21Z"
+      },
+      {
+        "title": "データセンターが電力需要を牽引、テキサス州でガス発電プロジェクトが急増",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.insurancejournal.com/news/southcentral/2026/05/07/868941.htm",
+        "source": "Insurance Journal",
+        "publishedAt": "2026-05-07T15:34:27Z"
+      },
+      {
+        "title": "米国移民手続きでAIを信用すべきでない理由",
+        "body": "",
+        "category": "その他",
+        "url": "https://www.forbes.com/sites/andyjsemotiuk/2026/05/07/why-you-shouldnt-trust-ai-with-your-us-immigration-future/",
+        "source": "Forbes",
+        "publishedAt": "2026-05-07T14:23:40Z"
+      },
+      {
+        "title": "Fathom社、AIガバナンスのための独立検証（IVO）を確立する法案のコネチカット州通過を称賛",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.prnewswire.com/news-releases/fathom-applauds-connecticut-passing-legislation-that-establishes-independent-verification-ivo-for-ai-governance-302765598.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-07T12:45:00Z"
+      },
+      {
+        "title": "子供へのソーシャルメディアとAIチャットボット禁止が悪い政策である理由：上院社会問題・科学・技術委員会での主張",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.michaelgeist.ca/2026/05/why-social-media-and-ai-chatbot-bans-for-kids-are-bad-policy-making-the-case-at-the-senate-social-affairs-science-and-tech-committee/",
+        "source": "Michaelgeist.ca",
+        "publishedAt": "2026-05-07T12:32:30Z"
+      },
+      {
+        "title": "AI主導のリストラがスタートアップをより少人数の労働力モデルへ押しやる",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.thehindubusinessline.com/info-tech/ai-led-restructuring-pushes-startups-toward-leaner-workforce-models/article70951205.ece",
+        "source": "BusinessLine",
+        "publishedAt": "2026-05-07T15:01:39Z"
+      },
+      {
+        "title": "SEMIFIVEとICY Tech、8nm eMRAMベースのエッジAI SoCのテープアウトに成功、アジア初の商用化を目指す",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.prnewswire.com/news-releases/semifive-and-icy-tech-achieve-successful-tape-out-of-8nm-emram-based-edge-ai-soc-targeting-first-commercialization-in-asia-302765052.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-07T05:00:00Z"
+      },
+      {
+        "title": "IREN株、NvidiaとのAIインフラ契約で13%急騰",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.cnbc.com/2026/05/07/iren-stock-ai-infrastructure-nvidia.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-07T21:29:58Z"
       }
     ]
   }

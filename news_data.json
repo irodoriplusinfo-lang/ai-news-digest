@@ -1,121 +1,4 @@
 {
-  "2026-05-03": {
-    "display": "2026年05月03日",
-    "articles": [
-      {
-        "title": "AIの制約はデプロイ後ではなく、デプロイ前に設けられなければならない",
-        "body": "2026年4月7日、Anthropicは人工知能の歴史において前例のないことを行った。同社は、これまでで最も高性能なモデルを構築したが、それを一般公開しないと発表したのだ。モデルは失敗したわけではない。実際、それは優れた性能を発揮していた……",
-        "category": "規制・政策",
-        "url": "https://siliconangle.com/2026/05/01/ai-constraints-must-come-deployment-not/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-01T17:52:28Z"
-      },
-      {
-        "title": "エージェント型エンジニアリングスタートアップのJuliaHubが産業製品の設計とテストを自動化するために6500万ドルを調達",
-        "body": "JuliaHub Inc.は、人工知能で複雑な製造プロセスを自動化しようとしている「エージェント型」産業エンジニアリングスタートアップであり、本日シリーズBラウンドで6500万ドルを調達したと発表した。今回のラウンドはDorilton Capitalが主導し、……",
-        "category": "資金・M&A",
-        "url": "https://siliconangle.com/2026/04/30/agentic-engineering-startup-juliahub-lands-65m-automate-design-testing-industrial-products/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-01T02:30:17Z"
-      },
-      {
-        "title": "裁判官、イーロン・マスクのOpenAI訴訟がAIの裁判に発展するのを阻止",
-        "body": "イヴォンヌ・ゴンザレス・ロジャース裁判官は、イーロン・マスクがOpenAIとサム・アルトマンに対して起こした訴訟の証言3日目において、弁護士たちがAIの人類への潜在的脅威に関する広範な議論に向かうのを繰り返し制止した。",
-        "category": "企業動向",
-        "url": "https://www.breitbart.com/tech/2026/05/01/judge-prevents-elon-musks-case-against-openai-from-turning-into-a-trial-of-ai/",
-        "source": "Breitbart News",
-        "publishedAt": "2026-05-01T18:52:47Z"
-      },
-      {
-        "title": "（動画）イーロン・マスク、Grok AIのバナナブレッドレシピ動画を共有しXで1200万回再生を達成",
-        "body": "イーロン・マスクは木曜日遅くにXで動画を投稿した。その動画では、Grok AIが金髪の女性がキッチンでバナナブレッドを焼く様子にリアルタイムでステップバイステップの指示を出しており、すぐに1200万回以上の再生数と、AIの実用性を称賛する数千件のリプライを集めた……",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/video-elon-musk-shares-grok-ai-banana-bread-recipe-video-that-explodes-12-million-views-x-1867929",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-05-01T08:07:12Z"
-      },
-      {
-        "title": "AIがクラウドをさらに押し上げ、AWSがスタックの上流へ移行、イーロンとサムが法廷で対決",
-        "body": "もし人工知能がスローダウンしている、あるいは根本的な技術的・財務的障壁にぶつかっていると考えていた人がいたとしたら、今週は懐疑論者たちを黙らせた——少なくとも今のところは。ビッグテック決算の大注目週において、Alphabet、Amazon、Mi……",
-        "category": "企業動向",
-        "url": "https://siliconangle.com/2026/05/01/ai-lifts-clouds-even-higher-aws-moves-stack-elon-sam-battle-court/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-01T14:00:56Z"
-      },
-      {
-        "title": "ヘグセス氏、専門家が民間人への安全措置を求める中、自律型戦闘司令部を発表",
-        "body": "国防長官が自律型戦闘のための新たな準統合司令部について下院軍事委員会で詳細説明。ピート・ヘグセス国防長官は水曜日の下院軍事委員会の公聴会で、国防総省が自律型戦闘に特化した新たな準統合司令部を設立すると述べた。ヘグセス……",
-        "category": "応用技術",
-        "url": "https://www.naturalnews.com/2026-05-01-hegseth-announces-warfare-command-expert-urges-safeguardspriority-make-your-own-title.html",
-        "source": "Naturalnews.com",
-        "publishedAt": "2026-05-01T06:00:00Z"
-      },
-      {
-        "title": "AIデータセンターブームが家電製品のチップ不足を引き起こしている——同じ種類のチップを使用しているわけではないにもかかわらず",
-        "body": "データセンターは強力なチップを必要とし、スマートフォンはエネルギー効率の高いチップを必要とする。サプライチェーンの専門家が、チップメーカーが前者に注力することが後者を犠牲にしている理由を説明する。",
-        "category": "その他",
-        "url": "https://theconversation.com/ai-data-center-boom-is-leaving-consumer-electronics-short-of-chips-even-though-they-dont-use-the-same-kinds-277069",
-        "source": "The Conversation Africa",
-        "publishedAt": "2026-05-01T12:20:39Z"
-      },
-      {
-        "title": "補助金を出し、建設し、輸出し、繰り返す",
-        "body": "アメリカは公的資金で構築したAIスタックを、同じ企業と同じ国家安全保障のフレーミングで売り込んでいる。需要が本当にあるのかどうかを誰も問うていない。",
-        "category": "規制・政策",
-        "url": "http://prospect.org/2026/05/01/subsidize-build-export-repeat-ai-stack-national-security/",
-        "source": "The American Prospect",
-        "publishedAt": "2026-05-01T09:15:00Z"
-      },
-      {
-        "title": "Intelがここ数年で最高の月を記録、投資家が注目",
-        "body": "Intelがここ数年で最も好調な月次パフォーマンスを記録し、AIおよび先端チップ製造への取り組みの中で投資家の信頼が回復していることを示している。TweakTownで続きを読む",
-        "category": "企業動向",
-        "url": "https://www.tweaktown.com/news/111386/intel-just-had-its-best-month-in-years-and-investors-are-paying-attention/index.html",
-        "source": "TweakTown",
-        "publishedAt": "2026-05-01T08:57:06Z"
-      },
-      {
-        "title": "SalesCloserがAI搭載会話型ワークフロー技術で米国特許を取得",
-        "body": "特許取得によりコア技術革新が認められ、急成長するAI営業自動化市場における競争優位性が強化。バンクーバー、BC州、2026年5月1日（GLOBE NEWSWIRE）— SalesCloser Technologies Ltd.（「SalesCloser」または「当社」）（TSXV: SCAI）（FSE: MJ5）、先駆的な……",
-        "category": "企業動向",
-        "url": "https://financialpost.com/globe-newswire/salescloser-secures-u-s-patent-for-ai-powered-conversational-workflow-technology",
-        "source": "Financial Post",
-        "publishedAt": "2026-05-01T21:32:55Z"
-      },
-      {
-        "title": "BitsStrategyがよりスマート、より速く、より簡単な市場執行のために構築された無料AIトレーディングボットを発表",
-        "body": "BitsStrategyは無料AIトレーディングボットを発表した。これは、ユーザーがより高速で、構造的で、容易な市場執行に取り組むのを支援するために構築された。2026年により多くのトレーダーが実用的な自動化ツールを求める中、BitsStrategyは最も重要な部分の一つに注力している……",
-        "category": "応用技術",
-        "url": "https://www.globenewswire.com/news-release/2026/05/01/3286170/0/en/BitsStrategy-Launches-Free-AI-Trading-Bot-Built-for-Smarter-Faster-and-Easier-Market-Execution.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-01T18:00:00Z"
-      },
-      {
-        "title": "公共セクターのAIを再考する：ミッション成果を推進する5つの変化",
-        "body": "公共セクターにおけるAIについて誰もが理論を持っていた。今、実際に何が機能しているかを見てみよう。IDCとElasticに参加して、AI導入の現実、データ主権、そして真のインパクトをもたらすシステム構築について議論する。",
-        "category": "規制・政策",
-        "url": "https://www.elastic.co/blog/5-shifts-driving-mission-outcomes",
-        "source": "Elastic.co",
-        "publishedAt": "2026-05-01T00:00:00Z"
-      },
-      {
-        "title": "AIアップデート、2026年5月1日：過去1週間のAIニュースと見解",
-        "body": "4月24日金曜日以降の厳選されたAIニュースと動向をキャッチアップ。最新情報を把握しよう。MarketingProfsで記事全文を読む",
-        "category": "その他",
-        "url": "https://www.marketingprofs.com/opinions/2026/54640/ai-update-may-1-2026-ai-news-and-views-from-the-past-week",
-        "source": "MarketingProfs.com",
-        "publishedAt": "2026-05-01T14:00:00Z"
-      },
-      {
-        "title": "ティム・フェリス・ショー トランスクリプト：エラッド・ギル、帝国建設者のコンシリエーレ — 他の誰よりも先に10億ドル企業を見つける方法、霧がかったAIフロンティア、コカ・コーラがペプシに勝った方法、コンセンサスが報われるとき、その他多数（#863）",
-        "body": "エラッド・ギル（@eladgil）とのインタビューのトランスクリプトをお楽しみください。彼はGil & CoのCEOであり、世界最先端の技術に取り組むマルチステージ投資会社、持株会社、事業会社です。エラッドは連続起業家、経営幹部として……",
-        "category": "人物発言",
-        "url": "https://tim.blog/2026/04/30/elad-gil-transcript/",
-        "source": "Tim.blog",
-        "publishedAt": "2026-05-01T00:53:11Z"
-      }
-    ]
-  },
   "2026-05-04": {
     "display": "2026年05月04日",
     "articles": [
@@ -836,6 +719,51 @@
         "url": "https://www.globenewswire.com/news-release/2026/05/08/3291209/0/en/Concierra-Legal-Unveils-New-Report-on-Five-Ways-Law-Firms-Can-Use-Artificial-Intelligence-to-Deliver-More-Efficient-and-Responsive-Legal-Services.html",
         "source": "GlobeNewswire",
         "publishedAt": "2026-05-08T14:50:00Z"
+      }
+    ]
+  },
+  "2026-05-11": {
+    "display": "2026年05月11日",
+    "articles": [
+      {
+        "title": "機密ネットワークにおけるAI協定",
+        "body": "国防省は、機密ネットワークに能力を展開するため、世界をリードするフロンティア人工知能企業8社との協定を発表した。SpaceX、OpenAI、Google、…",
+        "category": "企業動向",
+        "url": "https://soldiersystems.net/2026/05/09/classified-networks-ai-agreements/",
+        "source": "Soldiersystems.net",
+        "publishedAt": "2026-05-09T17:00:00Z"
+      },
+      {
+        "title": "AIR、ARR、そしてAI：RingCentralのAIファーストエンゲージメントプラットフォームへの変革の内幕",
+        "body": "RingCentral Inc.の最新四半期決算は、人工知能を将来の話から、製品差別化、業務効率化、そしてますます成長の主要エンジンへと静かに転換させた企業の姿を示している。ユニファイドコミュニケーションとして始まったものが…",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/05/08/air-arr-ai-inside-ringcentrals-transformation-ai-first-engagement-platform/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-09T03:54:15Z"
+      },
+      {
+        "title": "AlphabetのIsomorphic Labsが医療研究AI向けに20億ドル以上の資金調達を交渉中と報道",
+        "body": "人工知能を活用して創薬を加速させるAlphabet Inc.傘下のIsomorphic Labs Inc.が、新たな資金調達ラウンドの交渉中と報じられている。Bloombergの情報筋によると、この投資は20億ドル以上になる可能性がある。OpenAI Group PBC…",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/05/08/alphabets-isomorphic-labs-reportedly-raising-2b-medical-research-ai/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-09T01:15:49Z"
+      },
+      {
+        "title": "ホワイトハウス、新ツールによるセキュリティリスクを受けAI監督を再考",
+        "body": "AI監督の強化は、テック規制を再形成し、グローバルなAI競争に影響を与え、暗号プロジェクトのような分散型テクノロジーにも影響を及ぼす可能性がある。この投稿「ホワイトハウス、新ツールによるセキュリティリスクを受けAI監督を再考」はCrypto Briefingに最初に掲載された。",
+        "category": "規制・政策",
+        "url": "https://cryptobriefing.com/white-house-ai-oversight-security-risks/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-09T01:27:13Z"
+      },
+      {
+        "title": "2026年5月に購入すべきAI株ベスト10：人工知能ブームが加速する中で",
+        "body": "ニューヨーク — 人工知能が2026年に産業を再形成し、記録的な設備投資を牽引し続ける中、投資家は多くのアナリストがこの10年を定義する技術的メガトレンドと呼ぶものに参加するための最も強力な方法を模索している。",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/10-best-ai-stocks-buy-may-2026-artificial-intelligence-boom-accelerates-1868461",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-05-09T13:03:22Z"
       }
     ]
   }

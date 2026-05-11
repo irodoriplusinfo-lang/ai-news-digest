@@ -1,57 +1,4 @@
 {
-  "2026-05-04": {
-    "display": "2026年05月04日",
-    "articles": [
-      {
-        "title": "Anthropicの最も強力なAIモデルが企業ガバナンスの危機を露呈。すべてのCEOが必要とするフレームワークがこれだ。",
-        "body": "イェール大学のJeffrey Sonnenfeldと同僚らは、Claude Mythosが重要な修正なしには取り消すことのできない形で企業導入を破綻させると主張している。",
-        "category": "モデル発表",
-        "url": "https://fortune.com/2026/05/02/agentic-ai-governance-framework-banking-healthcare-retail-supply-chain-yale-celi-sonnenfeld/",
-        "source": "Fortune",
-        "publishedAt": "2026-05-02T12:00:00Z"
-      },
-      {
-        "title": "Meta、8,000人の人員削減が迫る中、ヒューマノイドロボットスタートアップAssured Robot Intelligenceを買収",
-        "body": "Meta Platformsは、ヒューマノイドロボットAIスタートアップのAssured Robot Intelligenceを買収した。CEOのマーク・ザッカーバーグが資本支出を1,450億ドルに引き上げ、同社の人工知能推進のために8,000人の従業員を解雇する準備を進める中での動きである。",
-        "category": "資金・M&A",
-        "url": "https://www.livemint.com/companies/news/meta-acquires-humanoid-robot-startup-assured-robot-intelligence-weeks-after-announcing-8-000-layoffs-11777692898608.html",
-        "source": "Livemint",
-        "publishedAt": "2026-05-02T03:56:47Z"
-      },
-      {
-        "title": "Meta、ロボットソフトウェアスタートアップAssured Robot Intelligenceを買収",
-        "body": "Meta Platforms Inc.は、ロボット向け人工知能ソフトウェアを提供するAssured Robot Intelligence Inc.を買収した。このソーシャルメディア大手は本日、財務条件を開示せずにこの取引を発表した。ただし、この買収が…と明記した。",
-        "category": "資金・M&A",
-        "url": "https://siliconangle.com/2026/05/01/meta-acquires-robot-software-startup-assured-robot-intelligence/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-02T01:01:40Z"
-      },
-      {
-        "title": "Palantirがキャンパスにやって来る",
-        "body": "イェール大学での静かなカンファレンスで、同社とその同盟者たちがAI、国家権力、そしてその両者を組み合わせる方法についてのビジョンを描いている。",
-        "category": "企業動向",
-        "url": "http://nymag.com/intelligencer/article/palantir-yale-conference-ai.html",
-        "source": "New York Magazine",
-        "publishedAt": "2026-05-02T11:00:36Z"
-      },
-      {
-        "title": "LovableとMistralを超えて：注目すべき21のヨーロッパのスタートアップ | TechCrunch",
-        "body": "ヨーロッパのスタートアップが注目を集めないわけではない——LovableとMistral AIがその証拠だ。しかし、業界関係者が追跡している企業は他にも多数存在する。",
-        "category": "企業動向",
-        "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
-        "source": "TechCrunch",
-        "publishedAt": "2026-05-02T14:04:16Z"
-      },
-      {
-        "title": "NvidiaはAIエンジンを構築した。Alphabetは車、道路、そして料金所を構築している。市場はそれに応じて価格を付けている。",
-        "body": "木曜日、Alphabetの株価は同社が第1四半期の売上高1,099億ドルを報告した後、約10パーセント上昇した。これは前年同期比22パーセント増であり、アナリスト予想を約30億ドル上回った。Google Cloudは四半期で200億ドルを突破した…",
-        "category": "企業動向",
-        "url": "https://thenextweb.com/news/alphabet-overtake-nvidia-market-cap-mag-seven/",
-        "source": "The Next Web",
-        "publishedAt": "2026-05-02T16:47:10Z"
-      }
-    ]
-  },
   "2026-05-05": {
     "display": "2026年05月05日",
     "articles": [
@@ -764,6 +711,43 @@
         "url": "https://www.ibtimes.com.au/10-best-ai-stocks-buy-may-2026-artificial-intelligence-boom-accelerates-1868461",
         "source": "Ibtimes.com.au",
         "publishedAt": "2026-05-09T13:03:22Z"
+      }
+    ]
+  },
+  "2026-05-12": {
+    "display": "2026年05月12日",
+    "articles": [
+      {
+        "title": "世界はAIがバイオテロリストを支援することを阻止しなければならない",
+        "body": "新しい病原体からの脅威は、AIを活用したハッカーよりもさらに深刻な危険である。",
+        "category": "規制・政策",
+        "url": "https://www.nrc.nl/nieuws/2026/05/10/the-world-must-stop-ai-from-empowering-bioterrorists-a4927329",
+        "source": "Www.nrc.nl",
+        "publishedAt": "2026-05-10T13:00:00Z"
+      },
+      {
+        "title": "Nvidia、AIファクトリー、そしてアクセラレーテッドコンピューティングへの移行",
+        "body": "市場は、まだ完全に理解していない移行に価格をつけようとしている。Nvidia社の時価総額が5桁（兆ドル規模）になっているのを見て、評価額が高すぎてこれ以上成長できないと考えている。我々はそれが誤ったメンタルモデルであり、市場のポテンシャルを過小評価していると考えている。",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/05/10/nvidia-ai-factories-transition-accelerated-computing/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-10T16:19:47Z"
+      },
+      {
+        "title": "2年間の苦闘の末、議員たちはコロラド州のAI規制を書き換え、縮小する方向へ",
+        "body": "「この分野への関心、資金、規模を考えると、何らかの規制が必要だ」とロバート・ロドリゲス州上院議員は人工知能について述べた。「人々は我々に何かをしてほしいと望んでいる」",
+        "category": "規制・政策",
+        "url": "https://www.denverpost.com/2026/05/10/colorado-artificial-intelligence-regulations-compromise-bill/",
+        "source": "The Denver Post",
+        "publishedAt": "2026-05-10T12:00:40Z"
+      },
+      {
+        "title": "ルンバを発明した男が家庭用デーモン市場に参入",
+        "body": "全く新しいレベルの不気味さを持つ毛皮のAIロボット。この記事はFuturismに最初に掲載されました。",
+        "category": "応用技術",
+        "url": "http://futurism.com/robots-and-machines/roomba-inventor-moves-into-demon-market",
+        "source": "Futurism",
+        "publishedAt": "2026-05-10T10:45:00Z"
       }
     ]
   }

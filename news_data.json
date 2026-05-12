@@ -1,49 +1,4 @@
 {
-  "2026-05-05": {
-    "display": "2026年05月05日",
-    "articles": [
-      {
-        "title": "すべてのAI企業が助手席に乗りたがっている。車のダッシュボードは最も重要な最後のスクリーンになりつつある",
-        "body": "Grok iOSアプリには現在「Grok Voice modeがまもなくCarPlayに対応」と表示されるプレースホルダーが含まれている。これは1行のインターフェーステキストに過ぎないが、イーロン・マスクのAIチャットボットがChatGPTやPerplexityに続いて、すべてのiPhoneユーザーの車のダッシュボードに登場しようとしていることを意味している。",
-        "category": "企業動向",
-        "url": "https://thenextweb.com/news/grok-carplay-voice-ai-dashboard/",
-        "source": "The Next Web",
-        "publishedAt": "2026-05-03T19:10:26Z"
-      },
-      {
-        "title": "香港は中国のAI IPOの拠点となっている。しかしそれ以上の存在になり得る",
-        "body": "香港には金融やベンチャーキャピタル以上のものがある。",
-        "category": "企業動向",
-        "url": "https://fortune.com/2026/05/03/hong-kong-chinese-ai-boom-ipos-governance/",
-        "source": "Fortune",
-        "publishedAt": "2026-05-03T21:00:00Z"
-      },
-      {
-        "title": "90日間で人工知能を活用して勝つ",
-        "body": "シャーリーン・リー氏への独占インタビュー。人工知能（AI）の急速な進化により、この技術は未来的な好奇心の対象から現代の組織成長の主要エンジンへと変貌を遂げた。データ駆動型の意思決定によって定義される時代において、能力は...",
-        "category": "人物発言",
-        "url": "https://bradenkelley.com/2026/05/winning-with-artificial-intelligence-in-90-days/",
-        "source": "Bradenkelley.com",
-        "publishedAt": "2026-05-03T12:00:00Z"
-      },
-      {
-        "title": "あなたのiPhoneを製造した工場は、今や次のiPhoneを組み立てるロボットを製造している",
-        "body": "4月、Honor D1と呼ばれるヒューマノイドロボットが北京ハーフマラソンを遠隔操作で48分19秒、完全自律モードで50分26秒で完走し、112チームが参加したフィールドで他のすべてのロボットを打ち負かした。優勝したこのマシンは...",
-        "category": "応用技術",
-        "url": "https://thenextweb.com/news/china-smartphone-factories-humanoid-robots/",
-        "source": "The Next Web",
-        "publishedAt": "2026-05-03T16:33:30Z"
-      },
-      {
-        "title": "AIQの今後12ヶ月を左右する7000億ドルの支出サイクル",
-        "body": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) は、ほとんどの個人投資家がAIへの投資意向を表明しようとする際に直面する問題を解決しようとしている...",
-        "category": "企業動向",
-        "url": "https://247wallst.com/investing/2026/05/03/the-700-billion-spending-cycle-that-will-define-aiqs-next-12-months/",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-05-03T12:00:15Z"
-      }
-    ]
-  },
   "2026-05-06": {
     "display": "2026年05月06日",
     "articles": [
@@ -748,6 +703,131 @@
         "url": "http://futurism.com/robots-and-machines/roomba-inventor-moves-into-demon-market",
         "source": "Futurism",
         "publishedAt": "2026-05-10T10:45:00Z"
+      }
+    ]
+  },
+  "2026-05-13": {
+    "display": "2026年05月13日",
+    "articles": [
+      {
+        "title": "Google、AIを使用して企業のデジタル防御の未知の弱点を悪用しようとしたハッカーを阻止",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://japantoday.com/category/tech/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-company%27s-digital-defense",
+        "source": "Japan Today",
+        "publishedAt": "2026-05-11T21:32:46Z"
+      },
+      {
+        "title": "インタラクションモデル",
+        "body": "",
+        "category": "研究",
+        "url": "https://thinkingmachines.ai/blog/interaction-models/",
+        "source": "Thinkingmachines.ai",
+        "publishedAt": "2026-05-11T20:53:37Z"
+      },
+      {
+        "title": "Hyperscale Dataの子会社Omnipresent Robotics、AGIBOTからのロボット取得および関連開発に関する契約を締結",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.prnewswire.com/news-releases/hyperscale-datas-subsidiary-omnipresent-robotics-enters-into-an-agreement-providing-for-the-acquisition-of-robots-from-agibot-and-related-developments-302768665.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-11T20:30:00Z"
+      },
+      {
+        "title": "2026年5月に注目すべきAI暗号通貨コイントップ5",
+        "body": "",
+        "category": "その他",
+        "url": "https://bitcoinfoundation.org/news/altcoins/top-5-ai-crypto-coins-to-watch-in-may-2026/",
+        "source": "Bitcoinfoundation.org",
+        "publishedAt": "2026-05-11T19:55:24Z"
+      },
+      {
+        "title": "AI、製薬業界のパッケージングを変革、業界は欠陥ゼロの品質管理システムに数十億ドルを投資",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.globenewswire.com/news-release/2026/05/11/3292221/0/en/AI-Transforms-Pharmaceutical-Packaging-as-Industry-Invests-Billions-in-Zero-Defect-Quality-Control-Systems.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-11T18:00:00Z"
+      },
+      {
+        "title": "AIモデル、チャットボットの過信を抑制する画期的進歩として「わからない」と言うことを学習",
+        "body": "",
+        "category": "研究",
+        "url": "https://www.the-independent.com/tech/ai-model-chatbot-overconfidence-don-t-know-b2974020.html",
+        "source": "The-independent.com",
+        "publishedAt": "2026-05-11T04:22:57Z"
+      },
+      {
+        "title": "カムループスとバンクーバーに「主権AIデータセンター」クラスター計画が発表",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-ai-data-centre-plan-vancouver-kamloops-9.7195426",
+        "source": "CBC News",
+        "publishedAt": "2026-05-11T21:07:55Z"
+      },
+      {
+        "title": "トランプ・習会談は「ニクソン訪中」のような瞬間にはならない―今は対話していることで十分",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://theconversation.com/trump-xi-summit-will-be-no-nixon-in-china-moment-that-they-are-talking-is-enough-for-now-282295",
+        "source": "The Conversation Africa",
+        "publishedAt": "2026-05-11T19:37:52Z"
+      },
+      {
+        "title": "ケビン・ハセット、AI承認のための新たな官僚機構に反対、イノベーションが中国に流出する恐れを警告",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://cryptobriefing.com/hassett-opposes-ai-approval-bureaucracy/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-11T19:32:19Z"
+      },
+      {
+        "title": "Google、AIを使用して企業のデジタル防御の未知の弱点を悪用しようとしたハッカーを阻止",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/tech/technology/google-disrupts-hackers-using-ai-to-exploit-unknown-weakness-in-a-companys-digital-defence/articleshow/131018112.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-05-11T15:44:39Z"
+      },
+      {
+        "title": "「ついに来た」：Google、ハッカーがAIを使用してコンピューターに侵入するのを捕捉し深刻な警告を発表",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://fortune.com/2026/05/11/google-catches-hackers-cybersecurity-warning-ai-anthropic-mythos/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-11T14:50:56Z"
+      },
+      {
+        "title": "NomagicとBrack.Alltron、パートナーシップを拡大し本番環境でのビジョン・言語・行動システムを導入",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.globenewswire.com/news-release/2026/05/11/3291804/0/en/Nomagic-and-Brack-Alltron-Expand-Partnership-to-Include-Vision-Language-Action-Systems-in-Production.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-11T12:00:00Z"
+      },
+      {
+        "title": "Tesla AI5、ABF基板とロボット部品をめぐるサムスン・LG競争を激化",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.digitimes.com/news/a20260511VL205/tesla-fc-bga-abf-substrate-robot-lg-innotek-semco.html",
+        "source": "Digitimes",
+        "publishedAt": "2026-05-11T03:33:55Z"
+      },
+      {
+        "title": "推論のシフト",
+        "body": "",
+        "category": "研究",
+        "url": "https://stratechery.com/2026/the-inference-shift/",
+        "source": "Stratechery.com",
+        "publishedAt": "2026-05-11T10:00:00Z"
+      },
+      {
+        "title": "GPUaaSは欧州AI主権の幻想を強化している",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://thenextweb.com/news/gpuaas-is-reinforcing-the-illusion-of-european-ai-sovereignty/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-11T09:06:39Z"
       }
     ]
   }

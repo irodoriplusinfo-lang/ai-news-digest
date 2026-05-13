@@ -1,137 +1,4 @@
 {
-  "2026-05-06": {
-    "display": "2026年05月06日",
-    "articles": [
-      {
-        "title": "MIT-IBMコンピューティング研究所が量子、AI、アルゴリズムに範囲を拡大",
-        "body": "",
-        "category": "研究",
-        "url": "https://www.storagereview.com/news/the-mit-ibm-computing-research-lab-expands-scope-to-quantum-ai-and-algorithms",
-        "source": "Storagereview.com",
-        "publishedAt": "2026-05-04T18:47:34Z"
-      },
-      {
-        "title": "AIによる本当の雇用破壊はキャリアが始まる前に起きている",
-        "body": "",
-        "category": "人物発言",
-        "url": "https://insights.som.yale.edu/insights/the-real-job-destruction-from-ai-is-hitting-before-careers-can-start",
-        "source": "Yale.edu",
-        "publishedAt": "2026-05-04T13:15:49Z"
-      },
-      {
-        "title": "サービスロボティクスの成長が加速、グローバル需要が戦略的拡大を促進",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.globenewswire.com/news-release/2026/05/04/3286705/0/en/Service-Robotics-Growth-Accelerates-as-Global-Demand-Fuels-Strategic-Expansion.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-04T12:30:00Z"
-      },
-      {
-        "title": "theCUBEのGoogle Cloud Next報道から見逃したかもしれない3つの洞察",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://siliconangle.com/2026/05/04/agentic-ai-infrastructure-googlecloudnext/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-04T21:27:18Z"
-      },
-      {
-        "title": "イーロン・マスク対OpenAI裁判が第2週に突入",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-vs-openai-trial-enters-second-week/articleshow/130776718.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-05-04T09:02:06Z"
-      },
-      {
-        "title": "マスク対OpenAI裁判が第2週に突入",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.vanguardngr.com/2026/05/musk-vs-openai-trial-enters-second-week/",
-        "source": "Vanguard",
-        "publishedAt": "2026-05-04T08:41:36Z"
-      },
-      {
-        "title": "すべての政府がAI戦略を持っている。ドバイは民間セクターに期限を設定した",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://thenextweb.com/news/dubai-agentic-ai-private-sector-mandate/",
-        "source": "The Next Web",
-        "publishedAt": "2026-05-04T21:06:22Z"
-      },
-      {
-        "title": "Z世代はAIを嫌っている？マスク対アルトマン裁判が白熱、OpenAI電話の噂が飛び交う、そして今週の最も驚くべき展開",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.techradar.com/ai-platforms-assistants/gen-z-hate-ai-the-musk-vs-altman-trial-heats-up-openai-phone-rumors-buzz-and-more-of-the-weeks-most-surprising-developments",
-        "source": "TechRadar",
-        "publishedAt": "2026-05-04T19:00:00Z"
-      },
-      {
-        "title": "AIガバナンスを実際に担っているのは誰か？",
-        "body": "",
-        "category": "規制・政策",
-        "url": "http://www.adexchanger.com/data-privacy-roundup/who-actually-owns-ai-governance/",
-        "source": "AdExchanger",
-        "publishedAt": "2026-05-04T05:00:29Z"
-      },
-      {
-        "title": "デンマークがデータセンターの岐路に直面、急増する需要で電力網が圧倒される",
-        "body": "",
-        "category": "その他",
-        "url": "https://www.cnbc.com/2026/05/04/denmark-data-centers-moratorium-grid-pause-power-demand.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-04T05:00:01Z"
-      },
-      {
-        "title": "AIコンピュートスタートアップTsavoriteがPavestoneから500万ドルを調達しプラットフォームを拡大",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://economictimes.indiatimes.com/tech/funding/ai-compute-startup-tsavorite-raises-5-million-from-pavestone-to-scale-platform/articleshow/130785660.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-05-04T10:44:40Z"
-      },
-      {
-        "title": "Nicolas SauvageはAIの地味な部分に賭けている | TechCrunch",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
-        "source": "TechCrunch",
-        "publishedAt": "2026-05-04T07:10:18Z"
-      },
-      {
-        "title": "中国のロボットハンドユニコーンLinkerbotが60億ドルの評価額を狙う",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://thenextweb.com/news/linkerbot-china-robot-hand-6-billion-valuation/",
-        "source": "The Next Web",
-        "publishedAt": "2026-05-04T06:50:13Z"
-      },
-      {
-        "title": "ルンバの生みの親がふわふわのロボットコンパニオンで復帰",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
-        "source": "The Verge",
-        "publishedAt": "2026-05-04T16:53:14Z"
-      },
-      {
-        "title": "「これは私がずっと作りたかったロボット」：元iRobot社長が語る驚異的な『Familiar』AIコンパニオン",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.techradar.com/ai-platforms-assistants/this-is-the-robot-i-wanted-to-build-forever-former-irobot-chief-on-his-extraordinary-familiar-ai-companion",
-        "source": "TechRadar",
-        "publishedAt": "2026-05-04T16:35:11Z"
-      },
-      {
-        "title": "台湾紛争を念頭に置いて構築された中国のAI「ウルフパック」ドローンの内部",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.foxnews.com/politics/inside-chinas-ai-wolf-pack-drones-built-taiwan-conflict-mind",
-        "source": "Fox News",
-        "publishedAt": "2026-05-04T09:00:13Z"
-      }
-    ]
-  },
   "2026-05-07": {
     "display": "2026年05月07日",
     "articles": [
@@ -828,6 +695,139 @@
         "url": "https://thenextweb.com/news/gpuaas-is-reinforcing-the-illusion-of-european-ai-sovereignty/",
         "source": "The Next Web",
         "publishedAt": "2026-05-11T09:06:39Z"
+      }
+    ]
+  },
+  "2026-05-14": {
+    "display": "2026年05月14日",
+    "articles": [
+      {
+        "title": "報道：AI大手が米国の対中技術リードを拡大する中、中国共産党の浸透を拒否",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://dailycaller.com/2026/05/12/new-york-times-report-anthropic-ai-chinese-think-tank-access-claude-mythos-model-singapore-meeting/",
+        "source": "The Daily Caller",
+        "publishedAt": "2026-05-12T20:42:52Z"
+      },
+      {
+        "title": "Workday、Anthropic、Local Initiatives Support Corporation（LISC）がAI重視のソロプレナー向けアクセラレータープログラムを開始",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.prnewswire.com/news-releases/workday-anthropic-and-local-initiatives-support-corporation-lisc-launch-ai-focused-solopreneurship-accelerator-program-302770030.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-12T20:00:00Z"
+      },
+      {
+        "title": "AccountTECHがプライベートAIに大胆な賭け",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.prnewswire.com/news-releases/accounttech-makes-a-bold-bet-on-private-ai-302769660.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-12T13:44:00Z"
+      },
+      {
+        "title": "Global Mofy CEOが中国文化振興協会傘下のアニメーションアート専門委員会を共同設立、常任委員に任命、AI生成コンテンツの探求が業界の注目を集める",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.globenewswire.com/news-release/2026/05/12/3292832/0/en/Global-Mofy-CEO-Co-Launched-Animation-Art-Expert-Committee-Under-China-Culture-Promotion-Association-and-Was-Appointed-As-Standing-Committee-Member-AI-Generated-Content-Exploration.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-12T12:30:00Z"
+      },
+      {
+        "title": "イノベーションニュースガイド：自律型エンタープライズの推進",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.sap.com/topics/events/sapphire/innovation-news-guide-2026",
+        "source": "Sap.com",
+        "publishedAt": "2026-05-12T12:30:00Z"
+      },
+      {
+        "title": "Dell Technologies Worldで期待されること：5月18日〜20日にtheCUBEに参加",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/05/12/dell-technologies-world-ai-factory-thecube-delltechworld/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-12T20:27:54Z"
+      },
+      {
+        "title": "ナデラはMicrosoftが「次のIBM」になることを恐れていた。裁判でそうならないために彼がいくら払ったかが明らかに",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://thenextweb.com/news/nadella-feared-microsoft-would-become-the-next-ibm-the-trial-reveals-how-much-he-paid-to-make-sure-it-didnt/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-12T19:09:17Z"
+      },
+      {
+        "title": "Googleがハッカーによる企業のデジタル防御の未知の脆弱性を悪用するためのAI利用を阻止",
+        "body": "",
+        "category": "その他",
+        "url": "https://abcnews.com/Business/wireStory/google-disrupts-hackers-ai-exploit-unknown-weakness-companys-132845519",
+        "source": "Abcnews.com",
+        "publishedAt": "2026-05-12T12:13:19Z"
+      },
+      {
+        "title": "ルンバの発明者コリン・アングルはロボットを便利にした。今度はロボットを愛される存在にしたい",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.businessinsider.com/familiar-machines-unveils-ai-robot-for-emotional-support-roomba-2026-5",
+        "source": "Business Insider",
+        "publishedAt": "2026-05-12T09:00:02Z"
+      },
+      {
+        "title": "製造業者がロボットを人間に似せることを気にすべきでない理由",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.forbes.com/sites/lisacaldwell/2026/05/12/why-manufacturers-shouldnt-care-if-their-robots-look-like-humans/",
+        "source": "Forbes",
+        "publishedAt": "2026-05-12T17:37:02Z"
+      },
+      {
+        "title": "（動画）ジェンセン・フアンがジョー・ローガン出演：イーロン・マスクのテスラ初期Model SとFSDコンピュータの構築を支援した方法",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://www.ibtimes.com.au/video-jensen-huang-joe-rogan-how-i-helped-elon-musk-build-teslas-early-model-s-fsd-computers-1868642",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-05-12T08:40:52Z"
+      },
+      {
+        "title": "テスラ株が3.89%上昇し445ドルに、中国販売急増とオプティマスへの期待がAI楽観論を後押し",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/tesla-stock-surges-389-445-china-sales-jump-optimus-bets-fuel-ai-optimism-1868637",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-05-12T08:13:17Z"
+      },
+      {
+        "title": "AIを恐れてブーイングする卒業生は正しい；卒業式のスピーカーも恐れるべきだ",
+        "body": "",
+        "category": "その他",
+        "url": "https://www.americanthinker.com/blog/2026/05/booing_grads_rightly_fear_ai_commencement_speaker_should_too.html",
+        "source": "Americanthinker.com",
+        "publishedAt": "2026-05-12T04:00:00Z"
+      },
+      {
+        "title": "AIデータセンターへの反発が拡大。ケビン・オレアリーの10億ドルStratosプロジェクトがその理由を明らかに",
+        "body": "",
+        "category": "その他",
+        "url": "https://247wallst.com/investing/2026/05/12/the-ai-data-center-backlash-is-growing-kevin-olearys-1-billion-stratos-project-reveals-why/",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-05-12T12:35:29Z"
+      },
+      {
+        "title": "NVIDIA株が5月20日の決算を前にAI需要が利益を後押しし、過去最高の219.44ドルに到達",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/nvidia-stock-hits-record-21944-ai-demand-powers-gains-ahead-may-20-earnings-1868638",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-05-12T08:25:08Z"
+      },
+      {
+        "title": "NvidiaのCEOジェンセン・フアンは北京でのトランプ・習会談に出席せず",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/nvidia-huang-absent-trump-xi-summit/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-12T03:59:42Z"
       }
     ]
   }

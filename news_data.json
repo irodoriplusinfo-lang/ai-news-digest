@@ -1,129 +1,4 @@
 {
-  "2026-05-08": {
-    "display": "2026年05月08日",
-    "articles": [
-      {
-        "title": "「FOMOは株価低迷よりも強いインセンティブであることが証明された」：ゴールドマン・サックスがAIブームについて厳しい評決を下した",
-        "body": "ゴールドマン・サックスは巨大データセンターの問題を両面から検討し、肩をすくめた。",
-        "category": "企業動向",
-        "url": "https://fortune.com/2026/05/06/is-ai-a-bubble-goldman-sachs-skeptics-overhyped/",
-        "source": "Fortune",
-        "publishedAt": "2026-05-06T17:33:15Z"
-      },
-      {
-        "title": "AMD株が15%以上急騰：AIチップ需要が好調な第1四半期決算と強気な見通しを牽引",
-        "body": "ニューヨーク — アドバンスト・マイクロ・デバイセズ社の株価は2026年5月6日水曜日の早朝取引で15%以上急騰した。これは半導体大手が予想を上回る第1四半期決算を発表し、AIチップ需要による爆発的な成長継続への期待を高めたことによる。",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/amd-stock-explodes-15-ai-chip-demand-fuels-blockbuster-q1-earnings-bullish-outlook-1868313",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-05-06T14:08:32Z"
-      },
-      {
-        "title": "サービスロボティクスの台頭がビジネスの運営方法を変革",
-        "body": "テキサス州オースティン、2026年5月6日（GLOBE NEWSWIRE）— AINewsWire編集報道：労働力不足、運営コストの上昇、効率性の課題に対処するため、組織が自動化を導入するケースが増加しており、サービスロボティクスへの需要が世界中で加速している。",
-        "category": "応用技術",
-        "url": "https://www.globenewswire.com/news-release/2026/05/06/3288808/0/en/Service-Robotics-Rise-Transforms-How-Businesses-Operate.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-06T12:30:00Z"
-      },
-      {
-        "title": "Eightco Holdings（NASDAQ: ORBS）が約3億3,300万ドルの総保有資産を報告、OpenAI、Beast Industries、11,000 ETH以上、2億8,300万WLDトークン以上を含む",
-        "body": "2026年5月6日時点のEightco財務構成：OpenAI株式（間接保有）9,000万ドル、Beast Industries株式2,500万ドル、11,068 ETH、2億8,300万WLD保有、現金および同等物1億2,100万ドル、合計約3億3,300万ドル。Worldは「二重人間」問題への解決策を提供する。",
-        "category": "企業動向",
-        "url": "https://www.prnewswire.com/news-releases/eightco-holdings-nasdaq-orbs-reports-total-holdings-of-approximately-333-million-includes-openai-beast-industries-more-than-11-000-eth-and-over-283-million-wld-tokens-302763797.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-06T12:30:00Z"
-      },
-      {
-        "title": "イーロン・マスクのSpaceXがサプライズAI契約でAnthropicのClaudeを支援へ",
-        "body": "イーロン・マスクのSpaceXとxAIの合併会社が、ClaudeAIモデルにコンピューティングリソースを提供する契約でAnthropicを後押しする。",
-        "category": "企業動向",
-        "url": "https://decrypt.co/367035/elon-musk-spacex-power-anthropic-claude-surprise-ai-deal",
-        "source": "Decrypt",
-        "publishedAt": "2026-05-06T20:23:19Z"
-      },
-      {
-        "title": "マスクのAI帝国が崩壊しつつある — 裁判はほんの始まりに過ぎない",
-        "body": "2026年3月4日、イーロン・マスクはXに「TeslaはAGIを作る企業の一つとなり、おそらくヒューマノイド/原子形成形態では最初になるだろう」と投稿した。それから8週間も経たないうちに、オークランドの連邦法廷で宣誓のもと、TeslaがAGIを達成する能力があるかどうかを尋ねられた。",
-        "category": "人物発言",
-        "url": "http://electrek.co/2026/05/06/musk-obsession-controlling-ai-tesla-agi-openai-trial/",
-        "source": "Electrek",
-        "publishedAt": "2026-05-06T17:36:58Z"
-      },
-      {
-        "title": "トランプのAI政策チームはバイデンの全てに反対して就任した。今や同じ政策の多くを実施する瀬戸際にある",
-        "body": "バイデン時代のAI安全性への取り組みを批判した後、トランプ政権はサイバーリスクと国家安全保障に対する懸念が高まる中、独自のフロンティアモデル監視を検討している。",
-        "category": "規制・政策",
-        "url": "https://fortune.com/2026/05/06/trump-administration-embraces-ai-oversight-policies-it-once-rejected-anthropic-mythos-caisi/",
-        "source": "Fortune",
-        "publishedAt": "2026-05-06T18:10:30Z"
-      },
-      {
-        "title": "政府には選択肢がある：子供向けAIチャットボット禁止がソーシャルメディア禁止よりもさらに悪いアイデアである理由",
-        "body": "子供をソーシャルメディアから禁止しようとする熱狂は、文化大臣マーク・ミラーが下院委員会で政府は行動するしかないと発言したことで、さらに高まっている。ミラーの発言は、連邦自由党の政策大会での投票と一致している。",
-        "category": "規制・政策",
-        "url": "https://www.michaelgeist.ca/2026/05/government-has-a-choice-why-an-ai-chatbot-ban-for-kids-is-an-even-worse-idea-than-a-social-media-ban/",
-        "source": "Michaelgeist.ca",
-        "publishedAt": "2026-05-06T14:24:59Z"
-      },
-      {
-        "title": "Wyndhamが8,400のホテルでホスピタリティを向上させるためにAIをどう拡大しているか",
-        "body": "このホテルフランチャイズ企業は、2018年以降の4億5,000万ドルの技術支出のほとんどで標準化を重視している。しかし、Wyndham ConnectのようなAIツールへのオプトインについては、フランチャイジーにより柔軟性を与えている。",
-        "category": "応用技術",
-        "url": "https://fortune.com/2026/05/06/how-jpmorgans-cio-is-reshaping-work-at-the-bank-with-a-19-8-billion-annual-tech-and-ai-budget/",
-        "source": "Fortune",
-        "publishedAt": "2026-05-06T17:23:50Z"
-      },
-      {
-        "title": "Ethosが2,275万ドルのシリーズAを獲得、AIが壊した採用を修復へ",
-        "body": "元DeepMindおよび元マッキンゼーの卒業生が設立したロンドン拠点のAI専門家マッチングプラットフォームは、採用が労働市場でAIが最も目に見えて悪化させた部分となっている今、評価されている。Andreessen Horowitzがラウンドをリード、General Catalystも参加。",
-        "category": "資金・M&A",
-        "url": "https://thenextweb.com/news/ethos-22-75m-series-a-a16z-ai-expert-matching/",
-        "source": "The Next Web",
-        "publishedAt": "2026-05-06T15:00:00Z"
-      },
-      {
-        "title": "UP.PartnersがTWG Globalと戦略的関係を発表、フィジカルワールド技術投資を加速",
-        "body": "ニューヨーク — 「フィジカルワールド」技術に投資するテクノロジー投資会社UP.Partnersは、TWG Globalと戦略的関係を締結した。UP.Partnersは、フィジカルAI、モビリティ、輸送を含むセクターに株式資本を投入する予定。",
-        "category": "資金・M&A",
-        "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/up-partners-announces-strategic-relationship-with-twg-global-to-accelerate-physical-world-technology-investment",
-        "source": "Financial Post",
-        "publishedAt": "2026-05-06T17:01:29Z"
-      },
-      {
-        "title": "SpaceXがテキサス州に550億ドルのTerafabチップ工場の計画を申請",
-        "body": "Teslaとの共同プロジェクトであるTerafab施設は、全フェーズが完了した場合、最大1,190億ドルの総投資が必要になる可能性がある。",
-        "category": "企業動向",
-        "url": "https://qz.com/spacex-terafab-chip-plant-texas-050626",
-        "source": "Quartz India",
-        "publishedAt": "2026-05-06T12:23:51Z"
-      },
-      {
-        "title": "Sandiskがミームコインのように急騰している。その理由はこれだ",
-        "body": "Sandisk株は1年で3,000%以上上昇している。これはミームではない。NANDフラッシュだ — そしてAIはそれをいくらでも欲しがっている。",
-        "category": "企業動向",
-        "url": "https://decrypt.co/367025/sandisk-mooning-meme-coin-ai-trade",
-        "source": "Decrypt",
-        "publishedAt": "2026-05-06T18:57:40Z"
-      },
-      {
-        "title": "Nvidia、Corningと大規模光ファイバー契約で提携、AIにとってゲームチェンジャーになる可能性",
-        "body": "CorningはNvidia向けの光学技術に完全に特化した3つの新しい先進製造工場を米国に開設している。",
-        "category": "企業動向",
-        "url": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-06T11:37:28Z"
-      },
-      {
-        "title": "AMDの株価がAIワークロード向けCPUとGPUへの急増する需要で上昇",
-        "body": "半導体大手アドバンスト・マイクロ・デバイセズ社は、本日発表した第1四半期決算で再び堅調な売上高と利益の予想超えを達成した。データセンターチップへの急増する需要のおかげで、今四半期のガイダンスも好調だった。",
-        "category": "企業動向",
-        "url": "https://siliconangle.com/2026/05/05/amds-stock-rises-surging-demand-cpus-gpus-ai-workloads/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-06T01:25:12Z"
-      }
-    ]
-  },
   "2026-05-09": {
     "display": "2026年05月09日",
     "articles": [
@@ -828,6 +703,147 @@
         "url": "https://finance.yahoo.com/news/intel-slips-despite-80-billion-094604367.html",
         "source": "Yahoo Entertainment",
         "publishedAt": "2026-05-13T09:46:04Z"
+      }
+    ]
+  },
+  "2026-05-16": {
+    "display": "2026年05月16日",
+    "articles": [
+      {
+        "title": "BluSky AI Inc.、米国AIインフラ拡大を加速するためレギュレーションA+オファリングの開始を発表",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.globenewswire.com/news-release/2026/05/14/3295136/29006/en/BluSky-AI-Inc-Announces-Launch-of-Regulation-A-Offering-to-Accelerate-U-S-AI-Infrastructure-Expansion.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-14T14:04:00Z"
+      },
+      {
+        "title": "WhiteFiber, Inc.、2026年第1四半期決算を発表",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.prnewswire.com/news-releases/whitefiber-inc-reports-first-quarter-2026-results-302771681.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-14T11:00:00Z"
+      },
+      {
+        "title": "IKS Health、AIマネジメント・テクノロジー企業ARAI Solutionsの買収を発表",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/iks-health-announces-acquisition-of-arai-solutions-an-ai-management-and-technology-company/article70977150.ece",
+        "source": "BusinessLine",
+        "publishedAt": "2026-05-14T09:28:14Z"
+      },
+      {
+        "title": "QualiのTorqueプラットフォーム、企業がソブリンAIを実現するために必要な運用基盤を提供",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.prnewswire.com/news-releases/qualis-torque-platform-delivers-the-operational-foundation-enterprises-need-to-achieve-sovereign-ai-302772359.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-14T14:00:00Z"
+      },
+      {
+        "title": "カナダ、トップ10入りのAIスーパーコンピューター構築に向けて順調に進行中とソロモン氏が発言",
+        "body": "",
+        "category": "その他",
+        "url": "https://financialpost.com/technology/canada-top-10-ai-supercomputer-solomon",
+        "source": "Financial Post",
+        "publishedAt": "2026-05-14T10:00:04Z"
+      },
+      {
+        "title": "トランプ大統領、北京訪問中に習近平国家主席とAIガードレールについて協議へ",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.naturalnews.com/2026-05-14-trump-discuss-ai-guardrails-during-china-visit.html",
+        "source": "Naturalnews.com",
+        "publishedAt": "2026-05-14T06:00:00Z"
+      },
+      {
+        "title": "この夫婦は（文字通り）AIと映画製作を結び合わせた。彼らがスタートアップのために600万ドルを調達した際に使ったピッチデッキを公開。",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://www.businessinsider.com/ai-filmmaking-startup-flick-lands-yc-seed-funding-pitch-deck-2026-5",
+        "source": "Business Insider",
+        "publishedAt": "2026-05-14T13:00:01Z"
+      },
+      {
+        "title": "Googleが工場ロボットに対してAndroidがスマートフォンに行ったことを実行。ファナックはこの方程式のサムスンとなった。",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://thenextweb.com/news/fanuc-google-physical-ai-factory-robots/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-14T12:26:02Z"
+      },
+      {
+        "title": "HCLTech、評価額15億ドルでSarvam AIの3億ドルラウンドを1億5000万ドルの出資でリード",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://www.moneycontrol.com/news/business/startup/hcltech-to-lead-300-million-sarvam-ai-round-with-150-million-bet-at-1-5-billion-valuation-13918719.html",
+        "source": "Moneycontrol",
+        "publishedAt": "2026-05-14T04:12:48Z"
+      },
+      {
+        "title": "ソフトバンク、大規模なグローバル投資でAI覇権を追求",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://newsonjapan.com/article/149209.php",
+        "source": "Newsonjapan.com",
+        "publishedAt": "2026-05-14T13:44:35Z"
+      },
+      {
+        "title": "ウェルズ・ファーゴがブロードコムの目標株価を545ドルに引き上げ：AI半導体収益が予想を30〜40%上回る",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://247wallst.com/investing/2026/05/14/wells-fargo-just-hiked-broadcom-price-target-to-545-ai-semi-revenue-running-30-40-higher-than-expected/",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-05-14T15:20:41Z"
+      },
+      {
+        "title": "中国企業がNvidiaの復帰にもかかわらず国産AIチップの増強を加速",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.cnbc.com/2026/05/14/china-ai-chips-nvidia.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-14T11:09:09Z"
+      },
+      {
+        "title": "このメモリチップは摂氏700度で動作する。その背後にあるスタートアップはすでにGPUが計算できない場所で計算するAIチップを構築している。",
+        "body": "",
+        "category": "研究",
+        "url": "https://thenextweb.com/news/tetramem-memristor-700c-space-ai-computing/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-14T08:20:27Z"
+      },
+      {
+        "title": "トランプ・習会談が中国テック株反発への期待を復活、米国がNvidia H200販売を許可との報道",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.cnbc.com/2026/05/14/trump-xi-meeting-china-stocks-ai-rally.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-14T07:32:26Z"
+      },
+      {
+        "title": "サスケハナ、AI需要急増でNvidiaの目標株価を275ドルに引き上げ",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/susquehanna-nvidia-price-target-275-ai/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-14T06:07:24Z"
+      },
+      {
+        "title": "Cerebras株、55億ドルを調達した数年ぶりの大型テックIPO後、公募価格からほぼ倍増",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/05/13/cerebras-stock-almost-doubles-initial-offering-price-biggest-tech-ipo-years-raised-55b/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-14T01:12:34Z"
+      },
+      {
+        "title": "Cerebras、数年ぶりの大型テックIPOを前に株価を185ドルに設定",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/05/13/cerebras-prices-shares-185-ahead-biggest-tech-ipo-years/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-14T01:12:34Z"
       }
     ]
   }

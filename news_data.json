@@ -1,121 +1,4 @@
 {
-  "2026-05-09": {
-    "display": "2026年05月09日",
-    "articles": [
-      {
-        "title": "AIによる雇用崩壊は「無益なマーケティング、悪い経済学、さらに悪い歴史認識」とa16zが発言",
-        "body": "",
-        "category": "人物発言",
-        "url": "https://fortune.com/2026/05/07/ai-job-apocalypse-unhelpful-marketing-bad-economics-worse-history/",
-        "source": "Fortune",
-        "publishedAt": "2026-05-07T17:48:17Z"
-      },
-      {
-        "title": "政権、AI規制の大統領令を検討中だが、内容は流動的",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.dailysignal.com/2026/05/07/trump-mulls-ai-regulation-orders/",
-        "source": "Daily Signal",
-        "publishedAt": "2026-05-07T14:54:14Z"
-      },
-      {
-        "title": "EU、性的なディープフェイクを生成するAIシステムを禁止へ",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.rte.ie/news/2026/0507/1572142-eu-deepfakes/",
-        "source": "RTE",
-        "publishedAt": "2026-05-07T10:39:57Z"
-      },
-      {
-        "title": "AI幹部たちは1948年のサーカスの手口を使っている…正確性と妥当性の評価を含む要約",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://freerepublic.com/focus/f-chat/4378103/posts",
-        "source": "Freerepublic.com",
-        "publishedAt": "2026-05-07T13:43:13Z"
-      },
-      {
-        "title": "イーロン・マスクの訴訟がOpenAIの安全性実績を詳細に検証することに | TechCrunch",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-        "source": "TechCrunch",
-        "publishedAt": "2026-05-07T19:21:21Z"
-      },
-      {
-        "title": "AI競争がトランプ大統領と習近平主席の会談の議題に上る可能性",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.dailysignal.com/2026/05/07/ai-trumps-meeting/",
-        "source": "Daily Signal",
-        "publishedAt": "2026-05-07T18:58:48Z"
-      },
-      {
-        "title": "ホワイトハウス、AIモデルのリリース前に政府による必須審査を検討か — 大統領令を議論中",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/white-house-considers-mandatory-government-vetting-of-ai-models-before-release",
-        "source": "Tom's Hardware UK",
-        "publishedAt": "2026-05-07T17:53:21Z"
-      },
-      {
-        "title": "データセンターが電力需要を牽引、テキサス州でガス発電プロジェクトが急増",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.insurancejournal.com/news/southcentral/2026/05/07/868941.htm",
-        "source": "Insurance Journal",
-        "publishedAt": "2026-05-07T15:34:27Z"
-      },
-      {
-        "title": "米国移民手続きでAIを信用すべきでない理由",
-        "body": "",
-        "category": "その他",
-        "url": "https://www.forbes.com/sites/andyjsemotiuk/2026/05/07/why-you-shouldnt-trust-ai-with-your-us-immigration-future/",
-        "source": "Forbes",
-        "publishedAt": "2026-05-07T14:23:40Z"
-      },
-      {
-        "title": "Fathom社、AIガバナンスのための独立検証（IVO）を確立する法案のコネチカット州通過を称賛",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.prnewswire.com/news-releases/fathom-applauds-connecticut-passing-legislation-that-establishes-independent-verification-ivo-for-ai-governance-302765598.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-07T12:45:00Z"
-      },
-      {
-        "title": "子供へのソーシャルメディアとAIチャットボット禁止が悪い政策である理由：上院社会問題・科学・技術委員会での主張",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.michaelgeist.ca/2026/05/why-social-media-and-ai-chatbot-bans-for-kids-are-bad-policy-making-the-case-at-the-senate-social-affairs-science-and-tech-committee/",
-        "source": "Michaelgeist.ca",
-        "publishedAt": "2026-05-07T12:32:30Z"
-      },
-      {
-        "title": "AI主導のリストラがスタートアップをより少人数の労働力モデルへ押しやる",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.thehindubusinessline.com/info-tech/ai-led-restructuring-pushes-startups-toward-leaner-workforce-models/article70951205.ece",
-        "source": "BusinessLine",
-        "publishedAt": "2026-05-07T15:01:39Z"
-      },
-      {
-        "title": "SEMIFIVEとICY Tech、8nm eMRAMベースのエッジAI SoCのテープアウトに成功、アジア初の商用化を目指す",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.prnewswire.com/news-releases/semifive-and-icy-tech-achieve-successful-tape-out-of-8nm-emram-based-edge-ai-soc-targeting-first-commercialization-in-asia-302765052.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-07T05:00:00Z"
-      },
-      {
-        "title": "IREN株、NvidiaとのAIインフラ契約で13%急騰",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.cnbc.com/2026/05/07/iren-stock-ai-infrastructure-nvidia.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-07T21:29:58Z"
-      }
-    ]
-  },
   "2026-05-10": {
     "display": "2026年05月10日",
     "articles": [
@@ -844,6 +727,131 @@
         "url": "https://siliconangle.com/2026/05/13/cerebras-prices-shares-185-ahead-biggest-tech-ipo-years/",
         "source": "SiliconANGLE News",
         "publishedAt": "2026-05-14T01:12:34Z"
+      }
+    ]
+  },
+  "2026-05-17": {
+    "display": "2026年05月17日",
+    "articles": [
+      {
+        "title": "SalesCloser、専用GPU推論クラスターで会話AI分野の優位性を強化 - カスタムモデルのファインチューニング、エージェントワークフロー、規制産業対応を実現",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://financialpost.com/globe-newswire/salescloser-deepens-conversational-ai-moat-with-dedicated-gpu-inference-cluster-enabling-custom-model-fine-tuning-agentic-workflows-and-regulated-industry-readiness",
+        "source": "Financial Post",
+        "publishedAt": "2026-05-15T20:57:09Z"
+      },
+      {
+        "title": "Argentum AI、BoosteroidおよびDL Invest Groupと25億ドル・300MWのAIデータセンター契約を締結",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.prnewswire.com/news-releases/argentum-ai-signs-2-5-billion-300mw-ai-data-center-agreement-with-boosteroid-and-dl-invest-group-302773714.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-15T18:30:00Z"
+      },
+      {
+        "title": "研究：AIの使用は創造性の多様性を狭める",
+        "body": "",
+        "category": "研究",
+        "url": "https://www.psypost.org/real-world-evidence-shows-generative-ai-is-making-human-creative-output-more-uniform/",
+        "source": "PsyPost",
+        "publishedAt": "2026-05-15T15:44:00Z"
+      },
+      {
+        "title": "カルナータカ州、医学教育向けAIガイドラインを発表へ",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://economictimes.indiatimes.com/news/india/karnataka-to-release-ai-guidelines-for-medical-education/articleshow/131120562.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-05-15T14:28:13Z"
+      },
+      {
+        "title": "Cerebrasの大型IPO、Ciscoの好決算、そしてAIファクトリーの真の影響",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/05/15/cerebras-monster-ipo-ciscos-big-quarter-ai-factorys-real-impact/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-15T14:00:54Z"
+      },
+      {
+        "title": "xAI、Grok Buildでコーディングエージェント競争に参入",
+        "body": "",
+        "category": "モデル発表",
+        "url": "https://devops.com/xai-enters-the-coding-agent-race-with-grok-build/",
+        "source": "DevOps.com",
+        "publishedAt": "2026-05-15T12:59:41Z"
+      },
+      {
+        "title": "Dataiku、Snowflake内でガバナンス対応AIワークフロービルダーを発表",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/05/15/755535/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-15T13:00:19Z"
+      },
+      {
+        "title": "スタートアップ創業者、AIエージェントの最大の障壁は信頼だと語る",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://www.techtarget.com/searchcio/feature/Startup-founder-says-trust-is-biggest-barrier-to-AI-agents",
+        "source": "Techtarget.com",
+        "publishedAt": "2026-05-15T11:09:00Z"
+      },
+      {
+        "title": "数十年の研究失敗の後、人工知能がわずか6ヶ月でペルーの隠された地上絵303点を発見",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://freerepublic.com/focus/f-chat/4379302/posts",
+        "source": "Freerepublic.com",
+        "publishedAt": "2026-05-15T00:11:16Z"
+      },
+      {
+        "title": "米国には1,200のAI法案があるが、それらをテストする良い方法がない",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://fortune.com/2026/05/15/ai-policy-patchwork-state-federal-regulation-framework-sonnenfeld-marcus/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-15T09:00:00Z"
+      },
+      {
+        "title": "準備ができているかどうかに関わらず、AI政府はすでにここにある",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.nakedcapitalism.com/2026/05/ready-or-not-ai-government-is-already-here.html",
+        "source": "Nakedcapitalism.com",
+        "publishedAt": "2026-05-15T07:49:24Z"
+      },
+      {
+        "title": "ビデオフライデー：大型ロボット機械が自律運転",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://spectrum.ieee.org/video-friday-material-handling-robots",
+        "source": "Ieee.org",
+        "publishedAt": "2026-05-15T17:00:01Z"
+      },
+      {
+        "title": "シリコンバレー最新の注目の的は人型倉庫作業員ロボット",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.businessinsider.com/figure-ai-turned-a-humanoid-sorting-packages-must-see-tv-2026-5",
+        "source": "Business Insider",
+        "publishedAt": "2026-05-15T09:03:49Z"
+      },
+      {
+        "title": "18日間。サムスンのストライキが世界のAIチップ市場を崩壊させるのに必要な時間はそれだけ、そして全世界が息を止めている",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/news/international/us/18-days-thats-all-it-takes-for-a-samsung-strike-to-crash-the-global-ai-chip-market-and-the-whole-world-is-holding-its-breath/articleshow/131122022.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-05-15T16:38:21Z"
+      },
+      {
+        "title": "AI支出が2.5兆ドルに達する中、2026年に爆発的成長が見込まれるAI株トップ10",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/top-10-ai-stocks-2026-growth-1868849",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-05-15T06:53:00Z"
       }
     ]
   }

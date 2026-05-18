@@ -1,49 +1,4 @@
 {
-  "2026-05-11": {
-    "display": "2026年05月11日",
-    "articles": [
-      {
-        "title": "機密ネットワークにおけるAI協定",
-        "body": "国防省は、機密ネットワークに能力を展開するため、世界をリードするフロンティア人工知能企業8社との協定を発表した。SpaceX、OpenAI、Google、…",
-        "category": "企業動向",
-        "url": "https://soldiersystems.net/2026/05/09/classified-networks-ai-agreements/",
-        "source": "Soldiersystems.net",
-        "publishedAt": "2026-05-09T17:00:00Z"
-      },
-      {
-        "title": "AIR、ARR、そしてAI：RingCentralのAIファーストエンゲージメントプラットフォームへの変革の内幕",
-        "body": "RingCentral Inc.の最新四半期決算は、人工知能を将来の話から、製品差別化、業務効率化、そしてますます成長の主要エンジンへと静かに転換させた企業の姿を示している。ユニファイドコミュニケーションとして始まったものが…",
-        "category": "企業動向",
-        "url": "https://siliconangle.com/2026/05/08/air-arr-ai-inside-ringcentrals-transformation-ai-first-engagement-platform/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-09T03:54:15Z"
-      },
-      {
-        "title": "AlphabetのIsomorphic Labsが医療研究AI向けに20億ドル以上の資金調達を交渉中と報道",
-        "body": "人工知能を活用して創薬を加速させるAlphabet Inc.傘下のIsomorphic Labs Inc.が、新たな資金調達ラウンドの交渉中と報じられている。Bloombergの情報筋によると、この投資は20億ドル以上になる可能性がある。OpenAI Group PBC…",
-        "category": "資金・M&A",
-        "url": "https://siliconangle.com/2026/05/08/alphabets-isomorphic-labs-reportedly-raising-2b-medical-research-ai/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-09T01:15:49Z"
-      },
-      {
-        "title": "ホワイトハウス、新ツールによるセキュリティリスクを受けAI監督を再考",
-        "body": "AI監督の強化は、テック規制を再形成し、グローバルなAI競争に影響を与え、暗号プロジェクトのような分散型テクノロジーにも影響を及ぼす可能性がある。この投稿「ホワイトハウス、新ツールによるセキュリティリスクを受けAI監督を再考」はCrypto Briefingに最初に掲載された。",
-        "category": "規制・政策",
-        "url": "https://cryptobriefing.com/white-house-ai-oversight-security-risks/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-09T01:27:13Z"
-      },
-      {
-        "title": "2026年5月に購入すべきAI株ベスト10：人工知能ブームが加速する中で",
-        "body": "ニューヨーク — 人工知能が2026年に産業を再形成し、記録的な設備投資を牽引し続ける中、投資家は多くのアナリストがこの10年を定義する技術的メガトレンドと呼ぶものに参加するための最も強力な方法を模索している。",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/10-best-ai-stocks-buy-may-2026-artificial-intelligence-boom-accelerates-1868461",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-05-09T13:03:22Z"
-      }
-    ]
-  },
   "2026-05-12": {
     "display": "2026年05月12日",
     "articles": [
@@ -788,6 +743,51 @@
         "url": "https://wccftech.com/nvidias-rubin-ultra-could-hand-intel-a-lifeline-as-ubs-flags-emib-t-packaging-for-4-chip-variant/",
         "source": "Wccftech",
         "publishedAt": "2026-05-16T05:03:04Z"
+      }
+    ]
+  },
+  "2026-05-19": {
+    "display": "2026年05月19日",
+    "articles": [
+      {
+        "title": "AIブッククラブ討論会の録画：マックス・テグマーク著『Life 3.0: 人工知能時代の人間であること』",
+        "body": "これはマックス・テグマーク著『Life 3.0: 人工知能時代の人間であること』についてのAIブッククラブ討論会の録画です。この討論会では、テグマークが描く超知能のビジョン、AIの目標とサブゴールの予測不可能性、そしてアシロマ（原則）について探求しています…",
+        "category": "人物発言",
+        "url": "https://idratherbewriting.com/blog/book-club-tegmark-life-3-0",
+        "source": "Idratherbewriting.com",
+        "publishedAt": "2026-05-17T07:00:00Z"
+      },
+      {
+        "title": "Eclipseにとって、25億ドルのCerebras勝利はフィジカルワールドへの投資テーゼ実現の始まりに過ぎない | TechCrunch",
+        "body": "10年前、リオール・スーザンにとって現実世界への投資は孤独な道だった。今、彼のファームはテック業界の中心に位置している。",
+        "category": "資金・M&A",
+        "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
+        "source": "TechCrunch",
+        "publishedAt": "2026-05-17T15:04:13Z"
+      },
+      {
+        "title": "ルンバを一般家庭に普及させた男が、あなたの犬をぬいぐるみロボットに置き換えようとしている",
+        "body": "iRobotを共同創業し、25年かけてルンバを世界で最も広く普及した家庭用ロボットに育て上げたロボット工学エンジニアのコリン・アングルが、次なる挑戦のプロトタイプを発表した：4本足で、ぬいぐるみに覆われた、あなたの周りについてくるように設計されたAIコンパニオンだ…",
+        "category": "応用技術",
+        "url": "https://thenextweb.com/news/roomba-creator-familiar-machines-ai-pet-robot/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-17T09:15:18Z"
+      },
+      {
+        "title": "NVIDIA（NVDA）が今買うべきファンダメンタルズの強い銘柄である理由",
+        "body": "NVIDIA Corporation（NASDAQ:NVDA）は今買うべきファンダメンタルズの強い銘柄の一つです。5月13日、バンク・オブ・アメリカは同社株の目標株価を引き上げました…",
+        "category": "企業動向",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hers-why-nvidia-nvda-one-163849863.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-05-17T16:38:49Z"
+      },
+      {
+        "title": "なぜ今年ノートPCの価格が急騰したのか？大規模RAM不足を解説",
+        "body": "2026年、メモリコストが爆発的に上昇している。AI大手企業が生産能力の大部分を占有しているためで、これがノートPC価格の高騰につながっている。この状況を踏まえ、今年新しいノートPCを節約して購入する方法をご紹介する。最近、新しいノートPCを買いに行きましたか？深刻な状況が…",
+        "category": "その他",
+        "url": "https://uk.pcmag.com/laptops/162951/inside-2026-ram-crunch-why-ai-will-make-your-next-laptop-much-pricier",
+        "source": "PCMag.com",
+        "publishedAt": "2026-05-17T13:00:00Z"
       }
     ]
   }

@@ -1,41 +1,4 @@
 {
-  "2026-05-12": {
-    "display": "2026年05月12日",
-    "articles": [
-      {
-        "title": "世界はAIがバイオテロリストを支援することを阻止しなければならない",
-        "body": "新しい病原体からの脅威は、AIを活用したハッカーよりもさらに深刻な危険である。",
-        "category": "規制・政策",
-        "url": "https://www.nrc.nl/nieuws/2026/05/10/the-world-must-stop-ai-from-empowering-bioterrorists-a4927329",
-        "source": "Www.nrc.nl",
-        "publishedAt": "2026-05-10T13:00:00Z"
-      },
-      {
-        "title": "Nvidia、AIファクトリー、そしてアクセラレーテッドコンピューティングへの移行",
-        "body": "市場は、まだ完全に理解していない移行に価格をつけようとしている。Nvidia社の時価総額が5桁（兆ドル規模）になっているのを見て、評価額が高すぎてこれ以上成長できないと考えている。我々はそれが誤ったメンタルモデルであり、市場のポテンシャルを過小評価していると考えている。",
-        "category": "企業動向",
-        "url": "https://siliconangle.com/2026/05/10/nvidia-ai-factories-transition-accelerated-computing/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-10T16:19:47Z"
-      },
-      {
-        "title": "2年間の苦闘の末、議員たちはコロラド州のAI規制を書き換え、縮小する方向へ",
-        "body": "「この分野への関心、資金、規模を考えると、何らかの規制が必要だ」とロバート・ロドリゲス州上院議員は人工知能について述べた。「人々は我々に何かをしてほしいと望んでいる」",
-        "category": "規制・政策",
-        "url": "https://www.denverpost.com/2026/05/10/colorado-artificial-intelligence-regulations-compromise-bill/",
-        "source": "The Denver Post",
-        "publishedAt": "2026-05-10T12:00:40Z"
-      },
-      {
-        "title": "ルンバを発明した男が家庭用デーモン市場に参入",
-        "body": "全く新しいレベルの不気味さを持つ毛皮のAIロボット。この記事はFuturismに最初に掲載されました。",
-        "category": "応用技術",
-        "url": "http://futurism.com/robots-and-machines/roomba-inventor-moves-into-demon-market",
-        "source": "Futurism",
-        "publishedAt": "2026-05-10T10:45:00Z"
-      }
-    ]
-  },
   "2026-05-13": {
     "display": "2026年05月13日",
     "articles": [
@@ -788,6 +751,155 @@
         "url": "https://uk.pcmag.com/laptops/162951/inside-2026-ram-crunch-why-ai-will-make-your-next-laptop-much-pricier",
         "source": "PCMag.com",
         "publishedAt": "2026-05-17T13:00:00Z"
+      }
+    ]
+  },
+  "2026-05-20": {
+    "display": "2026年05月20日",
+    "articles": [
+      {
+        "title": "メキシコ政府がClaudeを使用した単独ユーザーによって侵害され、150GBが流出",
+        "body": "",
+        "category": "その他",
+        "url": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
+        "source": "Konstantintkachuk.com",
+        "publishedAt": "2026-05-18T21:59:34Z"
+      },
+      {
+        "title": "Technoidentity創業者Venkat Chitturiが耐久性のあるプロダクトエンジニアリングに基づく2冊の新著を発刊",
+        "body": "",
+        "category": "その他",
+        "url": "https://www.prnewswire.com/news-releases/technoidentity-founder-venkat-chitturi-releases-two-new-books-based-on-durable-product-engineering-302774743.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-18T16:00:00Z"
+      },
+      {
+        "title": "制限付きClaude MythosモデルがGoogle Cloudに突然登場した理由",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.geeky-gadgets.com/claude-mythos-google-cloud/",
+        "source": "Geeky Gadgets",
+        "publishedAt": "2026-05-18T08:17:00Z"
+      },
+      {
+        "title": "MRI脳腫瘍セグメンテーションのためのGA駆動3D ResUNetGANを統合した新しいハイブリッドフレームワーク",
+        "body": "",
+        "category": "研究",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349451",
+        "source": "Plos.org",
+        "publishedAt": "2026-05-18T14:00:00Z"
+      },
+      {
+        "title": "Musk対Altman裁判は、AIが間違った人々によって主導されていることを証明した",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+        "source": "The Verge",
+        "publishedAt": "2026-05-18T19:03:26Z"
+      },
+      {
+        "title": "Anthropic幹部がローマ教皇レオと共に新たなAI教会政策声明を発表へ",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.forbes.com/sites/conormurray/2026/05/18/anthropic-official-will-join-pope-leo-for-new-ai-church-policy-statement/",
+        "source": "Forbes",
+        "publishedAt": "2026-05-18T15:04:08Z"
+      },
+      {
+        "title": "「ビッグAI」はタバコや石油企業と同様に規制を骨抜きにしている",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.theregister.com/ai-ml/2026/05/18/big-ai-is-subverting-regulations-just-like-tobacco-and-oil-firms/5241910",
+        "source": "Theregister.com",
+        "publishedAt": "2026-05-18T14:45:00Z"
+      },
+      {
+        "title": "立ち止まることのリスク：プレッシャー下にある医療システムにおけるAIのガバナンス",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://institute.global/insights/public-services/the-risk-of-standing-still-governing-ai-in-health-systems-under-pressure",
+        "source": "Institute.global",
+        "publishedAt": "2026-05-18T12:36:37Z"
+      },
+      {
+        "title": "ニック・クレッグが支援する企業がAIを使って世界の教育格差を埋める",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.computerweekly.com/news/366643090/Nick-Clegg-backed-company-using-AI-to-fill-global-education-gaps",
+        "source": "ComputerWeekly.com",
+        "publishedAt": "2026-05-18T04:45:00Z"
+      },
+      {
+        "title": "Kin Healthが患者向けAIノートテイカー構築のため900万ドルを調達 | TechCrunch",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+        "source": "TechCrunch",
+        "publishedAt": "2026-05-18T15:26:00Z"
+      },
+      {
+        "title": "イーロン・マスクとサム・アルトマンはいかにして親友から激しいライバルになったか",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://www.cnbc.com/2026/05/18/how-elon-musk-and-sam-altman-went-from-besties-to-bitter-rivals.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-18T05:00:01Z"
+      },
+      {
+        "title": "企業がAIの恩恵を受けるには汎用チャットボット以上のものが必要。今回の予算は助けになるか？",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://theconversation.com/businesses-need-more-than-generic-chatbots-to-benefit-from-ai-will-this-budget-help-282962",
+        "source": "The Conversation Africa",
+        "publishedAt": "2026-05-18T04:19:48Z"
+      },
+      {
+        "title": "NvidiaがAIスタートアップSimpliSmartの2000万ドル資金調達をリードし、評価額1億ドルに",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://economictimes.indiatimes.com/tech/funding/chipmaker-nvidia-in-talks-to-lead-20-million-round-in-gen-ai-startup-simplismart/articleshow/131153601.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-05-18T00:30:00Z"
+      },
+      {
+        "title": "自律型AIにはモデルレベルのガードレールを超えた安全策が必要と研究が指摘",
+        "body": "",
+        "category": "研究",
+        "url": "https://www.verdict.co.uk/emergence-ai-agent-model-study/",
+        "source": "Verdict",
+        "publishedAt": "2026-05-18T12:00:48Z"
+      },
+      {
+        "title": "フィジカルAI研究と2026年グローバル予測レポート：市場は2032年までに152.4億ドルに到達、CAGR 47.2%で成長、防衛近代化、AI医療支援、デジタルツインロボティクスが牽引",
+        "body": "",
+        "category": "その他",
+        "url": "https://www.globenewswire.com/news-release/2026/05/18/3296511/28124/en/Physical-AI-Research-and-Global-Forecast-Report-2026-Market-to-Reach-15-24-Billion-by-2032-Growing-at-a-CAGR-of-47-2-Driven-by-Defense-Modernization-AI-Medical-Assistances-Digital-.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-18T11:28:00Z"
+      },
+      {
+        "title": "チップ業界がAIを追求する中、米国国立研究所はスーパーコンピュータに新規参入者を模索",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/tech/technology/as-chip-industry-chases-ai-us-national-labs-look-to-newcomers-for-supercomputers/articleshow/131176216.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-05-18T12:09:56Z"
+      },
+      {
+        "title": "チップ不足は別の衣を纏った湾岸エネルギー危機である",
+        "body": "",
+        "category": "その他",
+        "url": "https://www.forbes.com/sites/guneyyildiz/2026/05/18/the-chip-shortage-is-a-gulf-energy-crisis-wearing-a-different-costume/",
+        "source": "Forbes",
+        "publishedAt": "2026-05-18T06:00:00Z"
+      },
+      {
+        "title": "週間ニュースまとめ：TSMCがAI供給逼迫に直面、Samsung、Intel、Appleがファウンドリ代替を模索",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.digitimes.com/news/a20260518VL200/digitimes-asia-weekly-news-roundup-apple-intel-samsung-tsmc.html",
+        "source": "Digitimes",
+        "publishedAt": "2026-05-18T01:49:16Z"
       }
     ]
   }

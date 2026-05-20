@@ -1,129 +1,4 @@
 {
-  "2026-05-13": {
-    "display": "2026年05月13日",
-    "articles": [
-      {
-        "title": "Google、AIを使用して企業のデジタル防御の未知の弱点を悪用しようとしたハッカーを阻止",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://japantoday.com/category/tech/google-disrupts-hackers-using-ai-to-exploit-an-unknown-weakness-in-a-company%27s-digital-defense",
-        "source": "Japan Today",
-        "publishedAt": "2026-05-11T21:32:46Z"
-      },
-      {
-        "title": "インタラクションモデル",
-        "body": "",
-        "category": "研究",
-        "url": "https://thinkingmachines.ai/blog/interaction-models/",
-        "source": "Thinkingmachines.ai",
-        "publishedAt": "2026-05-11T20:53:37Z"
-      },
-      {
-        "title": "Hyperscale Dataの子会社Omnipresent Robotics、AGIBOTからのロボット取得および関連開発に関する契約を締結",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.prnewswire.com/news-releases/hyperscale-datas-subsidiary-omnipresent-robotics-enters-into-an-agreement-providing-for-the-acquisition-of-robots-from-agibot-and-related-developments-302768665.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-11T20:30:00Z"
-      },
-      {
-        "title": "2026年5月に注目すべきAI暗号通貨コイントップ5",
-        "body": "",
-        "category": "その他",
-        "url": "https://bitcoinfoundation.org/news/altcoins/top-5-ai-crypto-coins-to-watch-in-may-2026/",
-        "source": "Bitcoinfoundation.org",
-        "publishedAt": "2026-05-11T19:55:24Z"
-      },
-      {
-        "title": "AI、製薬業界のパッケージングを変革、業界は欠陥ゼロの品質管理システムに数十億ドルを投資",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.globenewswire.com/news-release/2026/05/11/3292221/0/en/AI-Transforms-Pharmaceutical-Packaging-as-Industry-Invests-Billions-in-Zero-Defect-Quality-Control-Systems.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-11T18:00:00Z"
-      },
-      {
-        "title": "AIモデル、チャットボットの過信を抑制する画期的進歩として「わからない」と言うことを学習",
-        "body": "",
-        "category": "研究",
-        "url": "https://www.the-independent.com/tech/ai-model-chatbot-overconfidence-don-t-know-b2974020.html",
-        "source": "The-independent.com",
-        "publishedAt": "2026-05-11T04:22:57Z"
-      },
-      {
-        "title": "カムループスとバンクーバーに「主権AIデータセンター」クラスター計画が発表",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-ai-data-centre-plan-vancouver-kamloops-9.7195426",
-        "source": "CBC News",
-        "publishedAt": "2026-05-11T21:07:55Z"
-      },
-      {
-        "title": "トランプ・習会談は「ニクソン訪中」のような瞬間にはならない―今は対話していることで十分",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://theconversation.com/trump-xi-summit-will-be-no-nixon-in-china-moment-that-they-are-talking-is-enough-for-now-282295",
-        "source": "The Conversation Africa",
-        "publishedAt": "2026-05-11T19:37:52Z"
-      },
-      {
-        "title": "ケビン・ハセット、AI承認のための新たな官僚機構に反対、イノベーションが中国に流出する恐れを警告",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://cryptobriefing.com/hassett-opposes-ai-approval-bureaucracy/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-11T19:32:19Z"
-      },
-      {
-        "title": "Google、AIを使用して企業のデジタル防御の未知の弱点を悪用しようとしたハッカーを阻止",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://economictimes.indiatimes.com/tech/technology/google-disrupts-hackers-using-ai-to-exploit-unknown-weakness-in-a-companys-digital-defence/articleshow/131018112.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-05-11T15:44:39Z"
-      },
-      {
-        "title": "「ついに来た」：Google、ハッカーがAIを使用してコンピューターに侵入するのを捕捉し深刻な警告を発表",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://fortune.com/2026/05/11/google-catches-hackers-cybersecurity-warning-ai-anthropic-mythos/",
-        "source": "Fortune",
-        "publishedAt": "2026-05-11T14:50:56Z"
-      },
-      {
-        "title": "NomagicとBrack.Alltron、パートナーシップを拡大し本番環境でのビジョン・言語・行動システムを導入",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.globenewswire.com/news-release/2026/05/11/3291804/0/en/Nomagic-and-Brack-Alltron-Expand-Partnership-to-Include-Vision-Language-Action-Systems-in-Production.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-11T12:00:00Z"
-      },
-      {
-        "title": "Tesla AI5、ABF基板とロボット部品をめぐるサムスン・LG競争を激化",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.digitimes.com/news/a20260511VL205/tesla-fc-bga-abf-substrate-robot-lg-innotek-semco.html",
-        "source": "Digitimes",
-        "publishedAt": "2026-05-11T03:33:55Z"
-      },
-      {
-        "title": "推論のシフト",
-        "body": "",
-        "category": "研究",
-        "url": "https://stratechery.com/2026/the-inference-shift/",
-        "source": "Stratechery.com",
-        "publishedAt": "2026-05-11T10:00:00Z"
-      },
-      {
-        "title": "GPUaaSは欧州AI主権の幻想を強化している",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://thenextweb.com/news/gpuaas-is-reinforcing-the-illusion-of-european-ai-sovereignty/",
-        "source": "The Next Web",
-        "publishedAt": "2026-05-11T09:06:39Z"
-      }
-    ]
-  },
   "2026-05-14": {
     "display": "2026年05月14日",
     "articles": [
@@ -900,6 +775,171 @@
         "url": "https://www.digitimes.com/news/a20260518VL200/digitimes-asia-weekly-news-roundup-apple-intel-samsung-tsmc.html",
         "source": "Digitimes",
         "publishedAt": "2026-05-18T01:49:16Z"
+      }
+    ]
+  },
+  "2026-05-21": {
+    "display": "2026年05月21日",
+    "articles": [
+      {
+        "title": "Google、「世界をシミュレートできる」次世代AIビデオビルダー「Gemini Omni」を発表",
+        "body": "",
+        "category": "モデル発表",
+        "url": "https://decrypt.co/368393/google-unveils-gemini-omni-next-gen-ai-video-builder-simulate-world",
+        "source": "Decrypt",
+        "publishedAt": "2026-05-19T19:26:50Z"
+      },
+      {
+        "title": "イーロン・マスク対サム・アルトマン：法廷での衝突よりAIの支配権争いこそが大きな戦い",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/elon-musk-vs-sam-altman-ai-control-not-courtroom-clash-is-the-bigger-battle/articleshow/131209291.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-05-19T18:26:54Z"
+      },
+      {
+        "title": "Google I/O 2026：Googleが「エージェント型Gemini時代」に突入",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/google-i/o-2026-google-enters-its-agentic-gemini-era/articleshow/131208621.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-05-19T18:12:24Z"
+      },
+      {
+        "title": "AIBoticsがARYA AI Labsと戦略的AIパートナーシップおよびジョイントベンチャーを締結、次世代決定論的「ワールドモデル」の開発を推進",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.globenewswire.com/news-release/2026/05/19/3297667/0/en/AIBotics-Enters-Strategic-AI-Partnership-and-Joint-Venture-with-ARYA-AI-Labs-to-Advance-Next-Generation-Deterministic-World-Models.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-19T13:45:00Z"
+      },
+      {
+        "title": "脆弱性の悪用が侵害の主要侵入経路に、2026年業界全体のDBIRが報告",
+        "body": "",
+        "category": "その他",
+        "url": "https://www.globenewswire.com/news-release/2026/05/19/3297614/0/en/Vulnerability-Exploitation-Top-Breach-Entry-Point-2026-Industry-Wide-DBIR-Finds.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-19T13:02:00Z"
+      },
+      {
+        "title": "OpenAI共同創業者アンドレイ・カルパシーがAnthropicに参加、LLM研究を強化",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://cryptobriefing.com/open-ai-founder-andrej-karpathy-joins-anthropic/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-19T15:48:11Z"
+      },
+      {
+        "title": "時代は変わりゆく：ワシントンが突如としてAI規制に前向きに",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://fortune.com/2026/05/19/trump-pivots-towards-ai-regulation-in-face-mounting-ai-backlash-china-ai-safety-talks/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-19T18:21:17Z"
+      },
+      {
+        "title": "元OpenAI職員らがxAIの安全性問題がSpaceX IPOに影響を与える可能性を警告",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/xai-safety-issues-spacex-ipo-warning/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-19T15:30:42Z"
+      },
+      {
+        "title": "元OpenAI職員らがxAIの安全性記録の悪さがSpaceXのIPOを複雑にする可能性を警告",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
+        "source": "Wired",
+        "publishedAt": "2026-05-19T15:00:28Z"
+      },
+      {
+        "title": "マスク対アルトマン：OpenAI判決について知っておくべきこと",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.aljazeera.com/news/2026/5/19/musk-vs-altman-what-to-know-about-the-openai-verdict",
+        "source": "Al Jazeera English",
+        "publishedAt": "2026-05-19T10:50:45Z"
+      },
+      {
+        "title": "AI：ホワイトハウスの政策転換",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://theweek.com/tech/white-house-ai-policy-pivot",
+        "source": "The Week Magazine",
+        "publishedAt": "2026-05-19T20:21:47Z"
+      },
+      {
+        "title": "イーロン・マスクとサム・アルトマンは同じ側にいる",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://newrepublic.com/article/210626/elon-musk-sam-altman-side",
+        "source": "The New Republic",
+        "publishedAt": "2026-05-19T17:08:29Z"
+      },
+      {
+        "title": "英国人の5人に1人がAIによる解雇が市民不安を引き起こす可能性があると考えている",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.theregister.com/ai-ml/2026/05/19/1-in-5-brits-think-ai-layoffs-could-trigger-civil-unrest/5242444",
+        "source": "Theregister.com",
+        "publishedAt": "2026-05-19T10:59:00Z"
+      },
+      {
+        "title": "連邦政府がAI導入を急ぐ中、人材、透明性、柔軟性が依然として不可欠",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.techradar.com/pro/as-the-federal-government-races-to-adopt-ai-talent-transparency-and-flexibility-remain-vital",
+        "source": "TechRadar",
+        "publishedAt": "2026-05-19T09:58:14Z"
+      },
+      {
+        "title": "アメリカのAIに対するキャンペーンへの外国の影響",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://freerepublic.com/focus/f-news/4379963/posts",
+        "source": "Freerepublic.com",
+        "publishedAt": "2026-05-19T05:38:25Z"
+      },
+      {
+        "title": "Amazon Bedrockでのプログラマティックツール呼び出しの実装",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock/",
+        "source": "Amazon.com",
+        "publishedAt": "2026-05-19T15:17:00Z"
+      },
+      {
+        "title": "エンタープライズAIスタートアップUnframeが、1年目に契約額1億ドルを達成後、5000万ドルを調達",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/05/19/enterprise-ai-startup-unframe-raises-50m-booking-100m-contract-value-year-one/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-19T12:00:31Z"
+      },
+      {
+        "title": "韓国のスタートアップがAI訓練のために労働者の動きをキャプチャ",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.ponoko.com/blog/ponoko/south-korean-startup-captures-workers-movement-to-train-ai/",
+        "source": "Ponoko.com",
+        "publishedAt": "2026-05-19T04:00:00Z"
+      },
+      {
+        "title": "Figure AIがロボットと人間の荷物仕分け競争を実施。ロボットが敗北",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.businessinsider.com/figure-ai-intern-beats-robot-in-package-sorting-challenge-2026-5",
+        "source": "Business Insider",
+        "publishedAt": "2026-05-19T09:00:01Z"
+      },
+      {
+        "title": "DeepSeekと中国のAIブームは国家資金によってますます支えられている",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://fortune.com/2026/05/19/deepseek-china-ai-venture-capital-nvidia-pitchbook-trends-term-sheet/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-19T10:08:19Z"
       }
     ]
   }

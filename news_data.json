@@ -1,137 +1,4 @@
 {
-  "2026-05-14": {
-    "display": "2026年05月14日",
-    "articles": [
-      {
-        "title": "報道：AI大手が米国の対中技術リードを拡大する中、中国共産党の浸透を拒否",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://dailycaller.com/2026/05/12/new-york-times-report-anthropic-ai-chinese-think-tank-access-claude-mythos-model-singapore-meeting/",
-        "source": "The Daily Caller",
-        "publishedAt": "2026-05-12T20:42:52Z"
-      },
-      {
-        "title": "Workday、Anthropic、Local Initiatives Support Corporation（LISC）がAI重視のソロプレナー向けアクセラレータープログラムを開始",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.prnewswire.com/news-releases/workday-anthropic-and-local-initiatives-support-corporation-lisc-launch-ai-focused-solopreneurship-accelerator-program-302770030.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-12T20:00:00Z"
-      },
-      {
-        "title": "AccountTECHがプライベートAIに大胆な賭け",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.prnewswire.com/news-releases/accounttech-makes-a-bold-bet-on-private-ai-302769660.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-12T13:44:00Z"
-      },
-      {
-        "title": "Global Mofy CEOが中国文化振興協会傘下のアニメーションアート専門委員会を共同設立、常任委員に任命、AI生成コンテンツの探求が業界の注目を集める",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.globenewswire.com/news-release/2026/05/12/3292832/0/en/Global-Mofy-CEO-Co-Launched-Animation-Art-Expert-Committee-Under-China-Culture-Promotion-Association-and-Was-Appointed-As-Standing-Committee-Member-AI-Generated-Content-Exploration.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-12T12:30:00Z"
-      },
-      {
-        "title": "イノベーションニュースガイド：自律型エンタープライズの推進",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.sap.com/topics/events/sapphire/innovation-news-guide-2026",
-        "source": "Sap.com",
-        "publishedAt": "2026-05-12T12:30:00Z"
-      },
-      {
-        "title": "Dell Technologies Worldで期待されること：5月18日〜20日にtheCUBEに参加",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://siliconangle.com/2026/05/12/dell-technologies-world-ai-factory-thecube-delltechworld/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-12T20:27:54Z"
-      },
-      {
-        "title": "ナデラはMicrosoftが「次のIBM」になることを恐れていた。裁判でそうならないために彼がいくら払ったかが明らかに",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://thenextweb.com/news/nadella-feared-microsoft-would-become-the-next-ibm-the-trial-reveals-how-much-he-paid-to-make-sure-it-didnt/",
-        "source": "The Next Web",
-        "publishedAt": "2026-05-12T19:09:17Z"
-      },
-      {
-        "title": "Googleがハッカーによる企業のデジタル防御の未知の脆弱性を悪用するためのAI利用を阻止",
-        "body": "",
-        "category": "その他",
-        "url": "https://abcnews.com/Business/wireStory/google-disrupts-hackers-ai-exploit-unknown-weakness-companys-132845519",
-        "source": "Abcnews.com",
-        "publishedAt": "2026-05-12T12:13:19Z"
-      },
-      {
-        "title": "ルンバの発明者コリン・アングルはロボットを便利にした。今度はロボットを愛される存在にしたい",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.businessinsider.com/familiar-machines-unveils-ai-robot-for-emotional-support-roomba-2026-5",
-        "source": "Business Insider",
-        "publishedAt": "2026-05-12T09:00:02Z"
-      },
-      {
-        "title": "製造業者がロボットを人間に似せることを気にすべきでない理由",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.forbes.com/sites/lisacaldwell/2026/05/12/why-manufacturers-shouldnt-care-if-their-robots-look-like-humans/",
-        "source": "Forbes",
-        "publishedAt": "2026-05-12T17:37:02Z"
-      },
-      {
-        "title": "（動画）ジェンセン・フアンがジョー・ローガン出演：イーロン・マスクのテスラ初期Model SとFSDコンピュータの構築を支援した方法",
-        "body": "",
-        "category": "人物発言",
-        "url": "https://www.ibtimes.com.au/video-jensen-huang-joe-rogan-how-i-helped-elon-musk-build-teslas-early-model-s-fsd-computers-1868642",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-05-12T08:40:52Z"
-      },
-      {
-        "title": "テスラ株が3.89%上昇し445ドルに、中国販売急増とオプティマスへの期待がAI楽観論を後押し",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/tesla-stock-surges-389-445-china-sales-jump-optimus-bets-fuel-ai-optimism-1868637",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-05-12T08:13:17Z"
-      },
-      {
-        "title": "AIを恐れてブーイングする卒業生は正しい；卒業式のスピーカーも恐れるべきだ",
-        "body": "",
-        "category": "その他",
-        "url": "https://www.americanthinker.com/blog/2026/05/booing_grads_rightly_fear_ai_commencement_speaker_should_too.html",
-        "source": "Americanthinker.com",
-        "publishedAt": "2026-05-12T04:00:00Z"
-      },
-      {
-        "title": "AIデータセンターへの反発が拡大。ケビン・オレアリーの10億ドルStratosプロジェクトがその理由を明らかに",
-        "body": "",
-        "category": "その他",
-        "url": "https://247wallst.com/investing/2026/05/12/the-ai-data-center-backlash-is-growing-kevin-olearys-1-billion-stratos-project-reveals-why/",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-05-12T12:35:29Z"
-      },
-      {
-        "title": "NVIDIA株が5月20日の決算を前にAI需要が利益を後押しし、過去最高の219.44ドルに到達",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/nvidia-stock-hits-record-21944-ai-demand-powers-gains-ahead-may-20-earnings-1868638",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-05-12T08:25:08Z"
-      },
-      {
-        "title": "NvidiaのCEOジェンセン・フアンは北京でのトランプ・習会談に出席せず",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://cryptobriefing.com/nvidia-huang-absent-trump-xi-summit/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-12T03:59:42Z"
-      }
-    ]
-  },
   "2026-05-15": {
     "display": "2026年05月15日",
     "articles": [
@@ -940,6 +807,147 @@
         "url": "https://fortune.com/2026/05/19/deepseek-china-ai-venture-capital-nvidia-pitchbook-trends-term-sheet/",
         "source": "Fortune",
         "publishedAt": "2026-05-19T10:08:19Z"
+      }
+    ]
+  },
+  "2026-05-22": {
+    "display": "2026年05月22日",
+    "articles": [
+      {
+        "title": "スクープ：トランプ大統領のAI大統領令はセキュリティ上の懸念を先送りにする見込み",
+        "body": "デイリー・シグナル独占—ドナルド・トランプ大統領は今週後半に人工知能の安全性に関する大統領令に署名する見通しだが、草案に詳しい情報筋によると、この指令は潜在的な国家安全保障上の脅威をいかに封じ込めるかという重要な問題には答えないという…",
+        "category": "規制・政策",
+        "url": "https://www.dailysignal.com/2026/05/20/trump-order-punt-security-concerns/",
+        "source": "Daily Signal",
+        "publishedAt": "2026-05-20T20:27:46Z"
+      },
+      {
+        "title": "Applied Digitalが重要なマイルストーンを達成、第4キャンパスPolaris Forge 3での米国ハイパースケーラーとの契約容量が1GWを突破",
+        "body": "Applied Digitalは、第4のAIファクトリーキャンパスであるPolaris Forge 3において、米国を拠点とする高格付けハイパースケーラーと75億ドルの長期リース契約を締結した…",
+        "category": "企業動向",
+        "url": "https://www.globenewswire.com/news-release/2026/05/20/3298880/0/en/Applied-Digital-Reaches-Significant-Milestone-Surpassing-1-GW-of-Contracted-Capacity-with-U-S-Based-High-Investment-Grade-Hyperscaler-Lease-at-Fourth-Campus-Polaris-Forge-3.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-20T20:15:00Z"
+      },
+      {
+        "title": "Meta株が0.6%上昇、好調なQ1決算の中でAI再編に伴うレイオフ開始",
+        "body": "Meta Platforms Inc.はAI開発に注力するため、8,000人の人員削減を伴う組織再編を行っている。同社は好調な財務業績を報告し、AIインフラへの設備投資を増加させる計画である。",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/meta-platforms-restructures-workforce-ai-expansion-1869235",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-05-20T15:46:29Z"
+      },
+      {
+        "title": "Show HN: Prism Coder – MCPツールルーティング判断用にファインチューニングされたQwen3.5-14B",
+        "body": "AIエージェントのためのマインドパレス - HIPAA強化された認知アーキテクチャで、オンデバイスLLM（prism-coder:7b）、ヘブ学習、ACT-R拡散活性化、敵対的評価、永続メモリを搭載…",
+        "category": "モデル発表",
+        "url": "https://github.com/dcostenco/prism-coder",
+        "source": "Github.com",
+        "publishedAt": "2026-05-20T16:50:00Z"
+      },
+      {
+        "title": "InformaticaがエージェントAI戦略を拡大、ヘッドレスデータサービスと統合エージェントガバナンスを発表",
+        "body": "Salesforce Inc.に買収されて以来初の大きな発表として、データ管理ベンダーのInformaticaは本日、主力製品であるIntelligent Data Management Cloudの「ヘッドレス」バージョンを発表し、人工知能…を構築する企業向けのリソースとして位置付けた。",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/05/20/informatica-expands-agentic-ai-strategy-headless-data-services-unified-agent-governance/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-20T13:00:12Z"
+      },
+      {
+        "title": "独占：Juiceboxの自律型採用エージェントが候補者を積極的に発掘",
+        "body": "Juicebox App Inc.は本日、採用チームが複数のオープンポジションに対して同時に候補者を積極的に特定・アプローチできる自律型採用エージェントスイートを発表した。候補者の推薦、アウトリーチメッセージの作成、候補者の発掘を支援する…",
+        "category": "応用技術",
+        "url": "https://siliconangle.com/2026/05/20/exclusive-juicebox-autonomous-recruiting-agents-help-source-candidates-proactively/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-20T13:00:10Z"
+      },
+      {
+        "title": "トランプ大統領、政府に先進AIモデルへの早期アクセスを与える大統領令を計画",
+        "body": "この大統領令はAIイノベーションを減速させ、大企業を優遇し、米国の競争力に影響を与える可能性があり、政府の監視に関する疑問を提起している。この記事「トランプ大統領、政府に先進AIモデルへの早期アクセスを与える大統領令を計画」はCry…に最初に掲載された。",
+        "category": "規制・政策",
+        "url": "https://cryptobriefing.com/trump-executive-order-early-access-ai-models/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-20T19:21:27Z"
+      },
+      {
+        "title": "ベゾス氏が億万長者を擁護、AIを称賛、税金について語り、CNBCの大型インタビューでトランプを称える",
+        "body": "ジェフ・ベゾス氏は、Amazonがメラニア・トランプ大統領夫人に関するドキュメンタリーを公開する決定が大統領に取り入ろうとする試みだという非難を否定した。",
+        "category": "人物発言",
+        "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-20T18:40:08Z"
+      },
+      {
+        "title": "トランプ大統領のAI大統領令は、政府とのモデル共有を任意とする見込みと報道",
+        "body": "大統領令…どうぞよろしく？",
+        "category": "規制・政策",
+        "url": "https://gizmodo.com/trumps-ai-executive-order-will-reportedly-make-sharing-models-with-the-government-voluntary-2000758417",
+        "source": "Gizmodo.com",
+        "publishedAt": "2026-05-20T09:30:58Z"
+      },
+      {
+        "title": "汎アフリカイニシアチブがより安全で包括的なAIシステムを目指す",
+        "body": "新しい汎アフリカフェローシップは、バイアスや悪用などのリスクに対処するため、アフリカにおけるより安全で包括的、説明責任のあるAIガバナンスのための能力構築を目指している。続きを読む：https://punchng.com/pan-african-initiative-targets-safer-inclusive-ai-systems/",
+        "category": "規制・政策",
+        "url": "https://punchng.com/pan-african-initiative-targets-safer-inclusive-ai-systems/",
+        "source": "The Punch",
+        "publishedAt": "2026-05-20T03:54:22Z"
+      },
+      {
+        "title": "新調査で米国人の大半がAI開発のペースが速すぎると考えていることが判明—また、全員が本当に恩恵を受けるとは思っていない",
+        "body": "米国人の大半がAIイノベーションの急速なペースを懸念している—規制当局は今、追いつくのに苦労しているのか？",
+        "category": "規制・政策",
+        "url": "https://www.techradar.com/pro/new-study-finds-most-americans-think-the-pace-of-ai-development-is-moving-too-fast-and-they-also-dont-believe-everyone-will-truly-benefit-from-it",
+        "source": "TechRadar",
+        "publishedAt": "2026-05-20T00:05:00Z"
+      },
+      {
+        "title": "8,000台のロボットが物流大手DHLサプライチェーン内の仕事をいかに変えているか",
+        "body": "DHLサプライチェーンは、コスト削減、従業員離職率の低下、労働者満足度の向上のために、Locus Robotics、Boston Dynamics、Robust AIという3つの主要ロボティクスベンダーに依存している。",
+        "category": "応用技術",
+        "url": "https://fortune.com/2026/05/20/dhl-supply-chainrobotics-workers-cio/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-20T16:56:49Z"
+      },
+      {
+        "title": "NanoCoが1,200万ドルを調達、すべてのオフィスワーカー向けの安全なエンタープライズグレードのエージェントAIアシスタントNanoClawを加速",
+        "body": "設計段階からセキュリティを考慮した急成長中のオープンソース人工知能エージェントNanoClawを開発するスタートアップNanoCoは本日、シードラウンドで1,200万ドルを調達したと発表した。過剰申込となったこのラウンドはValley Capital Partnersが主導し、…も参加した。",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/05/20/nanoco-raises-12m-accelerate-nanoclaw-secure-enterprise-grade-agentic-ai-assistant-every-office-worker/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-20T14:00:55Z"
+      },
+      {
+        "title": "ロボティクスにChatGPTモーメントは訪れるか？",
+        "body": "今後数十年の間に、何十億もの自律型AIパワードロボットが工場で人間と一緒に働き、倉庫で退屈な作業を行い、高齢者をケアし、危険な災害地域で支援し、玄関先に荷物や食品を届け、やがては…",
+        "category": "応用技術",
+        "url": "https://spectrum.ieee.org/robotics-ai-breakthrough",
+        "source": "Ieee.org",
+        "publishedAt": "2026-05-20T11:00:01Z"
+      },
+      {
+        "title": "NvidiaがRubinプラットフォームの出荷を2027会計年度下半期に予定",
+        "body": "Nvidiaの統合AIシステムへのシフトはAIインフラ市場を再構築し、競争を激化させ、NANDサプライチェーンに影響を与える可能性がある。この記事「NvidiaがRubinプラットフォームの出荷を2027会計年度下半期に予定」はCrypto Briefingに最初に掲載された。",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/nvidia-rubin-platform-shipping-fy27/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-20T21:49:25Z"
+      },
+      {
+        "title": "Nvidia、Vera Rubin AIプラットフォームが2026年下半期に予定通り進行中と確認",
+        "body": "NvidiaのVera Rubin AIプラットフォームはAIインフラを再構築し、暗号市場に影響を与え、2027年までにサプライチェーン圧力を生み出す可能性がある。この記事「Nvidia、Vera Rubin AIプラットフォームが2026年下半期に予定通り進行中と確認」はCrypto Briefingに最初に掲載された。",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/nvidia-vera-rubin-ai-platform-h2-2026/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-20T21:41:08Z"
+      },
+      {
+        "title": "Nvidiaが時間外取引後に決算発表、オプション市場は4.8%の変動を予想",
+        "body": "Nvidiaの決算はテクノロジーを超えて、AIと暗号市場に影響を与え、ガイダンスがリスク選好と資産評価を形成する。この記事「Nvidiaが時間外取引後に決算発表、オプション市場は4.8%の変動を予想」はCrypto Briefingに最初に掲載された。",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/nvidia-earnings-expected-move/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-20T19:43:29Z"
       }
     ]
   }

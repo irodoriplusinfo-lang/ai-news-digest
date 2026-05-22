@@ -1,145 +1,4 @@
 {
-  "2026-05-15": {
-    "display": "2026年05月15日",
-    "articles": [
-      {
-        "title": "MicrosoftのMDASH AIシステム、Patch Tuesdayで修正された16件のWindows脆弱性を発見",
-        "body": "Microsoftは、大規模な脆弱性の発見と修正を促進するため、MDASHと呼ばれる新しいマルチモデル人工知能（AI）駆動システムを発表し、限定的なプライベートプレビューの一部として一部の顧客によってテストされていることを明らかにした。MDASHは（略称）...",
-        "category": "企業動向",
-        "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-        "source": "Internet",
-        "publishedAt": "2026-05-13T13:46:02Z"
-      },
-      {
-        "title": "テンセント、AI投資増加により収益と利益が予想を下回る",
-        "body": "テンセント・ホールディングスは、市場予想を下回る第1四半期決算を発表した。収益と純利益は予想に届かなかった。ゲーム収益は人気タイトルに牽引されて成長した。オンライン広告も増加した。同社は人工知能に多大な投資を行っている。",
-        "category": "企業動向",
-        "url": "https://economictimes.indiatimes.com/tech/technology/tencent-revenue-and-profit-miss-on-higher-ai-investment/articleshow/131067048.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-05-13T13:19:45Z"
-      },
-      {
-        "title": "報道：AIの巨人が中国共産党の浸透に抵抗、米国が中国に対する技術リードを拡大",
-        "body": "AIの巨人Anthropicは、シンガポールでの非公開会議中に、中国のシンクタンクが同社の最新AIモデル「Claude Mythos」へのアクセスを得ようとする試みを拒否したと、ニューヨーク・タイムズが火曜日に報じた。AnthropicはMythosを4月に発表したが、そのリリースを制限している。",
-        "category": "企業動向",
-        "url": "https://freerepublic.com/focus/f-news/4379022/posts",
-        "source": "Freerepublic.com",
-        "publishedAt": "2026-05-13T13:16:56Z"
-      },
-      {
-        "title": "Global Mofy、Kimi AIの開発元Moonshot AIの新規資金調達ラウンドに戦略的に参加、グローバル生成AI戦略を推進",
-        "body": "北京、2026年5月13日（GLOBE NEWSWIRE）-- Global Mofy AI Limited（以下「当社」または「Global Mofy」）（Nasdaq: GMM）は、バーチャルコンテンツ制作および3Dデジタルアセット開発に従事する生成AI駆動型テクノロジーソリューションプロバイダーであり...",
-        "category": "資金・M&A",
-        "url": "https://www.globenewswire.com/news-release/2026/05/13/3294081/0/en/Global-Mofy-Strategically-Participates-in-New-Financing-Round-of-Kimi-AI-s-Developer-Moonshot-AI-Advancing-Its-Global-Generative-AI-Strategy.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-13T13:15:00Z"
-      },
-      {
-        "title": "Wearable Devices、先進AIおよびXRデバイス向け次世代製品Mudra Proを発表",
-        "body": "Mudra Proは、AIおよび空間コンピューティングにおける次世代の自然なインタラクションをサポートするために設計された、人間の意図を解読するための高性能ニューラルセンシングプラットフォームである。",
-        "category": "応用技術",
-        "url": "https://www.globenewswire.com/news-release/2026/05/13/3294033/0/en/Wearable-Devices-Announces-Mudra-Pro-its-Next-Generation-Product-for-Advanced-AI-and-XR-Devices.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-13T13:00:00Z"
-      },
-      {
-        "title": "[タイトルなし]",
-        "body": "Cognitionの創業者スコット・ウーが、AIコーディングエージェントDevinの構築、彼の数学オリンピック金メダル、そしてAGI時代に人間に残されるものについて語る。",
-        "category": "人物発言",
-        "url": "https://colossus.com/article/scott-wu-tapes-cognition/",
-        "source": "Colossus.com",
-        "publishedAt": "2026-05-13T05:47:01Z"
-      },
-      {
-        "title": "Nebius、AI推論強化のためClarifaiのコンピュート・オーケストレーション技術と人材を獲得",
-        "body": "オランダの人工知能インフラストラクチャ大手Nebius Group N.V.は本日、マネージド推論サービスを強化する取り組みの一環として、AIオーケストレーションソフトウェア企業Clarifai Inc.のコアエンジニアリングチームを採用すると発表した。この取引の一部として、Nebiusは...",
-        "category": "資金・M&A",
-        "url": "https://siliconangle.com/2026/05/12/nebius-snaps-clarifais-compute-orchestration-tech-talent-enhance-ai-inference/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-13T01:11:35Z"
-      },
-      {
-        "title": "「私もかもしれない」：イーロン・マスク、Claudeがユーザーを脅迫することを「邪悪な」オンラインAIストーリーから学んだことについて責任の一端を認める",
-        "body": "Anthropicは最近、Claudeの「エージェント的ミスアラインメント」、つまり人間の最善の利益から逸脱するボットの行動を解決したというレポートを発表した。",
-        "category": "企業動向",
-        "url": "https://tech.yahoo.com/ai/claude/articles/maybe-too-elon-musk-accepts-173915253.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-05-13T17:39:15Z"
-      },
-      {
-        "title": "Robinhoodの共同創業者、AIデータセンターを軌道上に設置するため2億7500万ドルを調達 — 本当の売り文句は物理学ではなく、地上では解決できない7年の待ちリスト",
-        "body": "Cowboy Space Corp.は、太陽光を動力源とし、同社が自ら設計しているロケットで打ち上げる軌道上データセンターを建設するため、シリーズBで2億7500万ドルの資金を調達した。このラウンドは、SFの域を超えた論文に対する投資家の関心を示している。",
-        "category": "資金・M&A",
-        "url": "https://spacedaily.com/sd-n-a-robinhood-co-founder-just-raised-275-million-to-put-ai-data-centers-in-orbit-and-the-real-pitch-isnt-the-physics-its-a-seven-year-waitlist-nobody-can-fix-on-the-ground/",
-        "source": "Space Daily",
-        "publishedAt": "2026-05-13T13:55:44Z"
-      },
-      {
-        "title": "AIデータセンター新技術調査レポート2026：サーバーとプロセッサ、ネットワークと相互接続、データストレージ、電力と冷却、政策的考慮事項に焦点",
-        "body": "AIデータセンターセクターにおける主要な市場機会には、製品計画とマーケティング戦略の強化、競合情報の活用、ビジネス、政府、学術、投資家のための情報に基づいた意思決定の形成が含まれる。このレポートは独自の...",
-        "category": "その他",
-        "url": "https://www.globenewswire.com/news-release/2026/05/13/3293766/28124/en/AI-Data-Center-New-Technology-Research-Report-2026-Focus-on-Servers-and-Processors-Networks-and-Interconnects-Data-Storage-Power-and-Cooling-and-Policy-Considerations.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-13T09:48:00Z"
-      },
-      {
-        "title": "英国サイバーセキュリティ市場が147億ポンドに拡大、AIセキュリティ企業が力強い成長",
-        "body": "英国のサイバーセキュリティセクターは147億ポンドの収益に達し、AIセキュリティ企業の急成長、投資の増加、業界全体での雇用増加が牽引している。",
-        "category": "企業動向",
-        "url": "https://www.infosecurity-magazine.com/news/uks-cyber-sector-grows-revenue-11/",
-        "source": "Infosecurity Magazine",
-        "publishedAt": "2026-05-13T09:05:00Z"
-      },
-      {
-        "title": "グローバルAIライフサイエンス市場、2034年までに年平均成長率約20%で顕著な拡大の見込み | DelveInsight",
-        "body": "ライフサイエンスにおけるAI市場は、いくつかの重要な要因により力強い拡大を経験している。創薬・開発の加速に対する需要の高まりにより、製薬会社やバイオテクノロジー企業は、短縮できるAI技術の導入を促進されている...",
-        "category": "その他",
-        "url": "https://www.globenewswire.com/news-release/2026/05/13/3294316/0/en/Global-AI-in-Life-Sciences-Market-Gearing-Up-for-Outstanding-Expansion-at-a-CAGR-of-20-by-2034-DelveInsight.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-13T17:00:00Z"
-      },
-      {
-        "title": "HubSpotが強制なしで全エンジニアにAIを使用させた方法",
-        "body": "強制を避け、測定可能な結果を証明することで、HubSpotは現在全従業員の94%がAIを使用していると述べている。",
-        "category": "企業動向",
-        "url": "https://fortune.com/2026/05/13/how-wyndham-scales-ai-to-improve-hospitality-at-8400-hotels/",
-        "source": "Fortune",
-        "publishedAt": "2026-05-13T16:37:38Z"
-      },
-      {
-        "title": "ソフトバンクロボティクスアメリカとダイレクトサプライ、シニアリビングコミュニティ向け戦略的パートナーシップを拡大",
-        "body": "フィジカルAIプログラムで「最高の運営」を実現するための共通のミッション サンフランシスコ、2026年5月13日 /PRNewswire/ -- ソフトバンクロボティクスアメリカは、ダイレクトサプライとの戦略的パートナーシップを延長し、「最高の運営」の提供を加速する...",
-        "category": "応用技術",
-        "url": "https://www.prnewswire.com/news-releases/softbank-robotics-america-and-direct-supply-expand-strategic-partnership-for-senior-living-communities-302770154.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-13T13:05:00Z"
-      },
-      {
-        "title": "エンボディードAIロボット大規模モデル（VLA含む）調査レポート2026：ワールドモデルが標準になろうとしており、OEMが参入し量産・応用を加速",
-        "body": "ダブリン、2026年5月13日（GLOBE NEWSWIRE）-- 「エンボディードAIロボット大規模モデル（VLA含む）調査レポート2026」がResearchAndMarkets.comのオファリングに追加された。ロボット大規模モデルの研究：ワールドモデルが標準になろうとしており、OEMが参入し...",
-        "category": "研究",
-        "url": "https://www.globenewswire.com/news-release/2026/05/13/3293694/28124/en/Embodied-AI-Robot-Large-Model-Including-VLA-Research-Report-2026-World-Models-Are-About-to-Become-Standard-and-OEMs-Enter-and-Accelerate-Mass-Production-and-Application.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-13T08:02:00Z"
-      },
-      {
-        "title": "投資家はAIラリーが行き過ぎたことを懸念。バーンスタインのアナリストはNvidia株がまだ「割安」と主張",
-        "body": "AIバブルへの懸念の中、バーンスタインのアナリストはNvidiaが比較的低いバリュエーションで取引されていると考えている。",
-        "category": "企業動向",
-        "url": "https://www.barchart.com/story/news/1905930/investors-are-worried-the-ai-rally-has-gone-too-far-bernstein-analysts-say-nvidia-stock-is-still-cheap-here",
-        "source": "Barchart.com",
-        "publishedAt": "2026-05-13T14:00:02Z"
-      },
-      {
-        "title": "Intel、800億ドルのCPU市場予測とApple製造契約にもかかわらず株価下落",
-        "body": "Intel Corp.は、Apple Inc.が製造契約に合意したことでファウンドリ事業に大きな追い風を得た。それでも、火曜日の取引中にIntel株は下落している...",
-        "category": "企業動向",
-        "url": "https://finance.yahoo.com/news/intel-slips-despite-80-billion-094604367.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-05-13T09:46:04Z"
-      }
-    ]
-  },
   "2026-05-16": {
     "display": "2026年05月16日",
     "articles": [
@@ -948,6 +807,171 @@
         "url": "https://cryptobriefing.com/nvidia-earnings-expected-move/",
         "source": "Crypto Briefing",
         "publishedAt": "2026-05-20T19:43:29Z"
+      }
+    ]
+  },
+  "2026-05-23": {
+    "display": "2026年05月23日",
+    "articles": [
+      {
+        "title": "WhiteFiber、投資適格テクノロジー顧客と総契約額1億6000万ドル超のAIコンピュート契約を締結",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.prnewswire.com/news-releases/whitefiber-signs-ai-compute-agreement-with-total-contract-value-in-excess-of-160-million-with-investment-grade-technology-customer-302779342.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-21T21:00:00Z"
+      },
+      {
+        "title": "トランプ大統領がサイバー脅威からアメリカを守る大統領令の署名を延期した理由",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.dailysignal.com/2026/05/21/why-trump-delayed-an-executive-order-to-protect-america-from-cyber-threats/",
+        "source": "Daily Signal",
+        "publishedAt": "2026-05-21T20:45:00Z"
+      },
+      {
+        "title": "事前学習モデルを出荷するためのリアルな3D医療画像を大規模に合成",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://developer.nvidia.com/blog/synthesize-realistic-3d-medical-images-at-scale-to-ship-pre-trained-models/",
+        "source": "Nvidia.com",
+        "publishedAt": "2026-05-21T19:58:23Z"
+      },
+      {
+        "title": "BluSky AI Inc.、新規レギュレーションA募集のコーポレートコミュニケーションパートナーとしてIBNを発表",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.globenewswire.com/news-release/2026/05/21/3299667/29006/en/BluSky-AI-Inc-Announces-IBN-as-Its-Corporate-Communications-Partner-for-New-Regulation-A-Offering.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-21T18:20:00Z"
+      },
+      {
+        "title": "速度制限を破る：Wood Mackenzie、AIデータセンターの電力競争がプロジェクトと消費者を脅かすと警告",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.globenewswire.com/news-release/2026/05/21/3299471/0/en/Breaking-the-speed-limit-Wood-Mackenzie-warns-AI-data-centre-power-race-threatens-projects-and-consumers.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-21T14:00:00Z"
+      },
+      {
+        "title": "Shortcuts Playgroundの紹介：Claude CodeまたはCodexでApple Shortcutsを作成",
+        "body": "",
+        "category": "モデル発表",
+        "url": "https://www.macstories.net/stories/introducing-shortcuts-playground/",
+        "source": "MacStories",
+        "publishedAt": "2026-05-21T14:25:17Z"
+      },
+      {
+        "title": "AIは都市を設計できるが、人々にとって何が重要かを理解できるのか？人間がコントロールを維持するための10の方法",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://theconversation.com/ai-can-design-cities-but-can-it-understand-what-matters-to-people-10-ways-to-keep-humans-in-control-281471",
+        "source": "The Conversation Africa",
+        "publishedAt": "2026-05-21T13:49:08Z"
+      },
+      {
+        "title": "Versa、新しいMCPアーキテクチャでAIエージェントアクションにゼロトラスト制御を適用",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/05/21/versa-applies-zero-trust-controls-ai-agent-actions-new-mcp-architecture/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-21T13:00:27Z"
+      },
+      {
+        "title": "OpenAIが他の誰も解けなかった80年前の数学の謎を解いた方法",
+        "body": "",
+        "category": "研究",
+        "url": "https://www.geeky-gadgets.com/autonomous-ai-math-breakthrough/",
+        "source": "Geeky Gadgets",
+        "publishedAt": "2026-05-21T12:13:00Z"
+      },
+      {
+        "title": "Oracleとトランプ政権下でのAI監視国家の台頭",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.activistpost.com/oracle-and-the-rise-of-the-ai-surveillance-state-under-trump-2/",
+        "source": "Activistpost.com",
+        "publishedAt": "2026-05-21T22:00:00Z"
+      },
+      {
+        "title": "マスク対アルトマン：大騒ぎの空振り",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+        "source": "The Verge",
+        "publishedAt": "2026-05-21T13:41:50Z"
+      },
+      {
+        "title": "Grokがワシントンで不発、SpaceXのAI成長ストーリーに打撃",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/tech/technology/grok-falls-flat-in-washington-undercutting-spacexs-ai-growth-story/articleshow/131247281.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-05-21T12:51:51Z"
+      },
+      {
+        "title": "SpaceX、訴訟懸念の中でGrokの「スパイシー」モードをIPOリスクとして指摘",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/spacex-grok-ipo-litigation-risk/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-21T06:24:21Z"
+      },
+      {
+        "title": "SpaceX IPO申請書が損失とマスクの支配を明らかに、AI に将来を賭ける",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.huffpost.com/entry/spacex-ipo-filing-elon-musk_n_6a0e7a84e4b06d9c25b8b6ee",
+        "source": "HuffPost",
+        "publishedAt": "2026-05-21T03:28:18Z"
+      },
+      {
+        "title": "Tesla、ハンズフリー操作のためにGrok音声アシスタントを統合",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://cryptobriefing.com/tesla-grok-voice-assistant-integration/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-21T02:14:31Z"
+      },
+      {
+        "title": "OpenAI、「逆連邦主義」戦略でワシントンの戦略書を書き換えたい",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://gizmodo.com/openai-wants-to-rewrite-its-washington-playbook-with-reverse-federalism-strategy-2000762053",
+        "source": "Gizmodo.com",
+        "publishedAt": "2026-05-21T18:25:05Z"
+      },
+      {
+        "title": "トランプ大統領、AIモデルの一般公開前の審査システムを創設する大統領令に署名へ",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://cryptobriefing.com/trump-executive-order-ai-model-vetting/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-21T15:33:58Z"
+      },
+      {
+        "title": "エンボディドAIが研究室から出るも、スケーリングの課題は残る",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.computerweekly.com/news/366643344/Embodied-AI-steps-out-of-the-lab-but-scaling-challenges-remain",
+        "source": "ComputerWeekly.com",
+        "publishedAt": "2026-05-21T12:24:00Z"
+      },
+      {
+        "title": "アナリストがAIインフラ需要加速でNvidiaの目標株価を引き上げ",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/analysts-raise-nvidia-price-targets/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-21T13:20:52Z"
+      },
+      {
+        "title": "カスタムAI ASICの現状（2026年5月）— Broadcom取引、Google TPU、Meta MTIAなど",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia",
+        "source": "Tom's Hardware UK",
+        "publishedAt": "2026-05-21T12:43:38Z"
       }
     ]
   }

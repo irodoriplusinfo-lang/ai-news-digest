@@ -1,145 +1,4 @@
 {
-  "2026-05-16": {
-    "display": "2026年05月16日",
-    "articles": [
-      {
-        "title": "BluSky AI Inc.、米国AIインフラ拡大を加速するためレギュレーションA+オファリングの開始を発表",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.globenewswire.com/news-release/2026/05/14/3295136/29006/en/BluSky-AI-Inc-Announces-Launch-of-Regulation-A-Offering-to-Accelerate-U-S-AI-Infrastructure-Expansion.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-14T14:04:00Z"
-      },
-      {
-        "title": "WhiteFiber, Inc.、2026年第1四半期決算を発表",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.prnewswire.com/news-releases/whitefiber-inc-reports-first-quarter-2026-results-302771681.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-14T11:00:00Z"
-      },
-      {
-        "title": "IKS Health、AIマネジメント・テクノロジー企業ARAI Solutionsの買収を発表",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/iks-health-announces-acquisition-of-arai-solutions-an-ai-management-and-technology-company/article70977150.ece",
-        "source": "BusinessLine",
-        "publishedAt": "2026-05-14T09:28:14Z"
-      },
-      {
-        "title": "QualiのTorqueプラットフォーム、企業がソブリンAIを実現するために必要な運用基盤を提供",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.prnewswire.com/news-releases/qualis-torque-platform-delivers-the-operational-foundation-enterprises-need-to-achieve-sovereign-ai-302772359.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-14T14:00:00Z"
-      },
-      {
-        "title": "カナダ、トップ10入りのAIスーパーコンピューター構築に向けて順調に進行中とソロモン氏が発言",
-        "body": "",
-        "category": "その他",
-        "url": "https://financialpost.com/technology/canada-top-10-ai-supercomputer-solomon",
-        "source": "Financial Post",
-        "publishedAt": "2026-05-14T10:00:04Z"
-      },
-      {
-        "title": "トランプ大統領、北京訪問中に習近平国家主席とAIガードレールについて協議へ",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.naturalnews.com/2026-05-14-trump-discuss-ai-guardrails-during-china-visit.html",
-        "source": "Naturalnews.com",
-        "publishedAt": "2026-05-14T06:00:00Z"
-      },
-      {
-        "title": "この夫婦は（文字通り）AIと映画製作を結び合わせた。彼らがスタートアップのために600万ドルを調達した際に使ったピッチデッキを公開。",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://www.businessinsider.com/ai-filmmaking-startup-flick-lands-yc-seed-funding-pitch-deck-2026-5",
-        "source": "Business Insider",
-        "publishedAt": "2026-05-14T13:00:01Z"
-      },
-      {
-        "title": "Googleが工場ロボットに対してAndroidがスマートフォンに行ったことを実行。ファナックはこの方程式のサムスンとなった。",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://thenextweb.com/news/fanuc-google-physical-ai-factory-robots/",
-        "source": "The Next Web",
-        "publishedAt": "2026-05-14T12:26:02Z"
-      },
-      {
-        "title": "HCLTech、評価額15億ドルでSarvam AIの3億ドルラウンドを1億5000万ドルの出資でリード",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://www.moneycontrol.com/news/business/startup/hcltech-to-lead-300-million-sarvam-ai-round-with-150-million-bet-at-1-5-billion-valuation-13918719.html",
-        "source": "Moneycontrol",
-        "publishedAt": "2026-05-14T04:12:48Z"
-      },
-      {
-        "title": "ソフトバンク、大規模なグローバル投資でAI覇権を追求",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://newsonjapan.com/article/149209.php",
-        "source": "Newsonjapan.com",
-        "publishedAt": "2026-05-14T13:44:35Z"
-      },
-      {
-        "title": "ウェルズ・ファーゴがブロードコムの目標株価を545ドルに引き上げ：AI半導体収益が予想を30〜40%上回る",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://247wallst.com/investing/2026/05/14/wells-fargo-just-hiked-broadcom-price-target-to-545-ai-semi-revenue-running-30-40-higher-than-expected/",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-05-14T15:20:41Z"
-      },
-      {
-        "title": "中国企業がNvidiaの復帰にもかかわらず国産AIチップの増強を加速",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.cnbc.com/2026/05/14/china-ai-chips-nvidia.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-14T11:09:09Z"
-      },
-      {
-        "title": "このメモリチップは摂氏700度で動作する。その背後にあるスタートアップはすでにGPUが計算できない場所で計算するAIチップを構築している。",
-        "body": "",
-        "category": "研究",
-        "url": "https://thenextweb.com/news/tetramem-memristor-700c-space-ai-computing/",
-        "source": "The Next Web",
-        "publishedAt": "2026-05-14T08:20:27Z"
-      },
-      {
-        "title": "トランプ・習会談が中国テック株反発への期待を復活、米国がNvidia H200販売を許可との報道",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.cnbc.com/2026/05/14/trump-xi-meeting-china-stocks-ai-rally.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-14T07:32:26Z"
-      },
-      {
-        "title": "サスケハナ、AI需要急増でNvidiaの目標株価を275ドルに引き上げ",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://cryptobriefing.com/susquehanna-nvidia-price-target-275-ai/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-14T06:07:24Z"
-      },
-      {
-        "title": "Cerebras株、55億ドルを調達した数年ぶりの大型テックIPO後、公募価格からほぼ倍増",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://siliconangle.com/2026/05/13/cerebras-stock-almost-doubles-initial-offering-price-biggest-tech-ipo-years-raised-55b/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-14T01:12:34Z"
-      },
-      {
-        "title": "Cerebras、数年ぶりの大型テックIPOを前に株価を185ドルに設定",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://siliconangle.com/2026/05/13/cerebras-prices-shares-185-ahead-biggest-tech-ipo-years/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-14T01:12:34Z"
-      }
-    ]
-  },
   "2026-05-17": {
     "display": "2026年05月17日",
     "articles": [
@@ -972,6 +831,107 @@
         "url": "https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia",
         "source": "Tom's Hardware UK",
         "publishedAt": "2026-05-21T12:43:38Z"
+      }
+    ]
+  },
+  "2026-05-24": {
+    "display": "2026年05月24日",
+    "articles": [
+      {
+        "title": "トランプ大統領が躊躇したAI大統領令の内容",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://gizmodo.com/heres-the-executive-order-on-ai-that-gave-trump-cold-feet-2000762751",
+        "source": "Gizmodo.com",
+        "publishedAt": "2026-05-22T21:10:28Z"
+      },
+      {
+        "title": "3Dプリント製銅プレートがデータセンターの冷却エネルギー使用量を97%削減できる可能性",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://oilprice.com/Energy/Energy-General/3D-Printed-Copper-Plates-Could-Cut-Data-Center-Cooling-Energy-Use-by-97.html",
+        "source": "OilPrice.com",
+        "publishedAt": "2026-05-22T20:00:00Z"
+      },
+      {
+        "title": "SpotifyがAIファンカバーをアーティストの収入源に",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/spotify-turns-ai-fan-covers-into-artist-paychecks/",
+        "source": "pymnts.com",
+        "publishedAt": "2026-05-22T18:49:08Z"
+      },
+      {
+        "title": "トランプ大統領、AI監視令を棚上げ",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.rt.com/business/640377-trump-ai-regulation-postponed/",
+        "source": "RT",
+        "publishedAt": "2026-05-22T18:36:29Z"
+      },
+      {
+        "title": "コングロマリットの罠：イーロン・マスクはAI事業をSpaceXに統合することでSpaceXを弱体化させるリスクを冒している。その理由",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.livemint.com/opinion/online-views/conglomerate-trap-elon-musk-spacex-ipo-ai-xai-x-openai-general-electric-investors-11779442283541.html",
+        "source": "Livemint",
+        "publishedAt": "2026-05-22T09:39:34Z"
+      },
+      {
+        "title": "テック億万長者たちがトランプ大統領にAI大統領令を撤回させた。しかしMAGA派の多くはAI規制を支持している",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://fortune.com/2026/05/22/tech-billionaires-convince-trump-to-back-off-ai-executive-order-but-much-of-maga-favors-ai-regulation/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-22T20:43:33Z"
+      },
+      {
+        "title": "コンピューティングを変革し、メリーランドを変革する – 地域イノベーションへの新しいアプローチ",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.forbes.com/sites/deborahwince-smith/2026/05/22/transforming-computing-transforming-maryland--a-new-approach-to-place-making-innovation/",
+        "source": "Forbes",
+        "publishedAt": "2026-05-22T14:43:30Z"
+      },
+      {
+        "title": "トランプ大統領、中国に対する米国の競争力保護のためAI大統領令を延期",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://cryptobriefing.com/trump-postpones-ai-executive-order-china/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-22T10:34:15Z"
+      },
+      {
+        "title": "米国が主要AI大統領令を延期した理由",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.c-sharpcorner.com/article/why-the-u-s-delayed-its-major-ai-executive-order/",
+        "source": "C-sharpcorner.com",
+        "publishedAt": "2026-05-22T08:02:31Z"
+      },
+      {
+        "title": "大型AI IPOが迫る、Googleのエージェント攻勢、Nvidiaの次なる大型ビジネス",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/05/22/mega-ai-ipos-incoming-googles-agentic-blitz-nvidias-next-big-business/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-22T14:00:18Z"
+      },
+      {
+        "title": "Nvidia決算がAIバブルで投資家の神経を試す中、3500億ドルの市場変動を引き起こす",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.naturalnews.com/2026-05-22-nvidia-earnings-spark-350b-market-swing.html",
+        "source": "Naturalnews.com",
+        "publishedAt": "2026-05-22T06:00:00Z"
+      },
+      {
+        "title": "AlibabaがライバルチップメーカーやAI企業に追いつくのに苦労していることを認める",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.theregister.com/systems/2026/05/22/alibaba-just-admitted-its-struggling-to-keep-up-with-rival-chipmakers-and-ai-shops/5244665",
+        "source": "Theregister.com",
+        "publishedAt": "2026-05-22T02:39:40Z"
       }
     ]
   }

@@ -1,129 +1,4 @@
 {
-  "2026-05-17": {
-    "display": "2026年05月17日",
-    "articles": [
-      {
-        "title": "SalesCloser、専用GPU推論クラスターで会話AI分野の優位性を強化 - カスタムモデルのファインチューニング、エージェントワークフロー、規制産業対応を実現",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://financialpost.com/globe-newswire/salescloser-deepens-conversational-ai-moat-with-dedicated-gpu-inference-cluster-enabling-custom-model-fine-tuning-agentic-workflows-and-regulated-industry-readiness",
-        "source": "Financial Post",
-        "publishedAt": "2026-05-15T20:57:09Z"
-      },
-      {
-        "title": "Argentum AI、BoosteroidおよびDL Invest Groupと25億ドル・300MWのAIデータセンター契約を締結",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.prnewswire.com/news-releases/argentum-ai-signs-2-5-billion-300mw-ai-data-center-agreement-with-boosteroid-and-dl-invest-group-302773714.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-15T18:30:00Z"
-      },
-      {
-        "title": "研究：AIの使用は創造性の多様性を狭める",
-        "body": "",
-        "category": "研究",
-        "url": "https://www.psypost.org/real-world-evidence-shows-generative-ai-is-making-human-creative-output-more-uniform/",
-        "source": "PsyPost",
-        "publishedAt": "2026-05-15T15:44:00Z"
-      },
-      {
-        "title": "カルナータカ州、医学教育向けAIガイドラインを発表へ",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://economictimes.indiatimes.com/news/india/karnataka-to-release-ai-guidelines-for-medical-education/articleshow/131120562.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-05-15T14:28:13Z"
-      },
-      {
-        "title": "Cerebrasの大型IPO、Ciscoの好決算、そしてAIファクトリーの真の影響",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://siliconangle.com/2026/05/15/cerebras-monster-ipo-ciscos-big-quarter-ai-factorys-real-impact/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-15T14:00:54Z"
-      },
-      {
-        "title": "xAI、Grok Buildでコーディングエージェント競争に参入",
-        "body": "",
-        "category": "モデル発表",
-        "url": "https://devops.com/xai-enters-the-coding-agent-race-with-grok-build/",
-        "source": "DevOps.com",
-        "publishedAt": "2026-05-15T12:59:41Z"
-      },
-      {
-        "title": "Dataiku、Snowflake内でガバナンス対応AIワークフロービルダーを発表",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://siliconangle.com/2026/05/15/755535/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-15T13:00:19Z"
-      },
-      {
-        "title": "スタートアップ創業者、AIエージェントの最大の障壁は信頼だと語る",
-        "body": "",
-        "category": "人物発言",
-        "url": "https://www.techtarget.com/searchcio/feature/Startup-founder-says-trust-is-biggest-barrier-to-AI-agents",
-        "source": "Techtarget.com",
-        "publishedAt": "2026-05-15T11:09:00Z"
-      },
-      {
-        "title": "数十年の研究失敗の後、人工知能がわずか6ヶ月でペルーの隠された地上絵303点を発見",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://freerepublic.com/focus/f-chat/4379302/posts",
-        "source": "Freerepublic.com",
-        "publishedAt": "2026-05-15T00:11:16Z"
-      },
-      {
-        "title": "米国には1,200のAI法案があるが、それらをテストする良い方法がない",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://fortune.com/2026/05/15/ai-policy-patchwork-state-federal-regulation-framework-sonnenfeld-marcus/",
-        "source": "Fortune",
-        "publishedAt": "2026-05-15T09:00:00Z"
-      },
-      {
-        "title": "準備ができているかどうかに関わらず、AI政府はすでにここにある",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.nakedcapitalism.com/2026/05/ready-or-not-ai-government-is-already-here.html",
-        "source": "Nakedcapitalism.com",
-        "publishedAt": "2026-05-15T07:49:24Z"
-      },
-      {
-        "title": "ビデオフライデー：大型ロボット機械が自律運転",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://spectrum.ieee.org/video-friday-material-handling-robots",
-        "source": "Ieee.org",
-        "publishedAt": "2026-05-15T17:00:01Z"
-      },
-      {
-        "title": "シリコンバレー最新の注目の的は人型倉庫作業員ロボット",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.businessinsider.com/figure-ai-turned-a-humanoid-sorting-packages-must-see-tv-2026-5",
-        "source": "Business Insider",
-        "publishedAt": "2026-05-15T09:03:49Z"
-      },
-      {
-        "title": "18日間。サムスンのストライキが世界のAIチップ市場を崩壊させるのに必要な時間はそれだけ、そして全世界が息を止めている",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://economictimes.indiatimes.com/news/international/us/18-days-thats-all-it-takes-for-a-samsung-strike-to-crash-the-global-ai-chip-market-and-the-whole-world-is-holding-its-breath/articleshow/131122022.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-05-15T16:38:21Z"
-      },
-      {
-        "title": "AI支出が2.5兆ドルに達する中、2026年に爆発的成長が見込まれるAI株トップ10",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/top-10-ai-stocks-2026-growth-1868849",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-05-15T06:53:00Z"
-      }
-    ]
-  },
   "2026-05-18": {
     "display": "2026年05月18日",
     "articles": [
@@ -932,6 +807,91 @@
         "url": "https://www.theregister.com/systems/2026/05/22/alibaba-just-admitted-its-struggling-to-keep-up-with-rival-chipmakers-and-ai-shops/5244665",
         "source": "Theregister.com",
         "publishedAt": "2026-05-22T02:39:40Z"
+      }
+    ]
+  },
+  "2026-05-25": {
+    "display": "2026年05月25日",
+    "articles": [
+      {
+        "title": "独占インタビュー：「革新か消滅か」— なぜAI生産性格差がカナダの中小企業にとって最大の脅威なのか",
+        "body": "Yanik Guillemette氏へのインタビュー モントリオール、2026年5月23日（GLOBE NEWSWIRE）— 今年4月に中小企業（SME）全体におけるAI導入に関する全国調査を発表した後、カナダと他国との生産性格差の拡大に関する警告が…",
+        "category": "企業動向",
+        "url": "https://financialpost.com/globe-newswire/exclusive-interview-innovate-or-evaporate-why-the-ai-productivity-gap-is-the-biggest-threat-to-canadian-smes",
+        "source": "Financial Post",
+        "publishedAt": "2026-05-23T13:31:17Z"
+      },
+      {
+        "title": "Claude Mythos AIが広く使用されているソフトウェアで10,000件の高深刻度の脆弱性を発見",
+        "body": "Anthropicは金曜日、Project Glasswingが先月サイバーセキュリティイニシアチブが稼働して以来、世界中で最も「システム的に」重要なソフトウェア全体で10,000件以上の高深刻度または重大な脆弱性を発見するのに貢献したことを公表した…",
+        "category": "企業動向",
+        "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+        "source": "Internet",
+        "publishedAt": "2026-05-23T11:55:35Z"
+      },
+      {
+        "title": "AIスタックがビジネスのルールをどのように書き換えているか",
+        "body": "オンプレミスコンピューティングからサービスとしてのソフトウェアへの移行は、技術モデルを変え、情報技術組織にソフトウェアの構築、購入、運用方法の近代化を余儀なくさせた。また、ソフトウェアベンダーが価格設定、提供、価値の付加を行う方法も再構築した…",
+        "category": "その他",
+        "url": "https://siliconangle.com/2026/05/23/ai-stacks-rewriting-rules-business/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-23T18:15:58Z"
+      },
+      {
+        "title": "Models.dev、ボーフォート郡の黒人オーラルヒストリー、ISS船外活動など：2026年5月23日土曜午後のResearchBuzz",
+        "body": "新しいリソース Calishat Snapsで発見：Models.dev、AIモデルのオープンソースデータベース。GitHubページより：「Models.devは、AIモデルの仕様、価格、機能に関する包括的なオープンソースデータベースです。[…]」",
+        "category": "その他",
+        "url": "https://researchbuzz.me/2026/05/23/models-dev-black-oral-histories-of-beaufort-county-iss-spacewalks-more-saturday-afternoon-researchbuzz-may-23-2026/",
+        "source": "Researchbuzz.me",
+        "publishedAt": "2026-05-23T19:01:59Z"
+      },
+      {
+        "title": "テック企業CEOたちがユニバーサル・ベーシック・インカムを求める。しかし代替案は何か？",
+        "body": "ワシントン・ポストは「AIの来たる大変動は一般のアメリカ人への大規模な現金注入を必要とするかもしれない」という議論を取り上げている。しかし、いくつかの代替案も検討している：AnthropicのCEOであるDario Amodeiは、同様の公的救済措置を求めており、これには…",
+        "category": "人物発言",
+        "url": "https://yro.slashdot.org/story/26/05/23/055224/tech-ceos-call-for-a-universal-basic-income-but-what-are-the-alternatives",
+        "source": "Slashdot.org",
+        "publishedAt": "2026-05-23T14:34:00Z"
+      },
+      {
+        "title": "トランプ政権のAI大統領令、政府との自主的なモデル共有に移行",
+        "body": "自主的なAIモデル共有の枠組みはセキュリティレビューを強化する可能性があるが、将来の規制アプローチと競争力について疑問を提起している。この投稿「トランプ政権のAI大統領令、政府との自主的なモデル共有に移行」はCrypto Briefingに最初に掲載された。",
+        "category": "規制・政策",
+        "url": "https://cryptobriefing.com/trump-ai-executive-order-voluntary-model-sharing/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-23T12:19:57Z"
+      },
+      {
+        "title": "インドネシア、AI政策で3つの柱を推進：省庁",
+        "body": "インドネシア通信デジタル省は、インドネシアが人工知能（AI）政策において3つの柱を設定したことを強調した…",
+        "category": "規制・政策",
+        "url": "https://en.antaranews.com/news/416755/indonesia-pushes-three-pillars-in-ai-policies-ministry",
+        "source": "Antaranews.com",
+        "publishedAt": "2026-05-23T06:19:57Z"
+      },
+      {
+        "title": "トランプ大統領、テック業界リーダーからのロビー活動を受けAI監視命令を延期",
+        "body": "AI監視の遅延は業界の自主規制につながる可能性があり、厳格な政府管理よりもイノベーションを優先する可能性がある。この投稿「トランプ大統領、テック業界リーダーからのロビー活動を受けAI監視命令を延期」はCrypto Briefingに最初に掲載された。",
+        "category": "規制・政策",
+        "url": "https://cryptobriefing.com/trump-postpones-ai-oversight-executive-order/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-23T00:13:44Z"
+      },
+      {
+        "title": "ベルリンのPeec AI、6ヶ月で売上を2倍以上の1,000万ドルARRに。同社の製品はブランドがChatGPTに表示されるのを支援",
+        "body": "AI生成検索結果におけるブランドの可視性を追跡・改善するベルリン拠点のスタートアップPeec AIは、TechCrunchが確認した内部ダッシュボードデータによると、年間経常収益が1,000万ドルを突破した。このマイルストーンは6ヶ月で達成された…",
+        "category": "資金・M&A",
+        "url": "https://thenextweb.com/news/peec-ai-berlin-10-million-arr-geo-ai-search/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-23T13:13:43Z"
+      },
+      {
+        "title": "NvidiaのCEOジェンスン・ファン氏、GTC台北の基調講演のため台湾に到着",
+        "body": "Nvidiaの台湾における戦略的プレゼンスは、グローバルなAIとテクノロジー競争における半導体サプライチェーンの重要な役割を浮き彫りにしている。この投稿「NvidiaのCEOジェンスン・ファン氏、GTC台北の基調講演のため台湾に到着」はCrypto Briefingに最初に掲載された。",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/nvidia-jensen-huang-taiwan-gtc-taipei/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-23T16:45:31Z"
       }
     ]
   }

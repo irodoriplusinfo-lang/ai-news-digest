@@ -1,49 +1,4 @@
 {
-  "2026-05-18": {
-    "display": "2026年05月18日",
-    "articles": [
-      {
-        "title": "存命中で最も引用されているコンピュータ科学者が、AIは10年以内に人類を絶滅させる可能性があると発言",
-        "body": "チューリング賞を受賞し、人工知能のゴッドファーザーの一人として広く認められているコンピュータ科学者のヨシュア・ベンジオ氏は、超知能機械が今後10年以内に人類に存亡の脅威をもたらす可能性があるという警告を改めて発した。インタビューの中で…",
-        "category": "その他",
-        "url": "https://thenextweb.com/news/bengio-ai-extinction-warning-lawzero-safety/",
-        "source": "The Next Web",
-        "publishedAt": "2026-05-16T09:32:42Z"
-      },
-      {
-        "title": "私は長年ビッグテックを研究してきた。AnthropicとPentagonの間で起きたことは私を恐怖させる",
-        "body": "何年もの間、私は規制当局がシリコンバレーに追いつけないのを見てきた。Anthropicと国防総省の対立は、私たちに残された時間がないことの証拠だ。",
-        "category": "その他",
-        "url": "https://fortune.com/2026/05/16/ftc-anthropic-pentagon-ai-regulation-federal-trade-commission/",
-        "source": "Fortune",
-        "publishedAt": "2026-05-16T12:15:00Z"
-      },
-      {
-        "title": "Figure AIのヒューマノイドロボットが72時間のノンストップライブストリーム中に88,000個の荷物を仕分け",
-        "body": "Figure AIのデモは物流における自律型ロボティクスの可能性を示しているが、精度の問題が商業的な実用性と導入の妨げになる可能性がある。この記事「Figure AIのヒューマノイドロボットが72時間のノンストップライブストリーム中に88,000個の荷物を仕分け」はC…に最初に掲載された。",
-        "category": "その他",
-        "url": "https://cryptobriefing.com/figure-ai-humanoid-robots-sort-packages/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-16T16:49:55Z"
-      },
-      {
-        "title": "このセクターがメモリ株に続くAIトレードの次のフロンティアとして参入",
-        "body": "AIトレードの次の波はメモリ株だけではない。光学技術株は2026年に急騰している。知っておくべきことはこちら。",
-        "category": "その他",
-        "url": "https://www.businessinsider.com/optics-stocks-memory-chips-ai-trade-lite-cien-glw-cohr-2026-5",
-        "source": "Business Insider",
-        "publishedAt": "2026-05-16T09:40:01Z"
-      },
-      {
-        "title": "NVIDIAのRubin UltraがIntelに救済策を与える可能性、UBSが4チップバリアント向けEMIB-Tパッケージングを指摘",
-        "body": "IntelがTSMCのCoWoSパッケージング技術の代替としての地位を確立するため、AIチップ設計者に対してEMIB-Tパッケージング技術を積極的に売り込んでいるという複数の報道がある中、別の顧客としてNVIDIAを獲得する可能性があると、UBSによると…",
-        "category": "その他",
-        "url": "https://wccftech.com/nvidias-rubin-ultra-could-hand-intel-a-lifeline-as-ubs-flags-emib-t-packaging-for-4-chip-variant/",
-        "source": "Wccftech",
-        "publishedAt": "2026-05-16T05:03:04Z"
-      }
-    ]
-  },
   "2026-05-19": {
     "display": "2026年05月19日",
     "articles": [
@@ -892,6 +847,51 @@
         "url": "https://cryptobriefing.com/nvidia-jensen-huang-taiwan-gtc-taipei/",
         "source": "Crypto Briefing",
         "publishedAt": "2026-05-23T16:45:31Z"
+      }
+    ]
+  },
+  "2026-05-26": {
+    "display": "2026年05月26日",
+    "articles": [
+      {
+        "title": "トランプ氏、デビッド・サックス氏が規制リスクを警告したことを受けAI大統領令を延期",
+        "body": "この延期は、AIイノベーションと規制監督のバランスを取る上での継続的な緊張関係を浮き彫りにしており、米中ハイテク競争の力学を強調している。",
+        "category": "規制・政策",
+        "url": "https://cryptobriefing.com/trump-postpones-ai-executive-order-sacks/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-24T00:59:46Z"
+      },
+      {
+        "title": "Anthropic、四半期収益が2倍となり9000億ドルの評価額を目指す",
+        "body": "Anthropicは300億ドル以上を調達し、9000億ドル以上の評価額となる可能性のある資金調達ラウンドをクローズする見込みであると、ブルームバーグが5月22日金曜日に匿名の情報筋を引用して報じた。この人工知能スタートアップは、早ければ今週中にもラウンドをクローズする可能性がある。",
+        "category": "資金・M&A",
+        "url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-eyes-900-billion-valuation-as-quarterly-revenue-doubles/",
+        "source": "pymnts.com",
+        "publishedAt": "2026-05-24T21:10:51Z"
+      },
+      {
+        "title": "ヒューマノイドロボット、荷物テストで休みなく稼働",
+        "body": "Figure AIは、同社の3体のヒューマノイドロボットが倉庫テストにおいて、人間による制御なしに24時間以上連続で自律的な荷物仕分けを完了したと主張している。",
+        "category": "応用技術",
+        "url": "https://www.foxnews.com/tech/humanoid-robots-work-nonstop-package-test",
+        "source": "Fox News",
+        "publishedAt": "2026-05-24T16:30:51Z"
+      },
+      {
+        "title": "NvidiaのCFOがGPU需要について明かした内容は、すべてのAI投資家が注目すべきもの",
+        "body": "AIブームは、よく知られた技術サイクルをたどるはずだった。需要の増加が生産を促進し、サプライチェーンが追いつき、価格は...",
+        "category": "企業動向",
+        "url": "https://247wallst.com/investing/2026/05/24/what-nvidias-cfo-just-revealed-about-gpu-demand-should-have-every-ai-investor-paying-attention/",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-05-24T16:43:22Z"
+      },
+      {
+        "title": "GSI Technology、APUプロジェクトが2027年の収益増加を示す中、エッジAIに賭ける",
+        "body": "GSI Technology（NASDAQ:GSIT）は、同社の連想処理ユニット（APU）技術を、クラウドではなくエッジでの人工知能ワークロード向けに位置づけている...",
+        "category": "企業動向",
+        "url": "https://www.marketbeat.com/instant-alerts/gsi-technology-bets-on-edge-ai-as-apu-projects-point-to-2027-revenue-ramp-2026-05-24/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+        "source": "MarketBeat",
+        "publishedAt": "2026-05-24T15:06:03Z"
       }
     ]
   }

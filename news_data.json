@@ -1,49 +1,4 @@
 {
-  "2026-05-19": {
-    "display": "2026年05月19日",
-    "articles": [
-      {
-        "title": "AIブッククラブ討論会の録画：マックス・テグマーク著『Life 3.0: 人工知能時代の人間であること』",
-        "body": "これはマックス・テグマーク著『Life 3.0: 人工知能時代の人間であること』についてのAIブッククラブ討論会の録画です。この討論会では、テグマークが描く超知能のビジョン、AIの目標とサブゴールの予測不可能性、そしてアシロマ（原則）について探求しています…",
-        "category": "人物発言",
-        "url": "https://idratherbewriting.com/blog/book-club-tegmark-life-3-0",
-        "source": "Idratherbewriting.com",
-        "publishedAt": "2026-05-17T07:00:00Z"
-      },
-      {
-        "title": "Eclipseにとって、25億ドルのCerebras勝利はフィジカルワールドへの投資テーゼ実現の始まりに過ぎない | TechCrunch",
-        "body": "10年前、リオール・スーザンにとって現実世界への投資は孤独な道だった。今、彼のファームはテック業界の中心に位置している。",
-        "category": "資金・M&A",
-        "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
-        "source": "TechCrunch",
-        "publishedAt": "2026-05-17T15:04:13Z"
-      },
-      {
-        "title": "ルンバを一般家庭に普及させた男が、あなたの犬をぬいぐるみロボットに置き換えようとしている",
-        "body": "iRobotを共同創業し、25年かけてルンバを世界で最も広く普及した家庭用ロボットに育て上げたロボット工学エンジニアのコリン・アングルが、次なる挑戦のプロトタイプを発表した：4本足で、ぬいぐるみに覆われた、あなたの周りについてくるように設計されたAIコンパニオンだ…",
-        "category": "応用技術",
-        "url": "https://thenextweb.com/news/roomba-creator-familiar-machines-ai-pet-robot/",
-        "source": "The Next Web",
-        "publishedAt": "2026-05-17T09:15:18Z"
-      },
-      {
-        "title": "NVIDIA（NVDA）が今買うべきファンダメンタルズの強い銘柄である理由",
-        "body": "NVIDIA Corporation（NASDAQ:NVDA）は今買うべきファンダメンタルズの強い銘柄の一つです。5月13日、バンク・オブ・アメリカは同社株の目標株価を引き上げました…",
-        "category": "企業動向",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/hers-why-nvidia-nvda-one-163849863.html",
-        "source": "Yahoo Entertainment",
-        "publishedAt": "2026-05-17T16:38:49Z"
-      },
-      {
-        "title": "なぜ今年ノートPCの価格が急騰したのか？大規模RAM不足を解説",
-        "body": "2026年、メモリコストが爆発的に上昇している。AI大手企業が生産能力の大部分を占有しているためで、これがノートPC価格の高騰につながっている。この状況を踏まえ、今年新しいノートPCを節約して購入する方法をご紹介する。最近、新しいノートPCを買いに行きましたか？深刻な状況が…",
-        "category": "その他",
-        "url": "https://uk.pcmag.com/laptops/162951/inside-2026-ram-crunch-why-ai-will-make-your-next-laptop-much-pricier",
-        "source": "PCMag.com",
-        "publishedAt": "2026-05-17T13:00:00Z"
-      }
-    ]
-  },
   "2026-05-20": {
     "display": "2026年05月20日",
     "articles": [
@@ -892,6 +847,91 @@
         "url": "https://www.marketbeat.com/instant-alerts/gsi-technology-bets-on-edge-ai-as-apu-projects-point-to-2027-revenue-ramp-2026-05-24/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
         "source": "MarketBeat",
         "publishedAt": "2026-05-24T15:06:03Z"
+      }
+    ]
+  },
+  "2026-05-27": {
+    "display": "2026年05月27日",
+    "articles": [
+      {
+        "title": "教皇レオ14世、人工知能を受け入れる世界における人間の尊厳の擁護に関する包括的な教えを発表",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://dailycaller.com/2026/05/25/pope-leo-xiv-issues-magnifica-humanitas-encyclical-upholding-human-dignity-artificial-intelligence-age/",
+        "source": "The Daily Caller",
+        "publishedAt": "2026-05-25T20:06:06Z"
+      },
+      {
+        "title": "教皇レオ14世がAIに関する回勅を発表、倫理的リスクを警告しAnthropicと提携",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://cryptobriefing.com/pope-leo-xiv-encyclical-ai-anthropic/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-25T18:48:31Z"
+      },
+      {
+        "title": "AIブームを支える言葉のサバイバルガイド",
+        "body": "",
+        "category": "その他",
+        "url": "https://www.businessinsider.com/ai-terms-definitions-glossary",
+        "source": "Business Insider",
+        "publishedAt": "2026-05-25T09:31:02Z"
+      },
+      {
+        "title": "トークンコストが急上昇する中、Dellはデスクトップ向けAIに注力",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://siliconangle.com/2026/05/25/on-prem-ai-computing-agentic-enterprise-delltechworld/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-25T15:57:21Z"
+      },
+      {
+        "title": "Anthropicポリシー責任者ジャック・クラーク氏、「AIは1年以内にノーベル賞受賞級の発見を助けるだろう」と発言",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://economictimes.indiatimes.com/news/international/us/anthropic-policy-chief-jack-clark-says-ai-will-help-make-a-nobel-prize-winning-discovery-within-a-year-/articleshow/131305800.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-05-25T09:42:57Z"
+      },
+      {
+        "title": "OpenAIのモデルが80年来の幾何学問題を解決したと研究者らが発表",
+        "body": "",
+        "category": "モデル発表",
+        "url": "https://www.naturalnews.com/2026-05-25-openai-model-solves-geometry-problem-researchers-say.html",
+        "source": "Naturalnews.com",
+        "publishedAt": "2026-05-25T06:00:00Z"
+      },
+      {
+        "title": "マスク氏、誰も使わないAIチャットボットのためにガスを燃やし、自身の「ソーラー電気経済」を放棄",
+        "body": "",
+        "category": "企業動向",
+        "url": "http://electrek.co/2026/05/25/musk-solar-hypocrisy-gas-ai-chatbot-space-solar-spacex-ipo/",
+        "source": "Electrek",
+        "publishedAt": "2026-05-25T14:54:28Z"
+      },
+      {
+        "title": "オタワは「ソブリン」AIへのCPP投資を望むが、安全かどうか疑問視する声も",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.nationalobserver.com/2026/05/25/news/ottawa-cpp-investments-questioned",
+        "source": "National Observer",
+        "publishedAt": "2026-05-25T08:55:13Z"
+      },
+      {
+        "title": "家庭用ヒューマノイドロボット市場規模、2031年までにCAGR 31.2%で85億6400万ドルに達する見込み | Valuates Reports",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.prnewswire.com/news-releases/home-humanoid-robot-market-size-forecast-to-hit-usd-8564-million-at-31-2-cagr-by-2031---valuates-reports-302781150.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-25T14:01:00Z"
+      },
+      {
+        "title": "IRENのCEOがAIブームに厳しい現実を突きつける11の言葉を発した",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://247wallst.com/investing/2026/05/25/irens-ceo-just-said-11-words-that-delivered-the-ai-boom-a-brutal-reality-check/",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-05-25T14:28:35Z"
       }
     ]
   }

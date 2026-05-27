@@ -1,153 +1,4 @@
 {
-  "2026-05-20": {
-    "display": "2026年05月20日",
-    "articles": [
-      {
-        "title": "メキシコ政府がClaudeを使用した単独ユーザーによって侵害され、150GBが流出",
-        "body": "",
-        "category": "その他",
-        "url": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
-        "source": "Konstantintkachuk.com",
-        "publishedAt": "2026-05-18T21:59:34Z"
-      },
-      {
-        "title": "Technoidentity創業者Venkat Chitturiが耐久性のあるプロダクトエンジニアリングに基づく2冊の新著を発刊",
-        "body": "",
-        "category": "その他",
-        "url": "https://www.prnewswire.com/news-releases/technoidentity-founder-venkat-chitturi-releases-two-new-books-based-on-durable-product-engineering-302774743.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-18T16:00:00Z"
-      },
-      {
-        "title": "制限付きClaude MythosモデルがGoogle Cloudに突然登場した理由",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.geeky-gadgets.com/claude-mythos-google-cloud/",
-        "source": "Geeky Gadgets",
-        "publishedAt": "2026-05-18T08:17:00Z"
-      },
-      {
-        "title": "MRI脳腫瘍セグメンテーションのためのGA駆動3D ResUNetGANを統合した新しいハイブリッドフレームワーク",
-        "body": "",
-        "category": "研究",
-        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349451",
-        "source": "Plos.org",
-        "publishedAt": "2026-05-18T14:00:00Z"
-      },
-      {
-        "title": "Musk対Altman裁判は、AIが間違った人々によって主導されていることを証明した",
-        "body": "",
-        "category": "人物発言",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
-        "source": "The Verge",
-        "publishedAt": "2026-05-18T19:03:26Z"
-      },
-      {
-        "title": "Anthropic幹部がローマ教皇レオと共に新たなAI教会政策声明を発表へ",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.forbes.com/sites/conormurray/2026/05/18/anthropic-official-will-join-pope-leo-for-new-ai-church-policy-statement/",
-        "source": "Forbes",
-        "publishedAt": "2026-05-18T15:04:08Z"
-      },
-      {
-        "title": "「ビッグAI」はタバコや石油企業と同様に規制を骨抜きにしている",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.theregister.com/ai-ml/2026/05/18/big-ai-is-subverting-regulations-just-like-tobacco-and-oil-firms/5241910",
-        "source": "Theregister.com",
-        "publishedAt": "2026-05-18T14:45:00Z"
-      },
-      {
-        "title": "立ち止まることのリスク：プレッシャー下にある医療システムにおけるAIのガバナンス",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://institute.global/insights/public-services/the-risk-of-standing-still-governing-ai-in-health-systems-under-pressure",
-        "source": "Institute.global",
-        "publishedAt": "2026-05-18T12:36:37Z"
-      },
-      {
-        "title": "ニック・クレッグが支援する企業がAIを使って世界の教育格差を埋める",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.computerweekly.com/news/366643090/Nick-Clegg-backed-company-using-AI-to-fill-global-education-gaps",
-        "source": "ComputerWeekly.com",
-        "publishedAt": "2026-05-18T04:45:00Z"
-      },
-      {
-        "title": "Kin Healthが患者向けAIノートテイカー構築のため900万ドルを調達 | TechCrunch",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
-        "source": "TechCrunch",
-        "publishedAt": "2026-05-18T15:26:00Z"
-      },
-      {
-        "title": "イーロン・マスクとサム・アルトマンはいかにして親友から激しいライバルになったか",
-        "body": "",
-        "category": "人物発言",
-        "url": "https://www.cnbc.com/2026/05/18/how-elon-musk-and-sam-altman-went-from-besties-to-bitter-rivals.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-18T05:00:01Z"
-      },
-      {
-        "title": "企業がAIの恩恵を受けるには汎用チャットボット以上のものが必要。今回の予算は助けになるか？",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://theconversation.com/businesses-need-more-than-generic-chatbots-to-benefit-from-ai-will-this-budget-help-282962",
-        "source": "The Conversation Africa",
-        "publishedAt": "2026-05-18T04:19:48Z"
-      },
-      {
-        "title": "NvidiaがAIスタートアップSimpliSmartの2000万ドル資金調達をリードし、評価額1億ドルに",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://economictimes.indiatimes.com/tech/funding/chipmaker-nvidia-in-talks-to-lead-20-million-round-in-gen-ai-startup-simplismart/articleshow/131153601.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-05-18T00:30:00Z"
-      },
-      {
-        "title": "自律型AIにはモデルレベルのガードレールを超えた安全策が必要と研究が指摘",
-        "body": "",
-        "category": "研究",
-        "url": "https://www.verdict.co.uk/emergence-ai-agent-model-study/",
-        "source": "Verdict",
-        "publishedAt": "2026-05-18T12:00:48Z"
-      },
-      {
-        "title": "フィジカルAI研究と2026年グローバル予測レポート：市場は2032年までに152.4億ドルに到達、CAGR 47.2%で成長、防衛近代化、AI医療支援、デジタルツインロボティクスが牽引",
-        "body": "",
-        "category": "その他",
-        "url": "https://www.globenewswire.com/news-release/2026/05/18/3296511/28124/en/Physical-AI-Research-and-Global-Forecast-Report-2026-Market-to-Reach-15-24-Billion-by-2032-Growing-at-a-CAGR-of-47-2-Driven-by-Defense-Modernization-AI-Medical-Assistances-Digital-.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-18T11:28:00Z"
-      },
-      {
-        "title": "チップ業界がAIを追求する中、米国国立研究所はスーパーコンピュータに新規参入者を模索",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://economictimes.indiatimes.com/tech/technology/as-chip-industry-chases-ai-us-national-labs-look-to-newcomers-for-supercomputers/articleshow/131176216.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-05-18T12:09:56Z"
-      },
-      {
-        "title": "チップ不足は別の衣を纏った湾岸エネルギー危機である",
-        "body": "",
-        "category": "その他",
-        "url": "https://www.forbes.com/sites/guneyyildiz/2026/05/18/the-chip-shortage-is-a-gulf-energy-crisis-wearing-a-different-costume/",
-        "source": "Forbes",
-        "publishedAt": "2026-05-18T06:00:00Z"
-      },
-      {
-        "title": "週間ニュースまとめ：TSMCがAI供給逼迫に直面、Samsung、Intel、Appleがファウンドリ代替を模索",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.digitimes.com/news/a20260518VL200/digitimes-asia-weekly-news-roundup-apple-intel-samsung-tsmc.html",
-        "source": "Digitimes",
-        "publishedAt": "2026-05-18T01:49:16Z"
-      }
-    ]
-  },
   "2026-05-21": {
     "display": "2026年05月21日",
     "articles": [
@@ -932,6 +783,139 @@
         "url": "https://247wallst.com/investing/2026/05/25/irens-ceo-just-said-11-words-that-delivered-the-ai-boom-a-brutal-reality-check/",
         "source": "24/7 Wall St.",
         "publishedAt": "2026-05-25T14:28:35Z"
+      }
+    ]
+  },
+  "2026-05-28": {
+    "display": "2026年05月28日",
+    "articles": [
+      {
+        "title": "なぜ『Critterz』がAI映画制作の真のテストなのか",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.forbes.com/sites/maureenkerr/2026/05/26/why-critterz-is-the-real-test-of-ai-filmmaking/",
+        "source": "Forbes",
+        "publishedAt": "2026-05-26T21:26:13Z"
+      },
+      {
+        "title": "Myriad Genetics社がProlaris® + AIを発売、ゲノミクスとデジタル病理学AIを組み合わせた初の前立腺がん検査",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.globenewswire.com/news-release/2026/05/26/3301448/15459/en/Myriad-Genetics-Launches-Prolaris-AI-the-First-Prostate-Cancer-Test-to-Combine-Genomics-and-Digital-Pathology-Artificial-Intelligence-AI.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-26T20:05:00Z"
+      },
+      {
+        "title": "AIが私たちを監視したり、罪のない人々を殺したりしないようにする方法",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://reason.com/video/2026/05/26/how-to-make-sure-ai-doesnt-spy-on-us-or-kill-innocent-people/",
+        "source": "Reason",
+        "publishedAt": "2026-05-26T15:55:01Z"
+      },
+      {
+        "title": "AIを活用したサイバースパイ活動は国家安全保障上の脅威。Integrated Cyber Solutionsが解決策を提示",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.prnewswire.com/news-releases/ai-enabled-cyberespionage-is-a-national-security-threat-integrated-cyber-solutions-has-an-answer-302781938.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-26T14:06:00Z"
+      },
+      {
+        "title": "LuffaがGoFintech Quantumから2億2000万ドルの評価額で戦略的投資を獲得、AI＋フィンテックの最前線を開拓",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://www.globenewswire.com/news-release/2026/05/26/3301199/0/en/Luffa-Secures-Strategic-Investment-from-GoFintech-Quantum-at-US-220-Million-Valuation-Pioneering-AI-Fintech-Frontier.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-26T13:30:00Z"
+      },
+      {
+        "title": "教皇レオ14世がAIを産業革命に例える — 大手AI企業に代わる新たな選択肢が形成される中で",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://theconversation.com/pope-leo-xiv-compares-ai-to-the-industrial-revolution-as-new-alternatives-to-big-ai-firms-take-shape-283249",
+        "source": "The Conversation Africa",
+        "publishedAt": "2026-05-26T13:24:00Z"
+      },
+      {
+        "title": "教皇レオの「AI回勅」は多くを語る。しかし批評家たちは的外れだと指摘",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://fortune.com/2026/05/26/pope-leo-ai-encyclical-ai-regulation-anthropic/",
+        "source": "Fortune",
+        "publishedAt": "2026-05-26T17:28:19Z"
+      },
+      {
+        "title": "独占：Canyon Codeがエージェント型アプリケーションワークフローの可視化のため500万ドルのプレシード資金調達を完了",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/05/26/canyon-code-closes-5m-pre-seed-round-bring-visibility-agentic-application-workflows/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-26T16:00:19Z"
+      },
+      {
+        "title": "教皇レオのAIリスク警告に対し、テック大手は概ね沈黙",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://www.nbcnews.com/tech/innovation/tech-titans-mostly-silent-pope-leos-warning-risks-ai-rcna346903",
+        "source": "NBC News",
+        "publishedAt": "2026-05-26T19:36:37Z"
+      },
+      {
+        "title": "GCCデータセンタープロジェクト市場分析レポート2026：クラウド導入、AIワークロード、データローカライゼーションがインフラ優先事項を再形成する時代のプロジェクト別建設状況",
+        "body": "",
+        "category": "その他",
+        "url": "https://www.globenewswire.com/news-release/2026/05/26/3301259/28124/en/GCC-Data-Centre-Projects-Market-Analysis-Report-2026-Project-by-Project-View-of-Buildouts-at-a-Time-When-Cloud-Adoption-AI-Workloads-and-Data-Localisation-are-Reshaping-Infrastruct.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-26T14:44:00Z"
+      },
+      {
+        "title": "共和党はAIの荒野で迷子になっている",
+        "body": "",
+        "category": "規制・政策",
+        "url": "http://nymag.com/intelligencer/article/republicans-are-lost-in-the-ai-wilderness.html",
+        "source": "New York Magazine",
+        "publishedAt": "2026-05-26T10:00:44Z"
+      },
+      {
+        "title": "OpenRouterが企業向けAI推論ルーティングの整備に1億1300万ドルを調達",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/05/26/openrouter-raises-113m-bring-order-enterprise-ai-inference-routing/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-26T16:10:48Z"
+      },
+      {
+        "title": "PONY AI Inc.が2026年第1四半期決算を発表、ロボタクシー収益の継続的成長とフリート展開の拡大",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.globenewswire.com/news-release/2026/05/26/3300841/0/en/PONY-AI-Inc-Reports-First-Quarter-2026-Financial-Results-with-Continued-Growth-in-Robotaxi-Revenues-and-Expanding-Fleet-Deployment.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-26T09:00:00Z"
+      },
+      {
+        "title": "ロボティクスにChatGPTモーメントは訪れるか？",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.ponoko.com/blog/ponoko/will-robotics-have-a-chatgpt-moment/",
+        "source": "Ponoko.com",
+        "publishedAt": "2026-05-26T06:50:18Z"
+      },
+      {
+        "title": "中国がヒューマノイドを実生活に備えさせる中、ヒューマノイドたちは学校に向かう",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://newatlas.com/ai-humanoids/first-humanoid-training-academy/",
+        "source": "New Atlas",
+        "publishedAt": "2026-05-26T01:52:32Z"
+      },
+      {
+        "title": "オンデバイスAI市場規模が2035年までに1852.3億ドルに達する見込み | SNS Insiderによる調査",
+        "body": "",
+        "category": "その他",
+        "url": "https://www.globenewswire.com/news-release/2026/05/26/3301200/0/en/On-Device-AI-Market-Size-to-Hit-USD-185-23-Billion-by-2035-Research-by-SNS-Insider.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-26T13:30:00Z"
       }
     ]
   }

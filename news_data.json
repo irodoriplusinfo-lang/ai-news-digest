@@ -1,169 +1,4 @@
 {
-  "2026-05-21": {
-    "display": "2026年05月21日",
-    "articles": [
-      {
-        "title": "Google、「世界をシミュレートできる」次世代AIビデオビルダー「Gemini Omni」を発表",
-        "body": "",
-        "category": "モデル発表",
-        "url": "https://decrypt.co/368393/google-unveils-gemini-omni-next-gen-ai-video-builder-simulate-world",
-        "source": "Decrypt",
-        "publishedAt": "2026-05-19T19:26:50Z"
-      },
-      {
-        "title": "イーロン・マスク対サム・アルトマン：法廷での衝突よりAIの支配権争いこそが大きな戦い",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://economictimes.indiatimes.com/opinion/et-commentary/elon-musk-vs-sam-altman-ai-control-not-courtroom-clash-is-the-bigger-battle/articleshow/131209291.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-05-19T18:26:54Z"
-      },
-      {
-        "title": "Google I/O 2026：Googleが「エージェント型Gemini時代」に突入",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/google-i/o-2026-google-enters-its-agentic-gemini-era/articleshow/131208621.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-05-19T18:12:24Z"
-      },
-      {
-        "title": "AIBoticsがARYA AI Labsと戦略的AIパートナーシップおよびジョイントベンチャーを締結、次世代決定論的「ワールドモデル」の開発を推進",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.globenewswire.com/news-release/2026/05/19/3297667/0/en/AIBotics-Enters-Strategic-AI-Partnership-and-Joint-Venture-with-ARYA-AI-Labs-to-Advance-Next-Generation-Deterministic-World-Models.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-19T13:45:00Z"
-      },
-      {
-        "title": "脆弱性の悪用が侵害の主要侵入経路に、2026年業界全体のDBIRが報告",
-        "body": "",
-        "category": "その他",
-        "url": "https://www.globenewswire.com/news-release/2026/05/19/3297614/0/en/Vulnerability-Exploitation-Top-Breach-Entry-Point-2026-Industry-Wide-DBIR-Finds.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-19T13:02:00Z"
-      },
-      {
-        "title": "OpenAI共同創業者アンドレイ・カルパシーがAnthropicに参加、LLM研究を強化",
-        "body": "",
-        "category": "人物発言",
-        "url": "https://cryptobriefing.com/open-ai-founder-andrej-karpathy-joins-anthropic/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-19T15:48:11Z"
-      },
-      {
-        "title": "時代は変わりゆく：ワシントンが突如としてAI規制に前向きに",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://fortune.com/2026/05/19/trump-pivots-towards-ai-regulation-in-face-mounting-ai-backlash-china-ai-safety-talks/",
-        "source": "Fortune",
-        "publishedAt": "2026-05-19T18:21:17Z"
-      },
-      {
-        "title": "元OpenAI職員らがxAIの安全性問題がSpaceX IPOに影響を与える可能性を警告",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://cryptobriefing.com/xai-safety-issues-spacex-ipo-warning/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-19T15:30:42Z"
-      },
-      {
-        "title": "元OpenAI職員らがxAIの安全性記録の悪さがSpaceXのIPOを複雑にする可能性を警告",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
-        "source": "Wired",
-        "publishedAt": "2026-05-19T15:00:28Z"
-      },
-      {
-        "title": "マスク対アルトマン：OpenAI判決について知っておくべきこと",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.aljazeera.com/news/2026/5/19/musk-vs-altman-what-to-know-about-the-openai-verdict",
-        "source": "Al Jazeera English",
-        "publishedAt": "2026-05-19T10:50:45Z"
-      },
-      {
-        "title": "AI：ホワイトハウスの政策転換",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://theweek.com/tech/white-house-ai-policy-pivot",
-        "source": "The Week Magazine",
-        "publishedAt": "2026-05-19T20:21:47Z"
-      },
-      {
-        "title": "イーロン・マスクとサム・アルトマンは同じ側にいる",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://newrepublic.com/article/210626/elon-musk-sam-altman-side",
-        "source": "The New Republic",
-        "publishedAt": "2026-05-19T17:08:29Z"
-      },
-      {
-        "title": "英国人の5人に1人がAIによる解雇が市民不安を引き起こす可能性があると考えている",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.theregister.com/ai-ml/2026/05/19/1-in-5-brits-think-ai-layoffs-could-trigger-civil-unrest/5242444",
-        "source": "Theregister.com",
-        "publishedAt": "2026-05-19T10:59:00Z"
-      },
-      {
-        "title": "連邦政府がAI導入を急ぐ中、人材、透明性、柔軟性が依然として不可欠",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.techradar.com/pro/as-the-federal-government-races-to-adopt-ai-talent-transparency-and-flexibility-remain-vital",
-        "source": "TechRadar",
-        "publishedAt": "2026-05-19T09:58:14Z"
-      },
-      {
-        "title": "アメリカのAIに対するキャンペーンへの外国の影響",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://freerepublic.com/focus/f-news/4379963/posts",
-        "source": "Freerepublic.com",
-        "publishedAt": "2026-05-19T05:38:25Z"
-      },
-      {
-        "title": "Amazon Bedrockでのプログラマティックツール呼び出しの実装",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock/",
-        "source": "Amazon.com",
-        "publishedAt": "2026-05-19T15:17:00Z"
-      },
-      {
-        "title": "エンタープライズAIスタートアップUnframeが、1年目に契約額1億ドルを達成後、5000万ドルを調達",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://siliconangle.com/2026/05/19/enterprise-ai-startup-unframe-raises-50m-booking-100m-contract-value-year-one/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-19T12:00:31Z"
-      },
-      {
-        "title": "韓国のスタートアップがAI訓練のために労働者の動きをキャプチャ",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.ponoko.com/blog/ponoko/south-korean-startup-captures-workers-movement-to-train-ai/",
-        "source": "Ponoko.com",
-        "publishedAt": "2026-05-19T04:00:00Z"
-      },
-      {
-        "title": "Figure AIがロボットと人間の荷物仕分け競争を実施。ロボットが敗北",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.businessinsider.com/figure-ai-intern-beats-robot-in-package-sorting-challenge-2026-5",
-        "source": "Business Insider",
-        "publishedAt": "2026-05-19T09:00:01Z"
-      },
-      {
-        "title": "DeepSeekと中国のAIブームは国家資金によってますます支えられている",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://fortune.com/2026/05/19/deepseek-china-ai-venture-capital-nvidia-pitchbook-trends-term-sheet/",
-        "source": "Fortune",
-        "publishedAt": "2026-05-19T10:08:19Z"
-      }
-    ]
-  },
   "2026-05-22": {
     "display": "2026年05月22日",
     "articles": [
@@ -916,6 +751,171 @@
         "url": "https://www.globenewswire.com/news-release/2026/05/26/3301200/0/en/On-Device-AI-Market-Size-to-Hit-USD-185-23-Billion-by-2035-Research-by-SNS-Insider.html",
         "source": "GlobeNewswire",
         "publishedAt": "2026-05-26T13:30:00Z"
+      }
+    ]
+  },
+  "2026-05-29": {
+    "display": "2026年05月29日",
+    "articles": [
+      {
+        "title": "AIで命を救う医師から起業家への転身者を紹介",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.forbes.com/sites/zinnialee/2026/05/27/meet-the-doctor-turned-entrepreneur-using-ai-to-save-lives/",
+        "source": "Forbes",
+        "publishedAt": "2026-05-27T21:19:05Z"
+      },
+      {
+        "title": "WhiteFiber、短期成長イニシアチブ支援のため1億ドルの遅延引出ファシリティを確保",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://www.prnewswire.com/news-releases/whitefiber-secures-100-million-delayed-draw-facility-to-support-near-term-growth-initiatives-302783598.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-27T21:00:00Z"
+      },
+      {
+        "title": "AIバブル",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://nooneshappy.com/article/the-ai-bubble/",
+        "source": "Nooneshappy.com",
+        "publishedAt": "2026-05-27T20:23:56Z"
+      },
+      {
+        "title": "AIに関する重要な視点 – 誰が勝者であり、なぜ勝つのかについての明確化",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.nextbigfuture.com/2026/05/key-ai-perspective-clarity-about-who-is-and-will-win-and-why.html",
+        "source": "Next Big Future",
+        "publishedAt": "2026-05-27T19:16:16Z"
+      },
+      {
+        "title": "AppLovin株が好調な決算とAI広告の勢いで12%急騰し576ドルに",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/applovin-shares-soar-12-576-strong-earnings-ai-advertising-momentum-1869579",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-05-27T16:45:19Z"
+      },
+      {
+        "title": "Floatboat発表：カレンダーから仕事を実行するプロアクティブエージェントOS",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.globenewswire.com/news-release/2026/05/27/3302263/0/en/Floatboat-Launches-The-Proactive-Agent-OS-That-Runs-Work-From-Your-Calendar.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-27T16:20:00Z"
+      },
+      {
+        "title": "Cook、AIが経済と金融システムにもたらす機会とリスク",
+        "body": "",
+        "category": "人物発言",
+        "url": "https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm",
+        "source": "Federalreserve.gov",
+        "publishedAt": "2026-05-27T19:55:00Z"
+      },
+      {
+        "title": "Doppel、フィッシングキャンペーンを根本から阻止するエージェンティックメールセキュリティを発表",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://siliconangle.com/2026/05/27/doppel-launches-agentic-email-security-disrupt-phishing-campaigns-source/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-05-27T13:00:41Z"
+      },
+      {
+        "title": "Gavin Newsom、2028年大統領選の可能性を前にAIでポピュリスト路線へ",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.nbcnews.com/politics/2028-election/gavin-newsom-populist-ai-2028-presidential-run-rcna346926",
+        "source": "NBC News",
+        "publishedAt": "2026-05-27T17:25:16Z"
+      },
+      {
+        "title": "進歩派の教皇がAIに狙いを定め、その奇跡を殺すリスク",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.foxnews.com/opinion/progressive-pope-takes-aim-ai-risks-killing-miracles",
+        "source": "Fox News",
+        "publishedAt": "2026-05-27T09:00:09Z"
+      },
+      {
+        "title": "トランプはAIパネルに誰を任命したか？ #政治",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://alltoc.com/politics/who-did-trump-appoint-to-the-ai-panel",
+        "source": "Alltoc.com",
+        "publishedAt": "2026-05-27T06:03:00Z"
+      },
+      {
+        "title": "トランプ、競争とロビー活動の報告を受けAI監督令を延期",
+        "body": "",
+        "category": "規制・政策",
+        "url": "https://www.naturalnews.com/2026-05-27-trump-delays-ai-oversight-order-amid-competition.html",
+        "source": "Naturalnews.com",
+        "publishedAt": "2026-05-27T06:00:00Z"
+      },
+      {
+        "title": "私たちはAIによって滅ぼされるのか？",
+        "body": "",
+        "category": "その他",
+        "url": "https://www.thefreedomfrequency.org/p/are-we-doomed-by-ai",
+        "source": "Thefreedomfrequency.org",
+        "publishedAt": "2026-05-27T00:00:00Z"
+      },
+      {
+        "title": "誇大宣伝の海の中で、聞こえてこないAIの「中身のない話」",
+        "body": "",
+        "category": "その他",
+        "url": "https://theconversation.com/in-a-sea-of-hype-here-are-the-ai-nothingburgers-you-dont-hear-about-283767",
+        "source": "The Conversation Africa",
+        "publishedAt": "2026-05-27T20:14:01Z"
+      },
+      {
+        "title": "Fireworks AI、150億ドルの評価額で資金調達を模索、10月の価格タグのほぼ4倍に",
+        "body": "",
+        "category": "資金・M&A",
+        "url": "https://cryptobriefing.com/fireworks-ai-funding-15-billion-valuation/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-27T00:33:23Z"
+      },
+      {
+        "title": "RoboSense、2026年第1四半期に出荷量が前年比1,458.8%急増し、ロボティクス向けLiDARで世界的優位性を主張",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.prnewswire.com/news-releases/robosense-asserts-global-dominance-in-lidar-for-robotics-with-1-458-8-yoy-shipment-surge-in-q1-2026--302783148.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-27T13:30:00Z"
+      },
+      {
+        "title": "oToBriteとTuring Drive、COMPUTEX 2026でフィジカルAI無人車両アプリケーションを展示",
+        "body": "",
+        "category": "応用技術",
+        "url": "https://www.prnewswire.com/news-releases/otobrite-and-turing-drive-showcase-physical-ai-unmanned-vehicle-applications-at-computex-2026-302781683.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-27T09:00:00Z"
+      },
+      {
+        "title": "SpaceX、軌道AIに十分なチップが見つからないことを認める、「現在入手可能な量を大幅に上回る」必要があると — IPO書類のリスク要因では、野心的なTeraFabプロジェクトが成功しない可能性も示唆",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-admits-it-cant-find-enough-chips-for-orbital-ai-yet-requires-significantly-more-than-are-currently-available-to-us-firms-risk-factors-in-ipo-paperwork-also-says-ambitious-terafab-project-may-not-be-successful",
+        "source": "Tom's Hardware UK",
+        "publishedAt": "2026-05-27T11:52:53Z"
+      },
+      {
+        "title": "Qualcomm-ByteDanceのASIC取引は、設計上米国の輸出規制を回避",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://thenextweb.com/news/qualcomm-bytedance-ai-chip-deal-asics/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-27T09:23:34Z"
+      },
+      {
+        "title": "ByteDance、AI拡大に最大700億ドルの設備投資を計画",
+        "body": "",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/bytedance-70b-ai-capital-spending/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-27T08:24:09Z"
       }
     ]
   }

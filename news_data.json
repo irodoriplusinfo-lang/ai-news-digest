@@ -1,145 +1,4 @@
 {
-  "2026-05-22": {
-    "display": "2026年05月22日",
-    "articles": [
-      {
-        "title": "スクープ：トランプ大統領のAI大統領令はセキュリティ上の懸念を先送りにする見込み",
-        "body": "デイリー・シグナル独占—ドナルド・トランプ大統領は今週後半に人工知能の安全性に関する大統領令に署名する見通しだが、草案に詳しい情報筋によると、この指令は潜在的な国家安全保障上の脅威をいかに封じ込めるかという重要な問題には答えないという…",
-        "category": "規制・政策",
-        "url": "https://www.dailysignal.com/2026/05/20/trump-order-punt-security-concerns/",
-        "source": "Daily Signal",
-        "publishedAt": "2026-05-20T20:27:46Z"
-      },
-      {
-        "title": "Applied Digitalが重要なマイルストーンを達成、第4キャンパスPolaris Forge 3での米国ハイパースケーラーとの契約容量が1GWを突破",
-        "body": "Applied Digitalは、第4のAIファクトリーキャンパスであるPolaris Forge 3において、米国を拠点とする高格付けハイパースケーラーと75億ドルの長期リース契約を締結した…",
-        "category": "企業動向",
-        "url": "https://www.globenewswire.com/news-release/2026/05/20/3298880/0/en/Applied-Digital-Reaches-Significant-Milestone-Surpassing-1-GW-of-Contracted-Capacity-with-U-S-Based-High-Investment-Grade-Hyperscaler-Lease-at-Fourth-Campus-Polaris-Forge-3.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-20T20:15:00Z"
-      },
-      {
-        "title": "Meta株が0.6%上昇、好調なQ1決算の中でAI再編に伴うレイオフ開始",
-        "body": "Meta Platforms Inc.はAI開発に注力するため、8,000人の人員削減を伴う組織再編を行っている。同社は好調な財務業績を報告し、AIインフラへの設備投資を増加させる計画である。",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/meta-platforms-restructures-workforce-ai-expansion-1869235",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-05-20T15:46:29Z"
-      },
-      {
-        "title": "Show HN: Prism Coder – MCPツールルーティング判断用にファインチューニングされたQwen3.5-14B",
-        "body": "AIエージェントのためのマインドパレス - HIPAA強化された認知アーキテクチャで、オンデバイスLLM（prism-coder:7b）、ヘブ学習、ACT-R拡散活性化、敵対的評価、永続メモリを搭載…",
-        "category": "モデル発表",
-        "url": "https://github.com/dcostenco/prism-coder",
-        "source": "Github.com",
-        "publishedAt": "2026-05-20T16:50:00Z"
-      },
-      {
-        "title": "InformaticaがエージェントAI戦略を拡大、ヘッドレスデータサービスと統合エージェントガバナンスを発表",
-        "body": "Salesforce Inc.に買収されて以来初の大きな発表として、データ管理ベンダーのInformaticaは本日、主力製品であるIntelligent Data Management Cloudの「ヘッドレス」バージョンを発表し、人工知能…を構築する企業向けのリソースとして位置付けた。",
-        "category": "企業動向",
-        "url": "https://siliconangle.com/2026/05/20/informatica-expands-agentic-ai-strategy-headless-data-services-unified-agent-governance/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-20T13:00:12Z"
-      },
-      {
-        "title": "独占：Juiceboxの自律型採用エージェントが候補者を積極的に発掘",
-        "body": "Juicebox App Inc.は本日、採用チームが複数のオープンポジションに対して同時に候補者を積極的に特定・アプローチできる自律型採用エージェントスイートを発表した。候補者の推薦、アウトリーチメッセージの作成、候補者の発掘を支援する…",
-        "category": "応用技術",
-        "url": "https://siliconangle.com/2026/05/20/exclusive-juicebox-autonomous-recruiting-agents-help-source-candidates-proactively/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-20T13:00:10Z"
-      },
-      {
-        "title": "トランプ大統領、政府に先進AIモデルへの早期アクセスを与える大統領令を計画",
-        "body": "この大統領令はAIイノベーションを減速させ、大企業を優遇し、米国の競争力に影響を与える可能性があり、政府の監視に関する疑問を提起している。この記事「トランプ大統領、政府に先進AIモデルへの早期アクセスを与える大統領令を計画」はCry…に最初に掲載された。",
-        "category": "規制・政策",
-        "url": "https://cryptobriefing.com/trump-executive-order-early-access-ai-models/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-20T19:21:27Z"
-      },
-      {
-        "title": "ベゾス氏が億万長者を擁護、AIを称賛、税金について語り、CNBCの大型インタビューでトランプを称える",
-        "body": "ジェフ・ベゾス氏は、Amazonがメラニア・トランプ大統領夫人に関するドキュメンタリーを公開する決定が大統領に取り入ろうとする試みだという非難を否定した。",
-        "category": "人物発言",
-        "url": "https://www.cnbc.com/2026/05/20/jeff-bezos-taxes-ai-corporations-trump.html",
-        "source": "CNBC",
-        "publishedAt": "2026-05-20T18:40:08Z"
-      },
-      {
-        "title": "トランプ大統領のAI大統領令は、政府とのモデル共有を任意とする見込みと報道",
-        "body": "大統領令…どうぞよろしく？",
-        "category": "規制・政策",
-        "url": "https://gizmodo.com/trumps-ai-executive-order-will-reportedly-make-sharing-models-with-the-government-voluntary-2000758417",
-        "source": "Gizmodo.com",
-        "publishedAt": "2026-05-20T09:30:58Z"
-      },
-      {
-        "title": "汎アフリカイニシアチブがより安全で包括的なAIシステムを目指す",
-        "body": "新しい汎アフリカフェローシップは、バイアスや悪用などのリスクに対処するため、アフリカにおけるより安全で包括的、説明責任のあるAIガバナンスのための能力構築を目指している。続きを読む：https://punchng.com/pan-african-initiative-targets-safer-inclusive-ai-systems/",
-        "category": "規制・政策",
-        "url": "https://punchng.com/pan-african-initiative-targets-safer-inclusive-ai-systems/",
-        "source": "The Punch",
-        "publishedAt": "2026-05-20T03:54:22Z"
-      },
-      {
-        "title": "新調査で米国人の大半がAI開発のペースが速すぎると考えていることが判明—また、全員が本当に恩恵を受けるとは思っていない",
-        "body": "米国人の大半がAIイノベーションの急速なペースを懸念している—規制当局は今、追いつくのに苦労しているのか？",
-        "category": "規制・政策",
-        "url": "https://www.techradar.com/pro/new-study-finds-most-americans-think-the-pace-of-ai-development-is-moving-too-fast-and-they-also-dont-believe-everyone-will-truly-benefit-from-it",
-        "source": "TechRadar",
-        "publishedAt": "2026-05-20T00:05:00Z"
-      },
-      {
-        "title": "8,000台のロボットが物流大手DHLサプライチェーン内の仕事をいかに変えているか",
-        "body": "DHLサプライチェーンは、コスト削減、従業員離職率の低下、労働者満足度の向上のために、Locus Robotics、Boston Dynamics、Robust AIという3つの主要ロボティクスベンダーに依存している。",
-        "category": "応用技術",
-        "url": "https://fortune.com/2026/05/20/dhl-supply-chainrobotics-workers-cio/",
-        "source": "Fortune",
-        "publishedAt": "2026-05-20T16:56:49Z"
-      },
-      {
-        "title": "NanoCoが1,200万ドルを調達、すべてのオフィスワーカー向けの安全なエンタープライズグレードのエージェントAIアシスタントNanoClawを加速",
-        "body": "設計段階からセキュリティを考慮した急成長中のオープンソース人工知能エージェントNanoClawを開発するスタートアップNanoCoは本日、シードラウンドで1,200万ドルを調達したと発表した。過剰申込となったこのラウンドはValley Capital Partnersが主導し、…も参加した。",
-        "category": "資金・M&A",
-        "url": "https://siliconangle.com/2026/05/20/nanoco-raises-12m-accelerate-nanoclaw-secure-enterprise-grade-agentic-ai-assistant-every-office-worker/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-20T14:00:55Z"
-      },
-      {
-        "title": "ロボティクスにChatGPTモーメントは訪れるか？",
-        "body": "今後数十年の間に、何十億もの自律型AIパワードロボットが工場で人間と一緒に働き、倉庫で退屈な作業を行い、高齢者をケアし、危険な災害地域で支援し、玄関先に荷物や食品を届け、やがては…",
-        "category": "応用技術",
-        "url": "https://spectrum.ieee.org/robotics-ai-breakthrough",
-        "source": "Ieee.org",
-        "publishedAt": "2026-05-20T11:00:01Z"
-      },
-      {
-        "title": "NvidiaがRubinプラットフォームの出荷を2027会計年度下半期に予定",
-        "body": "Nvidiaの統合AIシステムへのシフトはAIインフラ市場を再構築し、競争を激化させ、NANDサプライチェーンに影響を与える可能性がある。この記事「NvidiaがRubinプラットフォームの出荷を2027会計年度下半期に予定」はCrypto Briefingに最初に掲載された。",
-        "category": "企業動向",
-        "url": "https://cryptobriefing.com/nvidia-rubin-platform-shipping-fy27/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-20T21:49:25Z"
-      },
-      {
-        "title": "Nvidia、Vera Rubin AIプラットフォームが2026年下半期に予定通り進行中と確認",
-        "body": "NvidiaのVera Rubin AIプラットフォームはAIインフラを再構築し、暗号市場に影響を与え、2027年までにサプライチェーン圧力を生み出す可能性がある。この記事「Nvidia、Vera Rubin AIプラットフォームが2026年下半期に予定通り進行中と確認」はCrypto Briefingに最初に掲載された。",
-        "category": "企業動向",
-        "url": "https://cryptobriefing.com/nvidia-vera-rubin-ai-platform-h2-2026/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-20T21:41:08Z"
-      },
-      {
-        "title": "Nvidiaが時間外取引後に決算発表、オプション市場は4.8%の変動を予想",
-        "body": "Nvidiaの決算はテクノロジーを超えて、AIと暗号市場に影響を与え、ガイダンスがリスク選好と資産評価を形成する。この記事「Nvidiaが時間外取引後に決算発表、オプション市場は4.8%の変動を予想」はCrypto Briefingに最初に掲載された。",
-        "category": "企業動向",
-        "url": "https://cryptobriefing.com/nvidia-earnings-expected-move/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-20T19:43:29Z"
-      }
-    ]
-  },
   "2026-05-23": {
     "display": "2026年05月23日",
     "articles": [
@@ -916,6 +775,171 @@
         "url": "https://cryptobriefing.com/bytedance-70b-ai-capital-spending/",
         "source": "Crypto Briefing",
         "publishedAt": "2026-05-27T08:24:09Z"
+      }
+    ]
+  },
+  "2026-05-30": {
+    "display": "2026年05月30日",
+    "articles": [
+      {
+        "title": "AnthropicのClaude Opus 4.8は同社史上最も誠実なAIモデル、Mythosは数週間以内に登場予定",
+        "body": "Anthropicは、同社のフラグシップAIモデルのアップグレード版であるClaude Opus 4.8をリリースした。同社によると、このモデルはより誠実で、エージェントタスクにおいてより信頼性が高く、自身のミスを検出する能力が向上しているという。このモデルは前モデルと同価格で即座に利用可能となっている。",
+        "category": "モデル発表",
+        "url": "https://thenextweb.com/news/anthropics-claude-opus-4-8-is-its-most-honest-ai-model-yet-and-mythos-is-coming-in-weeks/",
+        "source": "The Next Web",
+        "publishedAt": "2026-05-28T18:25:48Z"
+      },
+      {
+        "title": "OpenAIとAnthropicがAI収益で圧倒的優位——コミュニケーション手法は大きく異なる",
+        "body": "2026年AIカンパニー・コミュニケーション調査によると、主要AI企業の約3分の1が定期的に実際の利用数を開示していることが判明。AI収益リーダーとAIメディア報道リーダーの間に構造的な乖離があることを発見。また、創業者の評判に関するギャップがAI業界特有であることを特定した。",
+        "category": "企業動向",
+        "url": "https://www.prnewswire.com/news-releases/openai-and-anthropic-dominate-ai-revenue--and-communicate-very-differently-302776605.html",
+        "source": "PRNewswire",
+        "publishedAt": "2026-05-28T15:00:00Z"
+      },
+      {
+        "title": "イーロンとSpaceXがAIトレーニングを10倍高速化",
+        "body": "イーロンは、SpaceXがC言語でゼロから独自の超最適化AIトレーニングソフトウェアを構築したと述べている。これはGoogle JAXフレームワークより10倍高速である。NVIDIAインターコネクトで接続された220,000基の最先端NVIDIA GB300 GPUからなる大規模クラスター上で動作するよう設計されている。",
+        "category": "企業動向",
+        "url": "https://www.nextbigfuture.com/2026/05/elon-and-spacex-have-made-ai-training-10-times-faster.html",
+        "source": "Next Big Future",
+        "publishedAt": "2026-05-28T07:26:13Z"
+      },
+      {
+        "title": "SpaceX、10倍の速度向上を目指し、大規模コンピュートクラスター向けにC言語でカスタムAIトレーニングスタックを開発",
+        "body": "SpaceXは220,000基のNvidia GPUを使用したカスタムAIトレーニングシステムを開発し、既存フレームワークに対する大幅な性能向上を目指している。これにより将来のプロジェクトに向けたAI能力が強化される。",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/spacex-ai-training-system-nvidia-gpus-1869615",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-05-28T07:08:01Z"
+      },
+      {
+        "title": "イリノイ州が画期的な法律を可決、トランプ大統領はAI規制の主導権をさらに失う",
+        "body": "イリノイ州議会は水曜日、画期的なAI安全法案（SB 315）を可決した。この法案は主要AI企業に対し、安全計画の公開、年次第三者テスト報告書の提出、重大インシデントの迅速な報告、そして新たなリスクを指摘する内部告発者の保護を義務付けるものである。",
+        "category": "規制・政策",
+        "url": "https://yro.slashdot.org/story/26/05/28/186254/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law",
+        "source": "Slashdot.org",
+        "publishedAt": "2026-05-28T20:00:00Z"
+      },
+      {
+        "title": "ヴァンス副大統領、戦争においてAIが人間より優位に立つべきではないと警告",
+        "body": "JD・ヴァンス副大統領は、新興AIが戦争でどのように使用されるかについて懸念を示し、空軍士官学校の卒業生たちに対し、テクノロジーが彼らの判断に取って代わることを許してはならないと訴えた。",
+        "category": "規制・政策",
+        "url": "https://www.nbcnews.com/politics/jd-vance/vance-warns-ai-not-outrank-humans-war-rcna347357",
+        "source": "NBC News",
+        "publishedAt": "2026-05-28T18:24:35Z"
+      },
+      {
+        "title": "AIが今やインドに助言を与えている。その安全性を誰が判断するのか？",
+        "body": "確認と検証が必要だ。AIが採用されるペースを考えると、消費者AI安全規範を早急に整備する必要がある。",
+        "category": "規制・政策",
+        "url": "https://www.thehindubusinessline.com/opinion/ai-now-advises-india-who-decides-its-safe/article71034348.ece",
+        "source": "BusinessLine",
+        "publishedAt": "2026-05-28T15:16:43Z"
+      },
+      {
+        "title": "RSIは新たなAGI——そしてそれは同様に定義が難しい | TechCrunch",
+        "body": "新世代のAIラボは再帰的自己改善に注力しているが、その目標は依然として達成困難であることが証明されつつある。",
+        "category": "研究",
+        "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+        "source": "TechCrunch",
+        "publishedAt": "2026-05-28T14:35:02Z"
+      },
+      {
+        "title": "Ziyouliangji（自由量级）、AIミュージックプラットフォームHittoで誰もが作曲家になることを目指す",
+        "body": "大規模AIモデルの競争がパラメータ競争から実世界での展開能力へと徐々にシフトする中、垂直シナリオに特化した中国のAIスタートアップが頭角を現し始めている。その中の一つが、Ziyouliangji Information Technologyである。",
+        "category": "企業動向",
+        "url": "http://technode.com/2026/05/28/ziyouliangji-aims-to-use-ai-music-platform-hitto-to-turn-everyone-into-a-song-creator/",
+        "source": "TechNode",
+        "publishedAt": "2026-05-28T15:10:07Z"
+      },
+      {
+        "title": "Peec AI、ローンチから16ヶ月でARR1,000万ドルを達成——ブランドがAI検索の最適化に殺到",
+        "body": "5ヶ月で収益が倍増し、ニューヨークに初の米国オフィスを開設。5ヶ月で収益が倍増し、ニューヨークに初の米国オフィスを開設。",
+        "category": "資金・M&A",
+        "url": "https://www.globenewswire.com/news-release/2026/05/28/3303009/0/en/Peec-AI-hits-10M-ARR-16-months-after-launch-as-brands-race-to-optimize-for-AI-search.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-28T14:00:00Z"
+      },
+      {
+        "title": "元Appleエンジニアが設立したリアルタイムAI動画スタートアップReactor、ジェフリー・カッツェンバーグのWndrCoらから5,900万ドルを調達（独占）",
+        "body": "既存の生成AIモデルはバッチ処理に基づいている：システムに指示を与え、計算を実行し、結果を返す。今、シリコンバレーのスタートアップが、生成AI動画（およびその他の出力）をリアルタイムで生成できると主張している——これは大きな可能性を秘めている。",
+        "category": "資金・M&A",
+        "url": "https://variety.com/2026/digital/news/reactor-real-time-ai-video-funding-jeffrey-katzenberg-1236755883/",
+        "source": "Variety",
+        "publishedAt": "2026-05-28T14:00:00Z"
+      },
+      {
+        "title": "あらゆるロボットに手を——60億ドル規模の中国スタートアップの挑戦",
+        "body": "LinkerBotは最低600ドルで器用なロボットハンドを製造している。同社はヒューマノイドと自動化工場の標準となることを目指し、最終的には人間の労働を完全に置き換えることを目標としている。",
+        "category": "応用技術",
+        "url": "https://www.wired.com/story/made-in-china-the-dollar6-billion-chinese-startup-making-hands-for-humanoids/",
+        "source": "Wired",
+        "publishedAt": "2026-05-28T19:14:31Z"
+      },
+      {
+        "title": "Wetour Robotics（NASDAQ: WETO）がIEEE Spectrumで特集——Tech Alert配信とOrchestra Physical AIローンチが本日同時に",
+        "body": "特集記事ではWetour RoboticsのマルチモーダルエッジAIアーキテクチャを紹介。VisionLink、Conductor、Spatial Intent Fusionが単一のOrchestraハブ上で100ミリ秒未満のレイテンシで連携動作。本日オースティンでライブデモンストレーションを予定。",
+        "category": "応用技術",
+        "url": "https://www.globenewswire.com/news-release/2026/05/28/3302949/0/en/Wetour-Robotics-NASDAQ-WETO-Featured-in-IEEE-Spectrum-as-Tech-Alert-Distribution-and-Orchestra-Physical-AI-Launch-Converge-Today.html",
+        "source": "GlobeNewswire",
+        "publishedAt": "2026-05-28T13:10:00Z"
+      },
+      {
+        "title": "Pudu Robotics創業者兼CEO Felix Zhang氏がBEYOND Expo 2026で講演：フィジカルAIのグローバル化——深センから数十億ドル規模のロボティクス大企業を構築する",
+        "body": "Pudu Robotics創業者兼CEO Felix Zhang氏がBEYOND Expo 2026で講演：フィジカルAIのグローバル化——深センから数十億ドル規模のロボティクス大企業を構築する",
+        "category": "応用技術",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/pudu-robotics-founder-ceo-felix-zhang-at-beyond-expo-2026-globalizing-physical-al-building-a-multi-billion-dollar-robotics-powerhouse-from-shenzhen/article71033530.ece",
+        "source": "BusinessLine",
+        "publishedAt": "2026-05-28T12:52:44Z"
+      },
+      {
+        "title": "ジェンスン・ファンが40兆ドルと発言——ウォール街が密かに買い集めているフィジカルAI株5銘柄",
+        "body": "NVIDIAのCEOジェンスン・ファンは、ヒューマノイドロボットと労働自動化を40兆ドルの総アドレス可能市場と呼んでおり、Animal Spiritsポッドキャストでは、Derek Yanが...",
+        "category": "人物発言",
+        "url": "https://247wallst.com/investing/2026/05/28/jensen-huang-just-said-40-trillion-here-are-5-physical-ai-stocks-wall-street-is-quietly-loading-up-on-before-the-rest-of-the-market-catches-on/",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-05-28T12:39:12Z"
+      },
+      {
+        "title": "RoboSense、2026年第1四半期にロボティクス向けLiDAR出荷が前年比1,458.8%急増、グローバル優位性を確立",
+        "body": "RoboSense、2026年第1四半期にロボティクス向けLiDAR出荷が前年比1,458.8%急増、グローバル優位性を確立",
+        "category": "応用技術",
+        "url": "https://www.thehindubusinessline.com/brandhub/pr-release/robosense-asserts-global-dominance-in-lidar-for-robotics-with-14588-yoy-shipment-surge-in-q1-2026/article71032239.ece",
+        "source": "BusinessLine",
+        "publishedAt": "2026-05-28T07:03:57Z"
+      },
+      {
+        "title": "PHLX半導体指数が史上最高の年初来パフォーマンス、5.7兆ドルに到達",
+        "body": "前例のない半導体ラリーは、AIがテック市場に変革的な影響を与えていることを浮き彫りにしているが、バリュエーションと集中リスクへの懸念も高まっている。",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/phlx-semiconductor-index-record-start-2026/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-28T16:50:52Z"
+      },
+      {
+        "title": "ByteDance、チップ不足の中AIインフラ支援のためカスタムCPUを開発",
+        "body": "ByteDanceのカスタムCPU開発は垂直統合への移行を示しており、従来のチップメーカーの市場シェアと収益に影響を与えている。",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/bytedance-custom-cpus-ai-infrastructure/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-28T11:05:16Z"
+      },
+      {
+        "title": "Mistral、インフラ構築を強化する中で独自チップ設計を検討とCEOが発言",
+        "body": "Mistralの半導体事業への野心は、OpenAIやAnthropicと競争する中で、このフランスのスタートアップがインフラのより多くを自社でコントロールしようとしていることを示している。",
+        "category": "企業動向",
+        "url": "https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-28T08:45:14Z"
+      },
+      {
+        "title": "Computex 2026プレビュー：アジア最大のテックショーで期待される9つの大発表",
+        "body": "台北での1週間は刺激的なものになりそうだ。AMD、Intel、Nvidia、そしてPC業界の主要プレイヤーが発表すると思われる内容を紹介する。主催者TAITRAによると、Computex 2026のテーマは「AI Together」。確かに、テック業界の...",
+        "category": "企業動向",
+        "url": "https://uk.pcmag.com/processors/165195/computex-2026-preview-9-big-reveals-we-expect-at-asias-largest-tech-show",
+        "source": "PCMag.com",
+        "publishedAt": "2026-05-28T13:15:15Z"
       }
     ]
   }

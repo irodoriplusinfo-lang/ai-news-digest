@@ -1,169 +1,4 @@
 {
-  "2026-05-23": {
-    "display": "2026年05月23日",
-    "articles": [
-      {
-        "title": "WhiteFiber、投資適格テクノロジー顧客と総契約額1億6000万ドル超のAIコンピュート契約を締結",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.prnewswire.com/news-releases/whitefiber-signs-ai-compute-agreement-with-total-contract-value-in-excess-of-160-million-with-investment-grade-technology-customer-302779342.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-21T21:00:00Z"
-      },
-      {
-        "title": "トランプ大統領がサイバー脅威からアメリカを守る大統領令の署名を延期した理由",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.dailysignal.com/2026/05/21/why-trump-delayed-an-executive-order-to-protect-america-from-cyber-threats/",
-        "source": "Daily Signal",
-        "publishedAt": "2026-05-21T20:45:00Z"
-      },
-      {
-        "title": "事前学習モデルを出荷するためのリアルな3D医療画像を大規模に合成",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://developer.nvidia.com/blog/synthesize-realistic-3d-medical-images-at-scale-to-ship-pre-trained-models/",
-        "source": "Nvidia.com",
-        "publishedAt": "2026-05-21T19:58:23Z"
-      },
-      {
-        "title": "BluSky AI Inc.、新規レギュレーションA募集のコーポレートコミュニケーションパートナーとしてIBNを発表",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.globenewswire.com/news-release/2026/05/21/3299667/29006/en/BluSky-AI-Inc-Announces-IBN-as-Its-Corporate-Communications-Partner-for-New-Regulation-A-Offering.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-21T18:20:00Z"
-      },
-      {
-        "title": "速度制限を破る：Wood Mackenzie、AIデータセンターの電力競争がプロジェクトと消費者を脅かすと警告",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.globenewswire.com/news-release/2026/05/21/3299471/0/en/Breaking-the-speed-limit-Wood-Mackenzie-warns-AI-data-centre-power-race-threatens-projects-and-consumers.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-21T14:00:00Z"
-      },
-      {
-        "title": "Shortcuts Playgroundの紹介：Claude CodeまたはCodexでApple Shortcutsを作成",
-        "body": "",
-        "category": "モデル発表",
-        "url": "https://www.macstories.net/stories/introducing-shortcuts-playground/",
-        "source": "MacStories",
-        "publishedAt": "2026-05-21T14:25:17Z"
-      },
-      {
-        "title": "AIは都市を設計できるが、人々にとって何が重要かを理解できるのか？人間がコントロールを維持するための10の方法",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://theconversation.com/ai-can-design-cities-but-can-it-understand-what-matters-to-people-10-ways-to-keep-humans-in-control-281471",
-        "source": "The Conversation Africa",
-        "publishedAt": "2026-05-21T13:49:08Z"
-      },
-      {
-        "title": "Versa、新しいMCPアーキテクチャでAIエージェントアクションにゼロトラスト制御を適用",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://siliconangle.com/2026/05/21/versa-applies-zero-trust-controls-ai-agent-actions-new-mcp-architecture/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-21T13:00:27Z"
-      },
-      {
-        "title": "OpenAIが他の誰も解けなかった80年前の数学の謎を解いた方法",
-        "body": "",
-        "category": "研究",
-        "url": "https://www.geeky-gadgets.com/autonomous-ai-math-breakthrough/",
-        "source": "Geeky Gadgets",
-        "publishedAt": "2026-05-21T12:13:00Z"
-      },
-      {
-        "title": "Oracleとトランプ政権下でのAI監視国家の台頭",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.activistpost.com/oracle-and-the-rise-of-the-ai-surveillance-state-under-trump-2/",
-        "source": "Activistpost.com",
-        "publishedAt": "2026-05-21T22:00:00Z"
-      },
-      {
-        "title": "マスク対アルトマン：大騒ぎの空振り",
-        "body": "",
-        "category": "人物発言",
-        "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
-        "source": "The Verge",
-        "publishedAt": "2026-05-21T13:41:50Z"
-      },
-      {
-        "title": "Grokがワシントンで不発、SpaceXのAI成長ストーリーに打撃",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://economictimes.indiatimes.com/tech/technology/grok-falls-flat-in-washington-undercutting-spacexs-ai-growth-story/articleshow/131247281.cms",
-        "source": "The Times of India",
-        "publishedAt": "2026-05-21T12:51:51Z"
-      },
-      {
-        "title": "SpaceX、訴訟懸念の中でGrokの「スパイシー」モードをIPOリスクとして指摘",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://cryptobriefing.com/spacex-grok-ipo-litigation-risk/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-21T06:24:21Z"
-      },
-      {
-        "title": "SpaceX IPO申請書が損失とマスクの支配を明らかに、AI に将来を賭ける",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.huffpost.com/entry/spacex-ipo-filing-elon-musk_n_6a0e7a84e4b06d9c25b8b6ee",
-        "source": "HuffPost",
-        "publishedAt": "2026-05-21T03:28:18Z"
-      },
-      {
-        "title": "Tesla、ハンズフリー操作のためにGrok音声アシスタントを統合",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://cryptobriefing.com/tesla-grok-voice-assistant-integration/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-21T02:14:31Z"
-      },
-      {
-        "title": "OpenAI、「逆連邦主義」戦略でワシントンの戦略書を書き換えたい",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://gizmodo.com/openai-wants-to-rewrite-its-washington-playbook-with-reverse-federalism-strategy-2000762053",
-        "source": "Gizmodo.com",
-        "publishedAt": "2026-05-21T18:25:05Z"
-      },
-      {
-        "title": "トランプ大統領、AIモデルの一般公開前の審査システムを創設する大統領令に署名へ",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://cryptobriefing.com/trump-executive-order-ai-model-vetting/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-21T15:33:58Z"
-      },
-      {
-        "title": "エンボディドAIが研究室から出るも、スケーリングの課題は残る",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.computerweekly.com/news/366643344/Embodied-AI-steps-out-of-the-lab-but-scaling-challenges-remain",
-        "source": "ComputerWeekly.com",
-        "publishedAt": "2026-05-21T12:24:00Z"
-      },
-      {
-        "title": "アナリストがAIインフラ需要加速でNvidiaの目標株価を引き上げ",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://cryptobriefing.com/analysts-raise-nvidia-price-targets/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-21T13:20:52Z"
-      },
-      {
-        "title": "カスタムAI ASICの現状（2026年5月）— Broadcom取引、Google TPU、Meta MTIAなど",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia",
-        "source": "Tom's Hardware UK",
-        "publishedAt": "2026-05-21T12:43:38Z"
-      }
-    ]
-  },
   "2026-05-24": {
     "display": "2026年05月24日",
     "articles": [
@@ -940,6 +775,147 @@
         "url": "https://uk.pcmag.com/processors/165195/computex-2026-preview-9-big-reveals-we-expect-at-asias-largest-tech-show",
         "source": "PCMag.com",
         "publishedAt": "2026-05-28T13:15:15Z"
+      }
+    ]
+  },
+  "2026-05-31": {
+    "display": "2026年05月31日",
+    "articles": [
+      {
+        "title": "謎のLLM「Hy3」がOpenRouterモデルランキングで大差をつけてトップに",
+        "body": "記事URL: https://minimaxir.com/2026/05/openrouter-hy3/\nコメントURL: https://news.ycombinator.com/item?id=48317294\nポイント: 3\nコメント数: 0",
+        "category": "モデル発表",
+        "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+        "source": "Minimaxir.com",
+        "publishedAt": "2026-05-29T00:09:35Z"
+      },
+      {
+        "title": "ロボタクシーの未来はシリコンバレーでは決まらない - Entrepreneur United Kingdom",
+        "body": "inDriveの創業者アルセン・トムスキーは、自律型モビリティの未来はシリコンバレーからではなく、次の10億人のユーザーにサービスを提供する急成長中の新興市場都市から生まれると主張している。",
+        "category": "応用技術",
+        "url": "https://uk.entrepreneur.com/technology/arsen-tomsky-indrive-robotaxi-future-emerging-markets",
+        "source": "Entrepreneur",
+        "publishedAt": "2026-05-29T08:53:26Z"
+      },
+      {
+        "title": "なぜ誰もがAIデータセンターを嫌うのか",
+        "body": "AIに反対する左右の連合が形成されつつある",
+        "category": "規制・政策",
+        "url": "https://www.theatlantic.com/podcasts/2026/05/why-everyone-hates-ai-data-centers/687355/",
+        "source": "The Atlantic",
+        "publishedAt": "2026-05-29T17:00:00Z"
+      },
+      {
+        "title": "アメリカはいかにして最も重要な防衛技術の習慣を失ったか",
+        "body": "4月15日、テクノロジーポッドキャスターのドワルケシュ・パテルは、NvidiaのCEOジェンスン・ファンとの2時間のインタビューを公開した。約40分間、パテルは同じ質問を6通りの言い方で尋ねた。その質問とはこうだ：アメリカ製のコンピュートがAIモデルを訓練しているとすれば...",
+        "category": "企業動向",
+        "url": "https://warontherocks.com/cogs-of-war/how-america-lost-its-most-important-defense-tech-habit/",
+        "source": "War on the Rocks",
+        "publishedAt": "2026-05-29T08:00:59Z"
+      },
+      {
+        "title": "Claude Codeの開発者が語るソフトウェアエンジニアの終焉",
+        "body": "Anthropicのボリス・チェルニーは私に、自動化による大規模な雇用喪失は本当に来ると語った——しかし雇用創出も来ると。さらに：教皇のAI回勅、そしてトランプがAI大統領令を撤回",
+        "category": "人物発言",
+        "url": "https://www.platformer.news/boris-cherny-interview-ai-jobs/",
+        "source": "Platformer.news",
+        "publishedAt": "2026-05-29T05:47:01Z"
+      },
+      {
+        "title": "Xcenaがメモリ中心型AIチップMX1の開発に1億3500万ドルを調達",
+        "body": "Xcenaの革新的なメモリ中心型AIチップは、データ処理効率を再定義し、AIハードウェア市場のダイナミクスを再構築する可能性がある。\nこの投稿「Xcenaがメモリ中心型AIチップMX1の開発に1億3500万ドルを調達」はCrypto Briefingに最初に掲載された。",
+        "category": "資金・M&A",
+        "url": "https://cryptobriefing.com/xcena-raises-135m-ai-chip-mx1/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-05-29T12:06:37Z"
+      },
+      {
+        "title": "AnthropicはいかにしてライバルのOpenAIを抜き去り1兆ドル近い評価額に達したか",
+        "body": "Anthropicの最新評価額9650億ドルは、3月の資金調達後のポストマネーで約8520億ドルと評価されていたOpenAIを上回った。",
+        "category": "企業動向",
+        "url": "https://indianexpress.com/article/explained/explained-ai/anthropic-valuation-overtakes-openai-ai-rivalry-10713866/",
+        "source": "The Indian Express",
+        "publishedAt": "2026-05-29T08:16:12Z"
+      },
+      {
+        "title": "AI大手Anthropicが1兆ドル近い評価額に到達",
+        "body": "人工知能企業Anthropicは木曜日、Claudeのメーカーを9650億ドルと評価する新たな資金調達ラウンドで650億ドルを調達したと発表した。これはChatGPTのメーカーであるライバルのOpenAIを上回る。",
+        "category": "資金・M&A",
+        "url": "https://www.hurriyetdailynews.com/ai-giant-anthropic-reaches-near-trillion-dollar-valuation-222663",
+        "source": "Hurriyet Daily News",
+        "publishedAt": "2026-05-29T07:54:02Z"
+      },
+      {
+        "title": "AnthropicがOpenAIを上回る評価額で650億ドルを調達",
+        "body": "人工知能企業Anthropicは、Claudeのメーカーを9650億ドルと評価する新たな資金調達ラウンドで650億ドルを調達した。これはライバルのOpenAIを上回る。",
+        "category": "資金・M&A",
+        "url": "https://www.rte.ie/news/business/2026/0529/1575845-anthropic-claudi-ai/",
+        "source": "RTE",
+        "publishedAt": "2026-05-29T06:59:01Z"
+      },
+      {
+        "title": "AI大手AnthropicがOpenAIを上回り1兆ドル近い評価額に到達",
+        "body": "サンフランシスコ：人工知能企業Anthropicは木曜日（5月28日）、Claudeのメーカーを9650億米ドルと評価する新たな資金調達ラウンドで650億米ドルを調達したと発表した。これはChatGPTのメーカーであるライバルのOpenAIを上回る。この最新の資金調達ラウンドは...",
+        "category": "資金・M&A",
+        "url": "https://www.channelnewsasia.com/business/ai-giant-anthropic-reaches-near-trillion-dollar-valuation-surpassing-openai-6148931",
+        "source": "CNA",
+        "publishedAt": "2026-05-29T03:16:51Z"
+      },
+      {
+        "title": "ビデオフライデー：エクストリーム全方向ロボット",
+        "body": "ビデオフライデーは、IEEE Spectrumロボティクスの仲間たちが集めた素晴らしいロボティクス動画の週刊セレクションです。また、今後数ヶ月間の予定されているロボティクスイベントの週間カレンダーも掲載しています。イベントの掲載についてはぜひお送りください。ICRA 2026: 1-5...",
+        "category": "応用技術",
+        "url": "https://spectrum.ieee.org/video-friday-rabona-soccer",
+        "source": "Ieee.org",
+        "publishedAt": "2026-05-29T17:00:01Z"
+      },
+      {
+        "title": "BMWがEVとハイブリッド車の製造にヒューマノイドロボットを採用",
+        "body": "BMWは今夏ドイツでパイロット運用を予定している新しいロボットを自動車生産の「未来」と呼んでいる",
+        "category": "応用技術",
+        "url": "https://www.autoexpress.co.uk/bmw/369694/bmw-employs-humanoid-robots-build-evs-and-hybrids",
+        "source": "AutoExpress",
+        "publishedAt": "2026-05-29T12:27:45Z"
+      },
+      {
+        "title": "あなたの次のBMWはヒューマノイドロボットによって製造されるかもしれない…",
+        "body": "BMWは今夏ドイツでパイロット運用を予定している新しいロボットを自動車生産の「未来」と呼んでいる",
+        "category": "応用技術",
+        "url": "https://www.autoexpress.co.uk/bmw/369694/your-next-bmw-could-be-built-humanoid-robot",
+        "source": "AutoExpress",
+        "publishedAt": "2026-05-29T12:27:45Z"
+      },
+      {
+        "title": "宇宙へ向かうヒューマノイドが宇宙飛行士支援に4本腕アプローチを採用",
+        "body": "微小重力では、歩行は存在しない。バランスも存在しない。存在するのは、表面をつかみ、道具を操作し、狭い通路を移動し、何かを押すたびに飛んでいかないようにする必要性だ。2本の足ではこれらの問題は何も解決しない。続く...",
+        "category": "応用技術",
+        "url": "https://newatlas.com/ai-humanoids/orbit-helios-four-arms-space-robot-astronaut/",
+        "source": "New Atlas",
+        "publishedAt": "2026-05-29T12:19:12Z"
+      },
+      {
+        "title": "「大規模な軌道AIを実現する能力は、十分な数のAIチップへのアクセスに依存しており、現在利用可能な数を大幅に上回る必要がある」：SpaceXが宇宙データセンターがチップ不足で頓挫する可能性を認める",
+        "body": "SpaceXは、同社の軌道AI構想がTeraFabプロジェクトを取り巻く希少なGPUと不確実な半導体パートナーシップに大きく依存していることを認めた。",
+        "category": "企業動向",
+        "url": "https://www.techradar.com/pro/our-ability-to-achieve-orbital-ai-at-scale-depends-on-our-ability-to-access-a-sufficient-number-of-ai-chips-significantly-more-than-are-currently-available-to-us-spacex-admits-its-aims-of-getting-data-centers-in-space-may-fall-short-due-to-a-lack-of-chips",
+        "source": "TechRadar",
+        "publishedAt": "2026-05-29T20:40:00Z"
+      },
+      {
+        "title": "テックダウンロード：チップ企業がこのAIの主要なボトルネックを解決するために光をどう活用しようとしているか",
+        "body": "Nvidiaはフォトニクスを開発する企業に数十億ドルを投資しており、業界ウォッチャーはこれがAIセクターに大きな効率向上をもたらす可能性があると述べている。",
+        "category": "企業動向",
+        "url": "https://www.cnbc.com/2026/05/29/tech-download-photonics-nvidia-ai-bottleneck.html",
+        "source": "CNBC",
+        "publishedAt": "2026-05-29T11:00:01Z"
+      },
+      {
+        "title": "AIとロボティクスにおけるQNXの勢いを受けてBlackBerry株が52週高値に急騰",
+        "body": "BlackBerryの株価は、自動車ソフトウェアとAIへの注力により急騰し、QNXとセキュアコミュニケーション部門で収益性と成長を達成した。ただしアナリストは将来の成長について慎重な姿勢を示している。",
+        "category": "企業動向",
+        "url": "https://www.ibtimes.com.au/blackberry-stock-soars-ai-automotive-software-expansion-1869723",
+        "source": "Ibtimes.com.au",
+        "publishedAt": "2026-05-29T14:50:41Z"
       }
     ]
   }

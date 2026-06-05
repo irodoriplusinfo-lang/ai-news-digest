@@ -1,169 +1,4 @@
 {
-  "2026-05-29": {
-    "display": "2026年05月29日",
-    "articles": [
-      {
-        "title": "AIで命を救う医師から起業家への転身者を紹介",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.forbes.com/sites/zinnialee/2026/05/27/meet-the-doctor-turned-entrepreneur-using-ai-to-save-lives/",
-        "source": "Forbes",
-        "publishedAt": "2026-05-27T21:19:05Z"
-      },
-      {
-        "title": "WhiteFiber、短期成長イニシアチブ支援のため1億ドルの遅延引出ファシリティを確保",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://www.prnewswire.com/news-releases/whitefiber-secures-100-million-delayed-draw-facility-to-support-near-term-growth-initiatives-302783598.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-27T21:00:00Z"
-      },
-      {
-        "title": "AIバブル",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://nooneshappy.com/article/the-ai-bubble/",
-        "source": "Nooneshappy.com",
-        "publishedAt": "2026-05-27T20:23:56Z"
-      },
-      {
-        "title": "AIに関する重要な視点 – 誰が勝者であり、なぜ勝つのかについての明確化",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.nextbigfuture.com/2026/05/key-ai-perspective-clarity-about-who-is-and-will-win-and-why.html",
-        "source": "Next Big Future",
-        "publishedAt": "2026-05-27T19:16:16Z"
-      },
-      {
-        "title": "AppLovin株が好調な決算とAI広告の勢いで12%急騰し576ドルに",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.ibtimes.com.au/applovin-shares-soar-12-576-strong-earnings-ai-advertising-momentum-1869579",
-        "source": "Ibtimes.com.au",
-        "publishedAt": "2026-05-27T16:45:19Z"
-      },
-      {
-        "title": "Floatboat発表：カレンダーから仕事を実行するプロアクティブエージェントOS",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.globenewswire.com/news-release/2026/05/27/3302263/0/en/Floatboat-Launches-The-Proactive-Agent-OS-That-Runs-Work-From-Your-Calendar.html",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-05-27T16:20:00Z"
-      },
-      {
-        "title": "Cook、AIが経済と金融システムにもたらす機会とリスク",
-        "body": "",
-        "category": "人物発言",
-        "url": "https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm",
-        "source": "Federalreserve.gov",
-        "publishedAt": "2026-05-27T19:55:00Z"
-      },
-      {
-        "title": "Doppel、フィッシングキャンペーンを根本から阻止するエージェンティックメールセキュリティを発表",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://siliconangle.com/2026/05/27/doppel-launches-agentic-email-security-disrupt-phishing-campaigns-source/",
-        "source": "SiliconANGLE News",
-        "publishedAt": "2026-05-27T13:00:41Z"
-      },
-      {
-        "title": "Gavin Newsom、2028年大統領選の可能性を前にAIでポピュリスト路線へ",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.nbcnews.com/politics/2028-election/gavin-newsom-populist-ai-2028-presidential-run-rcna346926",
-        "source": "NBC News",
-        "publishedAt": "2026-05-27T17:25:16Z"
-      },
-      {
-        "title": "進歩派の教皇がAIに狙いを定め、その奇跡を殺すリスク",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.foxnews.com/opinion/progressive-pope-takes-aim-ai-risks-killing-miracles",
-        "source": "Fox News",
-        "publishedAt": "2026-05-27T09:00:09Z"
-      },
-      {
-        "title": "トランプはAIパネルに誰を任命したか？ #政治",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://alltoc.com/politics/who-did-trump-appoint-to-the-ai-panel",
-        "source": "Alltoc.com",
-        "publishedAt": "2026-05-27T06:03:00Z"
-      },
-      {
-        "title": "トランプ、競争とロビー活動の報告を受けAI監督令を延期",
-        "body": "",
-        "category": "規制・政策",
-        "url": "https://www.naturalnews.com/2026-05-27-trump-delays-ai-oversight-order-amid-competition.html",
-        "source": "Naturalnews.com",
-        "publishedAt": "2026-05-27T06:00:00Z"
-      },
-      {
-        "title": "私たちはAIによって滅ぼされるのか？",
-        "body": "",
-        "category": "その他",
-        "url": "https://www.thefreedomfrequency.org/p/are-we-doomed-by-ai",
-        "source": "Thefreedomfrequency.org",
-        "publishedAt": "2026-05-27T00:00:00Z"
-      },
-      {
-        "title": "誇大宣伝の海の中で、聞こえてこないAIの「中身のない話」",
-        "body": "",
-        "category": "その他",
-        "url": "https://theconversation.com/in-a-sea-of-hype-here-are-the-ai-nothingburgers-you-dont-hear-about-283767",
-        "source": "The Conversation Africa",
-        "publishedAt": "2026-05-27T20:14:01Z"
-      },
-      {
-        "title": "Fireworks AI、150億ドルの評価額で資金調達を模索、10月の価格タグのほぼ4倍に",
-        "body": "",
-        "category": "資金・M&A",
-        "url": "https://cryptobriefing.com/fireworks-ai-funding-15-billion-valuation/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-27T00:33:23Z"
-      },
-      {
-        "title": "RoboSense、2026年第1四半期に出荷量が前年比1,458.8%急増し、ロボティクス向けLiDARで世界的優位性を主張",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.prnewswire.com/news-releases/robosense-asserts-global-dominance-in-lidar-for-robotics-with-1-458-8-yoy-shipment-surge-in-q1-2026--302783148.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-27T13:30:00Z"
-      },
-      {
-        "title": "oToBriteとTuring Drive、COMPUTEX 2026でフィジカルAI無人車両アプリケーションを展示",
-        "body": "",
-        "category": "応用技術",
-        "url": "https://www.prnewswire.com/news-releases/otobrite-and-turing-drive-showcase-physical-ai-unmanned-vehicle-applications-at-computex-2026-302781683.html",
-        "source": "PRNewswire",
-        "publishedAt": "2026-05-27T09:00:00Z"
-      },
-      {
-        "title": "SpaceX、軌道AIに十分なチップが見つからないことを認める、「現在入手可能な量を大幅に上回る」必要があると — IPO書類のリスク要因では、野心的なTeraFabプロジェクトが成功しない可能性も示唆",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-admits-it-cant-find-enough-chips-for-orbital-ai-yet-requires-significantly-more-than-are-currently-available-to-us-firms-risk-factors-in-ipo-paperwork-also-says-ambitious-terafab-project-may-not-be-successful",
-        "source": "Tom's Hardware UK",
-        "publishedAt": "2026-05-27T11:52:53Z"
-      },
-      {
-        "title": "Qualcomm-ByteDanceのASIC取引は、設計上米国の輸出規制を回避",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://thenextweb.com/news/qualcomm-bytedance-ai-chip-deal-asics/",
-        "source": "The Next Web",
-        "publishedAt": "2026-05-27T09:23:34Z"
-      },
-      {
-        "title": "ByteDance、AI拡大に最大700億ドルの設備投資を計画",
-        "body": "",
-        "category": "企業動向",
-        "url": "https://cryptobriefing.com/bytedance-70b-ai-capital-spending/",
-        "source": "Crypto Briefing",
-        "publishedAt": "2026-05-27T08:24:09Z"
-      }
-    ]
-  },
   "2026-05-30": {
     "display": "2026年05月30日",
     "articles": [
@@ -1060,6 +895,171 @@
         "url": "https://www.naturalnews.com/2026-06-03-nvidia-unveils-new-pc-chip-game-changer.html",
         "source": "Naturalnews.com",
         "publishedAt": "2026-06-03T06:00:00Z"
+      }
+    ]
+  },
+  "2026-06-06": {
+    "display": "2026年06月06日",
+    "articles": [
+      {
+        "title": "Metaの新AIモデル、リリース宣言から2ヶ月経っても宙ぶらりん状態",
+        "body": "Metaは最新の人工知能モデルを開発者に公開する計画を複数回延期したと、ウォール・ストリート・ジャーナル（WSJ）が水曜日（6月3日）に報じた。火曜日（6月2日）時点で、同テック大手は新モデルをリリースする予定がないという。",
+        "category": "企業動向",
+        "url": "https://www.pymnts.com/meta/2026/meta-new-ai-model-limbo-2-months-after-release-pledge/",
+        "source": "pymnts.com",
+        "publishedAt": "2026-06-04T13:52:32Z"
+      },
+      {
+        "title": "リークされたChatGPT 5.6モデルが示すOpenAIの次の一手",
+        "body": "World of AIは、OpenAIのGPT-5.6のリリース噂やマルチモーダル機能とトークン効率の潜在的な改善を含む、人工知能の最近の動向を検証している。もう一つの注目すべきアップデートは、Mythos Bのリークが報告されていることである。",
+        "category": "モデル発表",
+        "url": "https://www.geeky-gadgets.com/gpt-5-6-leaks-microsoft-build-2026/",
+        "source": "Geeky Gadgets",
+        "publishedAt": "2026-06-04T13:13:00Z"
+      },
+      {
+        "title": "「私たちはベストを尽くした！」",
+        "body": "子育てのメタファーがAIの理解を形作ってきたが、最近では創造者と機械の親子関係が逆転しつつある。",
+        "category": "その他",
+        "url": "https://www.nybooks.com/articles/2026/06/25/we-did-our-best-ai-meghan-ogieblyn/",
+        "source": "The New York Review of Books",
+        "publishedAt": "2026-06-04T12:00:00Z"
+      },
+      {
+        "title": "Nvidia、極めて高い精度で知られる予測AIスタートアップKumo AIを買収",
+        "body": "Nvidia Corp.はまた別の人工知能スタートアップを獲得し、設立4年のモデルメーカーKumo AI Inc.を買収した。同社は極めて正確なビジネス予測に特化したAIモデルを設計しており、Nvidiaが買収した一連のスタートアップの最新となる。",
+        "category": "資金・M&A",
+        "url": "https://siliconangle.com/2026/06/03/nvidia-snaps-kumo-ai-predictive-ai-startup-known-extreme-accuracy/",
+        "source": "SiliconANGLE News",
+        "publishedAt": "2026-06-04T03:19:50Z"
+      },
+      {
+        "title": "AI企業がウォール街での大型デビューに向けて猛進中。主要プレイヤーを紹介",
+        "body": "主要な人工知能企業の一部が、今年、驚異的なバリュエーションで新規株式公開に向かっている。AnthropicからSpaceX、OpenAIまで、テック大手は最先端を走るためにより多くの資本にアクセスすべく、株式の上場を目指している。",
+        "category": "企業動向",
+        "url": "https://japantoday.com/category/business/ai-companies-are-barreling-toward-huge-wall-street-debuts.-a-look-at-the-biggest-players",
+        "source": "Japan Today",
+        "publishedAt": "2026-06-04T21:56:59Z"
+      },
+      {
+        "title": "フロリダ州がOpenAIを提訴、ChatGPTが10代の自殺と銃乱射事件を可能にしたと主張",
+        "body": "フロリダ州はOpenAIとCEOのサム・アルトマンに対して、同種初の訴訟を起こした。同社がChatGPTによってもたらされる「深刻なリスク」、特に子供に対するリスクを故意に隠蔽したと主張し、フロリダ州の欺瞞的・不公正取引慣行法の下で責任を問おうとしている。",
+        "category": "規制・政策",
+        "url": "https://www.naturalnews.com/2026-06-04-florida-sues-openai-chatgpt-enabled-mass-shootings.html",
+        "source": "Naturalnews.com",
+        "publishedAt": "2026-06-04T06:00:00Z"
+      },
+      {
+        "title": "カナダのAI戦略は市民を保護すると約束。批評家はまだ実効性に欠けると指摘 | BetaKit",
+        "body": "カナダのAI戦略は市民を保護すると約束。批評家はまだ実効性に欠けると指摘 | BetaKit betakit.com",
+        "category": "規制・政策",
+        "url": "https://betakit.com/canadas-ai-strategy-promises-to-protect-citizens-critics-say-it-still-lacks-teeth/",
+        "source": "BetaKit",
+        "publishedAt": "2026-06-04T20:20:25Z"
+      },
+      {
+        "title": "新たな超党派法案がAIの州規制制限に向けて大きく前進",
+        "body": "議員らは、この法案草案は「法案が正式に提出される前に、利害関係者、専門家、一般市民からのフィードバックを求めることを意図している」と述べた。",
+        "category": "規制・政策",
+        "url": "https://gizmodo.com/new-bipartisan-legislation-takes-a-big-step-forward-in-restricting-state-regulation-of-ai-2000767560",
+        "source": "Gizmodo.com",
+        "publishedAt": "2026-06-04T19:40:54Z"
+      },
+      {
+        "title": "すべての人にAIを、詳細は後日：政府が大型支出のAI戦略を発表、重要な具体策はまだ不足",
+        "body": "政府は本日、待望の国家AI戦略を発表した。AI導入を支援するための多数の新プログラムとイニシアチブを特徴とする野心的な計画である。この戦略は信頼を強調し、「すべての人にAIを」というアプローチを掲げている。支出がこのアプローチを支配している。",
+        "category": "規制・政策",
+        "url": "https://www.michaelgeist.ca/2026/06/ai-for-all-details-to-follow-government-releases-a-big-spending-ai-strategy-that-is-still-short-on-the-specifics-that-matter/",
+        "source": "Michaelgeist.ca",
+        "publishedAt": "2026-06-04T17:30:43Z"
+      },
+      {
+        "title": "カナダが23億ドルのAI戦略を発表、カーニー首相が安全性について教皇レオからヒントを得る",
+        "body": "人工知能の道徳的問題について教皇レオ14世と電話会談した数日後、カナダのマーク・カーニー首相は木曜日にトロントに立ち、まさに教皇が求めていた国家的枠組みを発表した。「AI for All」と銘打たれたこの戦略は...",
+        "category": "規制・政策",
+        "url": "https://thenextweb.com/news/carney-canada-ai-strategy-pope-leo/",
+        "source": "The Next Web",
+        "publishedAt": "2026-06-04T17:26:43Z"
+      },
+      {
+        "title": "スクープ：議員らが一部の州AI規制を3年間先取りする法案を提出へ",
+        "body": "デイリー・シグナル独占——2人の下院議員が、3年間にわたってAI開発に対する州の制限を先取りする人工知能に関する連邦基準を策定する法案を提出する予定である。デイリー・シグナルが入手したコピーによると。",
+        "category": "規制・政策",
+        "url": "https://www.dailysignal.com/2026/06/04/scoop-lawmakers-to-introduce-bill-preempting-some-state-ai-regulations-for-three-years/",
+        "source": "Daily Signal",
+        "publishedAt": "2026-06-04T15:43:22Z"
+      },
+      {
+        "title": "「大規模な産業汚染者が裏庭にいることを望まない人がいるだろうか？」：世論の反発が高まる中、カリフォルニア住民がデータセンターを禁止",
+        "body": "モントレーパークがデータセンターにノーを突きつけた。AIとそれを動かすために必要なインフラに対する世論が反対に転じている。",
+        "category": "その他",
+        "url": "https://www.techradar.com/computing/who-wouldnt-want-a-large-scale-industrial-polluter-sitting-in-their-backyard-california-residents-ban-data-centers-as-public-backlash-grows",
+        "source": "TechRadar",
+        "publishedAt": "2026-06-04T12:37:24Z"
+      },
+      {
+        "title": "ファイザーとイーライリリーがこの13億ドルのAI創薬スタートアップに賭ける理由",
+        "body": "Chai Discoveryは大手製薬会社と協力し、最新の抗体AIモデルを使用して新しい治療法を見つけている。現在、フォーブスが入手した情報によると、34億ドルのバリュエーションで4億ドルのVC資金調達の交渉中である。",
+        "category": "資金・M&A",
+        "url": "https://www.forbes.com/sites/amyfeldman/2026/06/04/why-pfizer-and-eli-lilly-are-betting-on-this-13-billion-ai-drug-discovery-startup/",
+        "source": "Forbes",
+        "publishedAt": "2026-06-04T10:30:00Z"
+      },
+      {
+        "title": "Qualcommラウンドテーブルインタビュー書き起こし——コンピュート&ゲーミング担当SVPがSnapdragon C、RTX Spark、エージェント型AIの未来を語る",
+        "body": "Qualcommは低価格ノートPC市場で競争するためにSnapdragon Cを持っているが、Qualcommシリコン上にエージェント型AIエコシステム全体を構築することも目指している。",
+        "category": "企業動向",
+        "url": "https://www.tomshardware.com/pc-components/cpus/qualcomm-roundtable-interview-transcript-svp-of-compute-and-gaming-talks-snapdragon-c-rtx-spark-and-the-agentic-ai-future",
+        "source": "Tom's Hardware UK",
+        "publishedAt": "2026-06-04T16:00:00Z"
+      },
+      {
+        "title": "Pudu Roboticsと深圳CTIDが世界初の全シナリオ対応ロボットサービスホテルプロジェクトを開始",
+        "body": "商業サービスロボティクスの世界的リーダーであるPudu Roboticsと深圳文化観光産業発展有限公司（略称：深圳CITD）は...",
+        "category": "応用技術",
+        "url": "https://en.antaranews.com/news/417944/pudu-robotics-and-shenzhen-ctid-co-ltd-launch-the-worlds-first-full-scenario-robot-serviced-hotel-project",
+        "source": "Antaranews.com",
+        "publishedAt": "2026-06-04T06:26:24Z"
+      },
+      {
+        "title": "ZutaCoreがAIデータセンター向け無水二相冷却技術拡大のためシリーズCで1億ドルを調達",
+        "body": "ZutaCoreはシリーズC資金調達で1億ドルを確保した。三菱電機、キャリアベンチャーズ、サムスン電子がコーポレートベンチャー部門のサムスンベンチャーズを通じて参加した。この投資はグローバルな商業化を加速することを目的としている。",
+        "category": "資金・M&A",
+        "url": "https://www.storagereview.com/news/zutacore-raises-100m-series-c-to-scale-waterless-two-phase-cooling-for-ai-data-centers",
+        "source": "Storagereview.com",
+        "publishedAt": "2026-06-04T17:59:03Z"
+      },
+      {
+        "title": "TSMC CEO、AI成長に賭け、チップ価格引き上げを検討",
+        "body": "TSMCの戦略的な価格引き上げは、テックおよび暗号通貨セクター全体に波及し、生産コストに影響を与え、市場のダイナミクスを再形成する可能性がある。",
+        "category": "企業動向",
+        "url": "https://cryptobriefing.com/tsmc-ceo-ai-growth-chip-price-hike/",
+        "source": "Crypto Briefing",
+        "publishedAt": "2026-06-04T16:48:25Z"
+      },
+      {
+        "title": "NVIDIA（NVDA）、AIファクトリーの設計・運用のためのDSXプラットフォームを発表",
+        "body": "ヘッジファンドとウォール街からの強い信頼を背景に、NVIDIA Corporation（NASDAQ: NVDA）は最高のAIインフラ株の一つであり、上昇余地がある...",
+        "category": "企業動向",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-launches-dsx-platform-161112850.html",
+        "source": "Yahoo Entertainment",
+        "publishedAt": "2026-06-04T16:11:12Z"
+      },
+      {
+        "title": "Intelの謎めいた新データセンターGPUは、Nvidiaの Rubin CPXがほぼなりかけたものだった",
+        "body": "Intelはコードネーム「Crescent Island」と呼ばれる次世代データセンターGPUについて新たな情報を提供した。エンタープライズAI展開のサポートに加え、このGPUは、Nvidiaの買収後に昨年後半に棚上げされたとみられるRubin CPX GPUが残した空白を埋める可能性がある。",
+        "category": "企業動向",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/04/intels-new-gpu-is-what-nvidias-rubin-cpx-nearly-was/5250989",
+        "source": "Theregister.com",
+        "publishedAt": "2026-06-04T13:00:00Z"
+      },
+      {
+        "title": "Intel CEO、台湾の大規模テックイベントでAIイノベーションとパートナーシップを発表",
+        "body": "IntelはCOMPUTEX 2026で、AI重視の新技術、戦略的コラボレーション、次世代プロセッサを発表した。同社はXeonプロセッサとSambaNovaのユニットを組み合わせたラックスケールAIインフラプラットフォームを発表し、パートナーシップも併せて発表した。",
+        "category": "企業動向",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/intel-ceo-unveils-ai-innovations-and-partnerships-at-mega-tech-event-in-taiwan/articleshow/131504887.cms",
+        "source": "The Times of India",
+        "publishedAt": "2026-06-04T10:44:12Z"
       }
     ]
   }
